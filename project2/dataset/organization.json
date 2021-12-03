@@ -1,0 +1,1386 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "ABBREVIATION",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "NAME",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "CITY",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "COUNTRY",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "PROVINCE",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "ESTABLISHED",
+          "type" : "DATE"
+        }
+      ],
+      "items" : [
+        {
+          "abbreviation" : "AfDB",
+          "name" : "African Development Bank Group",
+          "city" : "Abidjan",
+          "country" : "CI",
+          "province" : "Abidjan",
+          "established" : "09-SEP-64"
+        },
+        {
+          "abbreviation" : "AU",
+          "name" : "African Union",
+          "city" : "Addis Ababa",
+          "country" : "ETH",
+          "province" : "Addis Ababa",
+          "established" : "25-MAY-63"
+        },
+        {
+          "abbreviation" : "UNAMID",
+          "name" : "African Union/United Nations Hybrid Operation in Darfur",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "31-JUL-07"
+        },
+        {
+          "abbreviation" : "ACP",
+          "name" : "African, Caribbean, and Pacific Group of States",
+          "city" : "Bruxelles",
+          "country" : "B",
+          "province" : "Bruxelles",
+          "established" : "05-JUN-75"
+        },
+        {
+          "abbreviation" : "OPANAL",
+          "name" : "Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean",
+          "city" : "Ciudad de México",
+          "country" : "MEX",
+          "province" : "Distrito Federal",
+          "established" : "13-FEB-67"
+        },
+        {
+          "abbreviation" : "AOSIS",
+          "name" : "Alliance of Small Island States",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "CAN",
+          "name" : "Andean Community",
+          "city" : "Lima",
+          "country" : "PE",
+          "province" : "Lima City",
+          "established" : "26-MAY-69"
+        },
+        {
+          "abbreviation" : "ABEDA",
+          "name" : "Arab Bank for Economic Development in Africa",
+          "city" : "Khartoum",
+          "country" : "SUD",
+          "province" : "Al-Kharṭūm",
+          "established" : "17-FEB-74"
+        },
+        {
+          "abbreviation" : "AFESD",
+          "name" : "Arab Fund for Economic and Social Development",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "16-MAY-68"
+        },
+        {
+          "abbreviation" : "AMU",
+          "name" : "Arab Maghreb Union",
+          "city" : "Rabat",
+          "country" : "MA",
+          "province" : "Rabat Sale Zemmour Zaer",
+          "established" : "16-FEB-89"
+        },
+        {
+          "abbreviation" : "AMF",
+          "name" : "Arab Monetary Fund",
+          "city" : "Abu Dhabi",
+          "country" : "UAE",
+          "province" : "United Arab Emirates",
+          "established" : "26-APR-76"
+        },
+        {
+          "abbreviation" : "ARF",
+          "name" : "ASEAN Regional Forum",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "25-JUL-94"
+        },
+        {
+          "abbreviation" : "APEC",
+          "name" : "Asia-Pacific Economic Cooperation",
+          "city" : "Singapore",
+          "country" : "SGP",
+          "province" : "Singapore",
+          "established" : "06-NOV-89"
+        },
+        {
+          "abbreviation" : "ADB",
+          "name" : "Asian Development Bank",
+          "city" : "Manila",
+          "country" : "RP",
+          "province" : "Metro Manila",
+          "established" : "19-DEC-66"
+        },
+        {
+          "abbreviation" : "ASEAN",
+          "name" : "Association of Southeast Asian Nations",
+          "city" : "Jakarta",
+          "country" : "RI",
+          "province" : "DKI Jakarta",
+          "established" : "07-AUG-67"
+        },
+        {
+          "abbreviation" : "AG",
+          "name" : "Australia Group",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "ANZUS",
+          "name" : "Australia-New Zealand-United States Security Treaty",
+          "city" : "Canberra",
+          "country" : "AUS",
+          "province" : "Australia Capital Territory",
+          "established" : "31-AUG-51"
+        },
+        {
+          "abbreviation" : "BA",
+          "name" : "Baltic Assembly",
+          "city" : "Rīga",
+          "country" : "LV",
+          "province" : "Latvia",
+          "established" : "12-MAY-90"
+        },
+        {
+          "abbreviation" : "BIS",
+          "name" : "Bank for International Settlements",
+          "city" : "Basel",
+          "country" : "CH",
+          "province" : "Basel-Stadt",
+          "established" : "19-JAN-30"
+        },
+        {
+          "abbreviation" : "BIMSTEC",
+          "name" : "Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "Benelux",
+          "name" : "Benelux Union",
+          "city" : "Bruxelles",
+          "country" : "B",
+          "province" : "Bruxelles",
+          "established" : "02-FEB-58"
+        },
+        {
+          "abbreviation" : "BSEC",
+          "name" : "Black Sea Economic Cooperation Zone",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "24-JUN-92"
+        },
+        {
+          "abbreviation" : "Caricom",
+          "name" : "Caribbean Community and Common Market",
+          "city" : "Georgetown",
+          "country" : "GUY",
+          "province" : "Guyana",
+          "established" : "04-JUL-73"
+        },
+        {
+          "abbreviation" : "CDB",
+          "name" : "Caribbean Development Bank",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "18-OCT-69"
+        },
+        {
+          "abbreviation" : "BDEAC",
+          "name" : "Central African States Development Bank",
+          "city" : "Brazzaville",
+          "country" : "RCB",
+          "province" : "Brazzaville",
+          "established" : "03-DEC-75"
+        },
+        {
+          "abbreviation" : "BCIE",
+          "name" : "Central American Bank for Economic Integration",
+          "city" : "Tegucigalpa",
+          "country" : "HN",
+          "province" : "Francisco Morazán",
+          "established" : "13-DEC-60"
+        },
+        {
+          "abbreviation" : "CACM",
+          "name" : "Central American Common Market",
+          "city" : "Ciudad de Guatemala",
+          "country" : "GCA",
+          "province" : "Guatemala",
+          "established" : "13-DEC-60"
+        },
+        {
+          "abbreviation" : "SICA",
+          "name" : "Central American Integration System",
+          "city" : "San Salvador",
+          "country" : "ES",
+          "province" : "El Salvador",
+          "established" : "13-DEC-91"
+        },
+        {
+          "abbreviation" : "CEI",
+          "name" : "Central European Initiative",
+          "city" : "Budapest",
+          "country" : "H",
+          "province" : "Budapest",
+          "established" : "10-NOV-89"
+        },
+        {
+          "abbreviation" : "CSTO",
+          "name" : "Collective Security Treaty Organization",
+          "city" : "Moskva",
+          "country" : "R",
+          "province" : "Moscow",
+          "established" : "07-OCT-02"
+        },
+        {
+          "abbreviation" : "CP",
+          "name" : "Colombo Plan",
+          "city" : "Colombo",
+          "country" : "CL",
+          "province" : "Sri Lanka",
+          "established" : "01-JUL-51"
+        },
+        {
+          "abbreviation" : "COMESA",
+          "name" : "Common Market for Eastern and Southern Africa",
+          "city" : "Lusaka",
+          "country" : "Z",
+          "province" : "Lusaka",
+          "established" : "08-DEC-94"
+        },
+        {
+          "abbreviation" : "C",
+          "name" : "Commonwealth",
+          "city" : "London",
+          "country" : "GB",
+          "province" : "London",
+          "established" : "31-DEC-31"
+        },
+        {
+          "abbreviation" : "CIS",
+          "name" : "Commonwealth of Independent States",
+          "city" : "Minsk",
+          "country" : "BY",
+          "province" : "Minsk City",
+          "established" : "08-DEC-91"
+        },
+        {
+          "abbreviation" : "CD",
+          "name" : "Community of Democracies",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "26-JUN-00"
+        },
+        {
+          "abbreviation" : "CELAC",
+          "name" : "Community of Latin American and Caribbean States",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "22-FEB-10"
+        },
+        {
+          "abbreviation" : "CPLP",
+          "name" : "Comuinidade dos Paises de Lingua Portuguesa",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "CICA",
+          "name" : "Conference of Interaction and Confidence-Building Measures in Asia",
+          "city" : "Almaty",
+          "country" : "KZ",
+          "province" : "Almaty City",
+          "established" : "13-SEP-99"
+        },
+        {
+          "abbreviation" : "CAEU",
+          "name" : "Council of Arab Economic Unity",
+          "city" : "Amman",
+          "country" : "JOR",
+          "province" : "Jordan",
+          "established" : "02-JUN-57"
+        },
+        {
+          "abbreviation" : "SELEC",
+          "name" : "Convention of the Southeast European Law Enforcement Center",
+          "city" : "Bucureşti",
+          "country" : "RO",
+          "province" : "Bucureşti",
+          "established" : "07-OCT-11"
+        },
+        {
+          "abbreviation" : "CE",
+          "name" : "Council of Europe",
+          "city" : "Strasbourg",
+          "country" : "F",
+          "province" : "Grand Est",
+          "established" : "05-MAY-49"
+        },
+        {
+          "abbreviation" : "CBSS",
+          "name" : "Council of the Baltic Sea States",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "06-MAR-92"
+        },
+        {
+          "abbreviation" : "Entente",
+          "name" : "Council of the Entente",
+          "city" : "Abidjan",
+          "country" : "CI",
+          "province" : "Abidjan",
+          "established" : "29-MAY-59"
+        },
+        {
+          "abbreviation" : "D-8",
+          "name" : "Developing Eight",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "14-JUN-97"
+        },
+        {
+          "abbreviation" : "EAC",
+          "name" : "East African Community",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "EADB",
+          "name" : "East African Development Bank",
+          "city" : "Kampala",
+          "country" : "EAU",
+          "province" : "Central",
+          "established" : "05-JUN-67"
+        },
+        {
+          "abbreviation" : "EAS",
+          "name" : "East Asia Summit",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "14-DEC-05"
+        },
+        {
+          "abbreviation" : "CEMAC",
+          "name" : "Economic and Monetary Community of Central Africa",
+          "city" : "Bangui",
+          "country" : "RCA",
+          "province" : "Central African Republic",
+          "established" : "08-DEC-64"
+        },
+        {
+          "abbreviation" : "EMU",
+          "name" : "Economic and Monetary Union",
+          "city" : "Bruxelles",
+          "country" : "B",
+          "province" : "Bruxelles",
+          "established" : "06-FEB-92"
+        },
+        {
+          "abbreviation" : "CEPGL",
+          "name" : "Economic Community of the Great Lakes Countries",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "19-SEP-76"
+        },
+        {
+          "abbreviation" : "ECOWAS",
+          "name" : "Economic Community of West African States",
+          "city" : "Lagos",
+          "country" : "NGR",
+          "province" : "Lagos",
+          "established" : "28-MAY-75"
+        },
+        {
+          "abbreviation" : "ECO",
+          "name" : "Economic Cooperation Organization",
+          "city" : "Tehran",
+          "country" : "IR",
+          "province" : "Tehran",
+          "established" : "28-JAN-85"
+        },
+        {
+          "abbreviation" : "EurasEC",
+          "name" : "Eurasian Economic Community",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "EAPC",
+          "name" : "Euro-Atlantic Partnership Council",
+          "city" : "Bruxelles",
+          "country" : "B",
+          "province" : "Bruxelles",
+          "established" : "07-NOV-91"
+        },
+        {
+          "abbreviation" : "EBRD",
+          "name" : "European Bank for Reconstruction and Development",
+          "city" : "London",
+          "country" : "GB",
+          "province" : "London",
+          "established" : "08-JAN-90"
+        },
+        {
+          "abbreviation" : "ECB",
+          "name" : "European Central Bank",
+          "city" : "Frankfurt",
+          "country" : "D",
+          "province" : "Hessen",
+          "established" : "31-MAY-98"
+        },
+        {
+          "abbreviation" : "EFTA",
+          "name" : "European Free Trade Association",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "03-JAN-60"
+        },
+        {
+          "abbreviation" : "EIB",
+          "name" : "European Investment Bank",
+          "city" : "Luxembourg",
+          "country" : "L",
+          "province" : "Luxembourg",
+          "established" : "25-MAR-57"
+        },
+        {
+          "abbreviation" : "CERN",
+          "name" : "European Organization for Nuclear Research",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "01-JUL-53"
+        },
+        {
+          "abbreviation" : "ESA",
+          "name" : "European Space Agency",
+          "city" : "Paris",
+          "country" : "F",
+          "province" : "Île-de-France",
+          "established" : "31-MAY-75"
+        },
+        {
+          "abbreviation" : "EU",
+          "name" : "European Union",
+          "city" : "Bruxelles",
+          "country" : "B",
+          "province" : "Bruxelles",
+          "established" : "06-FEB-92"
+        },
+        {
+          "abbreviation" : "EITI",
+          "name" : "Extractive Industry Transparency Initiative",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "FATF",
+          "name" : "Financial Action Task Force",
+          "city" : "Paris",
+          "country" : "F",
+          "province" : "Île-de-France",
+          "established" : "15-JUL-89"
+        },
+        {
+          "abbreviation" : "FAO",
+          "name" : "Food and Agriculture Organization",
+          "city" : "Roma",
+          "country" : "I",
+          "province" : "Lazio",
+          "established" : "16-OCT-45"
+        },
+        {
+          "abbreviation" : "FZ",
+          "name" : "Franc Zone",
+          "city" : "Paris",
+          "country" : "F",
+          "province" : "Île-de-France",
+          "established" : "20-DEC-45"
+        },
+        {
+          "abbreviation" : "GCTU",
+          "name" : "General Confederation of Trade Unions",
+          "city" : "Moskva",
+          "country" : "R",
+          "province" : "Moscow",
+          "established" : "15-APR-92"
+        },
+        {
+          "abbreviation" : "G-10",
+          "name" : "Group of 10",
+          "city" : "Paris",
+          "country" : "F",
+          "province" : "Île-de-France",
+          "established" : "01-OCT-62"
+        },
+        {
+          "abbreviation" : "G-11",
+          "name" : "Group of 11",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "22-JUN-84"
+        },
+        {
+          "abbreviation" : "G-15",
+          "name" : "Group of 15",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "G-20",
+          "name" : "Group of 20",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "16-DEC-99"
+        },
+        {
+          "abbreviation" : "G-24",
+          "name" : "Group of 24",
+          "city" : "Bruxelles",
+          "country" : "B",
+          "province" : "Bruxelles",
+          "established" : "31-JUL-89"
+        },
+        {
+          "abbreviation" : "G-3",
+          "name" : "Group of 3",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "01-OCT-90"
+        },
+        {
+          "abbreviation" : "G-5",
+          "name" : "Group of 5",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "21-SEP-85"
+        },
+        {
+          "abbreviation" : "G-7",
+          "name" : "Group of 7",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "21-SEP-85"
+        },
+        {
+          "abbreviation" : "G-77",
+          "name" : "Group of 77",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "14-JUN-64"
+        },
+        {
+          "abbreviation" : "G-8",
+          "name" : "Group of 8",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "01-OCT-75"
+        },
+        {
+          "abbreviation" : "G-9",
+          "name" : "Group of 9",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "GCC",
+          "name" : "Gulf Cooperation Council",
+          "city" : "Riyadh",
+          "country" : "SA",
+          "province" : "Al-Riyadh",
+          "established" : "25-MAY-81"
+        },
+        {
+          "abbreviation" : "InOC",
+          "name" : "Indian Ocean Commission",
+          "city" : "Port Louis",
+          "country" : "MS",
+          "province" : "Mauritius",
+          "established" : "21-DEC-82"
+        },
+        {
+          "abbreviation" : "IADB",
+          "name" : "Inter-American Development Bank",
+          "city" : "Washington",
+          "country" : "USA",
+          "province" : "District of Columbia",
+          "established" : "07-APR-59"
+        },
+        {
+          "abbreviation" : "IGAD",
+          "name" : "Inter-Governmental Authority on Development",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "IPU",
+          "name" : "Inter-Parliamentary Union",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "IAEA",
+          "name" : "International Atomic Energy Agency",
+          "city" : "Wien",
+          "country" : "A",
+          "province" : "Wien",
+          "established" : "26-OCT-56"
+        },
+        {
+          "abbreviation" : "IBRD",
+          "name" : "International Bank for Reconstruction and Development",
+          "city" : "Washington",
+          "country" : "USA",
+          "province" : "District of Columbia",
+          "established" : "22-JUL-44"
+        },
+        {
+          "abbreviation" : "ICC",
+          "name" : "International Chamber of Commerce",
+          "city" : "Paris",
+          "country" : "F",
+          "province" : "Île-de-France",
+          "established" : "01-JAN-19"
+        },
+        {
+          "abbreviation" : "ICAO",
+          "name" : "International Civil Aviation Organization",
+          "city" : "Montréal",
+          "country" : "CDN",
+          "province" : "Quebec",
+          "established" : "07-DEC-44"
+        },
+        {
+          "abbreviation" : "ICJ",
+          "name" : "International Court of Justice",
+          "city" : "Den Haag",
+          "country" : "NL",
+          "province" : "Zuid-Holland",
+          "established" : "25-JUN-45"
+        },
+        {
+          "abbreviation" : "ICCt",
+          "name" : "International Criminal Court",
+          "city" : "Den Haag",
+          "country" : "NL",
+          "province" : "Zuid-Holland",
+          "established" : "01-JUL-02"
+        },
+        {
+          "abbreviation" : "Interpol",
+          "name" : "International Criminal Police Organization",
+          "city" : "Lyon",
+          "country" : "F",
+          "province" : "Auvergne-Rhône-Alpes",
+          "established" : "13-JUN-56"
+        },
+        {
+          "abbreviation" : "IDA",
+          "name" : "International Development Association",
+          "city" : "Washington",
+          "country" : "USA",
+          "province" : "District of Columbia",
+          "established" : "25-JAN-60"
+        },
+        {
+          "abbreviation" : "IEA",
+          "name" : "International Energy Agency",
+          "city" : "Paris",
+          "country" : "F",
+          "province" : "Île-de-France",
+          "established" : "14-NOV-74"
+        },
+        {
+          "abbreviation" : "IFRCS",
+          "name" : "International Federation of Red Cross and Red Crescent Societies",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "05-MAY-19"
+        },
+        {
+          "abbreviation" : "IFC",
+          "name" : "International Finance Corporation",
+          "city" : "Washington",
+          "country" : "USA",
+          "province" : "District of Columbia",
+          "established" : "25-MAY-55"
+        },
+        {
+          "abbreviation" : "IFAD",
+          "name" : "International Fund for Agricultural Development",
+          "city" : "Roma",
+          "country" : "I",
+          "province" : "Lazio",
+          "established" : "01-NOV-74"
+        },
+        {
+          "abbreviation" : "IHO",
+          "name" : "International Hydrographic Organization",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "ILO",
+          "name" : "International Labor Organization",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "27-JUN-19"
+        },
+        {
+          "abbreviation" : "IMO",
+          "name" : "International Maritime Organization",
+          "city" : "London",
+          "country" : "GB",
+          "province" : "London",
+          "established" : "06-MAR-48"
+        },
+        {
+          "abbreviation" : "IMSO",
+          "name" : "International Mobile Satellite Organization",
+          "city" : "London",
+          "country" : "GB",
+          "province" : "London",
+          "established" : "14-APR-99"
+        },
+        {
+          "abbreviation" : "IMF",
+          "name" : "International Monetary Fund",
+          "city" : "Washington",
+          "country" : "USA",
+          "province" : "District of Columbia",
+          "established" : "22-JUL-44"
+        },
+        {
+          "abbreviation" : "IOC",
+          "name" : "International Olympic Committee",
+          "city" : "Lausanne",
+          "country" : "CH",
+          "province" : "Vaud",
+          "established" : "22-JUN-94"
+        },
+        {
+          "abbreviation" : "IOM",
+          "name" : "International Organization for Migration",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "05-DEC-51"
+        },
+        {
+          "abbreviation" : "ISO",
+          "name" : "International Organization for Standardization",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "01-FEB-47"
+        },
+        {
+          "abbreviation" : "OIF",
+          "name" : "International Organization of the French-speaking World",
+          "city" : "Paris",
+          "country" : "F",
+          "province" : "Île-de-France",
+          "established" : "20-MAR-70"
+        },
+        {
+          "abbreviation" : "ITSO",
+          "name" : "International Telecommunication Satellite Organization",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "ITU",
+          "name" : "International Telecommunication Union",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "17-MAY-65"
+        },
+        {
+          "abbreviation" : "ITUC",
+          "name" : "International Trade Union Confederation",
+          "city" : "Bruxelles",
+          "country" : "B",
+          "province" : "Bruxelles",
+          "established" : "02-NOV-06"
+        },
+        {
+          "abbreviation" : "IDB",
+          "name" : "Islamic Development Bank",
+          "city" : "Jeddah",
+          "country" : "SA",
+          "province" : "Makkah Al-Mokarramah",
+          "established" : "15-DEC-73"
+        },
+        {
+          "abbreviation" : "LAES",
+          "name" : "Latin American and Caribbean Economic System",
+          "city" : "Caracas",
+          "country" : "YV",
+          "province" : "Distrito Federal",
+          "established" : "17-OCT-75"
+        },
+        {
+          "abbreviation" : "LAIA",
+          "name" : "Latin American Integration Association",
+          "city" : "Montevideo",
+          "country" : "ROU",
+          "province" : "Uruguay",
+          "established" : "11-AUG-80"
+        },
+        {
+          "abbreviation" : "LAS",
+          "name" : "League of Arab States",
+          "city" : "Al Qahirah",
+          "country" : "ET",
+          "province" : "Egypt",
+          "established" : "22-MAR-45"
+        },
+        {
+          "abbreviation" : "MIGA",
+          "name" : "Multilateral Investment Guarantee Agency",
+          "city" : "Washington",
+          "country" : "USA",
+          "province" : "District of Columbia",
+          "established" : "11-APR-88"
+        },
+        {
+          "abbreviation" : "NAM",
+          "name" : "Nonaligned Movement",
+          "city" : "Jakarta",
+          "country" : "RI",
+          "province" : "DKI Jakarta",
+          "established" : "05-SEP-61"
+        },
+        {
+          "abbreviation" : "NC",
+          "name" : "Nordic Council",
+          "city" : "Stockholm",
+          "country" : "S",
+          "province" : "Stockholm",
+          "established" : "16-MAR-52"
+        },
+        {
+          "abbreviation" : "NIB",
+          "name" : "Nordic Investment Bank",
+          "city" : "Helsinki",
+          "country" : "SF",
+          "province" : "Uusimaa",
+          "established" : "04-DEC-75"
+        },
+        {
+          "abbreviation" : "NAFTA",
+          "name" : "North American Free Trade Agreement",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "17-DEC-92"
+        },
+        {
+          "abbreviation" : "NATO",
+          "name" : "North Atlantic Treaty Organization",
+          "city" : "Bruxelles",
+          "country" : "B",
+          "province" : "Bruxelles",
+          "established" : "03-APR-49"
+        },
+        {
+          "abbreviation" : "NEA",
+          "name" : "Nuclear Energy Agency",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "31-JAN-58"
+        },
+        {
+          "abbreviation" : "NSG",
+          "name" : "Nuclear Suppliers Group",
+          "city" : "Wien",
+          "country" : "A",
+          "province" : "Wien",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "GUAM",
+          "name" : "Organization for Democracy and Economic Development",
+          "city" : "Kyïv",
+          "country" : "UA",
+          "province" : "Kyïv",
+          "established" : "06-JUN-01"
+        },
+        {
+          "abbreviation" : "OECD",
+          "name" : "Organization for Economic Cooperation and Development",
+          "city" : "Paris",
+          "country" : "F",
+          "province" : "Île-de-France",
+          "established" : "14-DEC-60"
+        },
+        {
+          "abbreviation" : "OSCE",
+          "name" : "Organization for Security and Cooperation in Europe",
+          "city" : "Wien",
+          "country" : "A",
+          "province" : "Wien",
+          "established" : "31-DEC-94"
+        },
+        {
+          "abbreviation" : "OPCW",
+          "name" : "Organization for the Prohibition of Chemical Weapons",
+          "city" : "Den Haag",
+          "country" : "NL",
+          "province" : "Zuid-Holland",
+          "established" : "28-APR-97"
+        },
+        {
+          "abbreviation" : "OAS",
+          "name" : "Organization of American States",
+          "city" : "Washington",
+          "country" : "USA",
+          "province" : "District of Columbia",
+          "established" : "13-APR-90"
+        },
+        {
+          "abbreviation" : "OAPEC",
+          "name" : "Organization of Arab Petroleum Exporting Countries",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "08-JAN-68"
+        },
+        {
+          "abbreviation" : "OECS",
+          "name" : "Organization of Eastern Caribbean States",
+          "city" : "Castries",
+          "country" : "WL",
+          "province" : "Saint Lucia",
+          "established" : "17-JUN-81"
+        },
+        {
+          "abbreviation" : "OIC",
+          "name" : "Organization of Islamic Cooperation",
+          "city" : "Jeddah",
+          "country" : "SA",
+          "province" : "Makkah Al-Mokarramah",
+          "established" : "24-SEP-69"
+        },
+        {
+          "abbreviation" : "OPEC",
+          "name" : "Organization of Petroleum Exporting Countries",
+          "city" : "Wien",
+          "country" : "A",
+          "province" : "Wien",
+          "established" : "13-SEP-60"
+        },
+        {
+          "abbreviation" : "PIF",
+          "name" : "Pacific Islands Forum",
+          "city" : "Suva",
+          "country" : "FJI",
+          "province" : "Fiji",
+          "established" : "04-AUG-71"
+        },
+        {
+          "abbreviation" : "PFP",
+          "name" : "Partnership for Peace",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "10-JAN-94"
+        },
+        {
+          "abbreviation" : "PCA",
+          "name" : "Permanent Court of Arbitration",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "29-JUL-99"
+        },
+        {
+          "abbreviation" : "SPC",
+          "name" : "Secretariat of the Pacific Community",
+          "city" : "Noumea",
+          "country" : "NCL",
+          "province" : "New Caledonia",
+          "established" : "05-FEB-47"
+        },
+        {
+          "abbreviation" : "SCO",
+          "name" : "Shanghai Cooperation Organization",
+          "city" : "Beijing",
+          "country" : "CN",
+          "province" : "Beijing",
+          "established" : "14-JUN-01"
+        },
+        {
+          "abbreviation" : "SACEP",
+          "name" : "South Asia Co-operative Environment Program",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        },
+        {
+          "abbreviation" : "SAARC",
+          "name" : "South Asian Association for Regional Cooperation",
+          "city" : "Kathmandu",
+          "country" : "NEP",
+          "province" : "Nepal",
+          "established" : "08-DEC-85"
+        },
+        {
+          "abbreviation" : "Sparteca",
+          "name" : "South Pacific Regional Trade and Economic Cooperation Agreement",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "01-JAN-81"
+        },
+        {
+          "abbreviation" : "SACU",
+          "name" : "Southern African Customs Union",
+          "city" : "Windhoek",
+          "country" : "NAM",
+          "province" : "Namibia",
+          "established" : "11-DEC-69"
+        },
+        {
+          "abbreviation" : "SADC",
+          "name" : "Southern African Development Community",
+          "city" : "Gaborone",
+          "country" : "RB",
+          "province" : "Botswana",
+          "established" : "16-AUG-92"
+        },
+        {
+          "abbreviation" : "Mercosur",
+          "name" : "Southern Cone Common Market",
+          "city" : "Buenos Aires",
+          "country" : "RA",
+          "province" : "Distrito Federal",
+          "established" : "26-MAR-91"
+        },
+        {
+          "abbreviation" : "UNASUR",
+          "name" : "Union of South American Nations",
+          "city" : "Quito",
+          "country" : "EC",
+          "province" : "Ecuador",
+          "established" : "23-MAY-08"
+        },
+        {
+          "abbreviation" : "UN",
+          "name" : "United Nations",
+          "city" : "New York",
+          "country" : "USA",
+          "province" : "New York",
+          "established" : "25-JUN-45"
+        },
+        {
+          "abbreviation" : "UNCTAD",
+          "name" : "United Nations Conference on Trade and Development",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "30-DEC-64"
+        },
+        {
+          "abbreviation" : "UNDOF",
+          "name" : "United Nations Disengagement Observer Force",
+          "city" : "Dimashq",
+          "country" : "SYR",
+          "province" : "Dimashq",
+          "established" : "31-MAY-74"
+        },
+        {
+          "abbreviation" : "UNESCO",
+          "name" : "United Nations Educational, Scientific, and Cultural Organization",
+          "city" : "Paris",
+          "country" : "F",
+          "province" : "Île-de-France",
+          "established" : "15-NOV-45"
+        },
+        {
+          "abbreviation" : "UNHCR",
+          "name" : "United Nations High Commissioner for Refugees",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "03-DEC-49"
+        },
+        {
+          "abbreviation" : "UNIDO",
+          "name" : "United Nations Industrial Development Organization",
+          "city" : "Wien",
+          "country" : "A",
+          "province" : "Wien",
+          "established" : "16-NOV-66"
+        },
+        {
+          "abbreviation" : "UNITAR",
+          "name" : "United Nations Institute for Training and Research",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "11-DEC-63"
+        },
+        {
+          "abbreviation" : "UNMIT",
+          "name" : "United Nations Integrated Mission in Timor-Leste",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "24-AUG-06"
+        },
+        {
+          "abbreviation" : "UNIFIL",
+          "name" : "United Nations Interim Force in Lebanon",
+          "city" : "New York",
+          "country" : "USA",
+          "province" : "New York",
+          "established" : "19-MAR-78"
+        },
+        {
+          "abbreviation" : "UNISFA",
+          "name" : "United Nations Interim Security Force for Abyei",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "26-JUN-11"
+        },
+        {
+          "abbreviation" : "UNMOGIP",
+          "name" : "United Nations Military Observer Group in India and Pakistan",
+          "city" : "New York",
+          "country" : "USA",
+          "province" : "New York",
+          "established" : "23-JAN-49"
+        },
+        {
+          "abbreviation" : "MINURSO",
+          "name" : "United Nations Mission for the Referendum in Western Sahara",
+          "city" : "New York",
+          "country" : "USA",
+          "province" : "New York",
+          "established" : "28-APR-91"
+        },
+        {
+          "abbreviation" : "UNMIL",
+          "name" : "United Nations Mission in Liberia",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "18-SEP-03"
+        },
+        {
+          "abbreviation" : "UNMISS",
+          "name" : "United Nations Mission in the Republic of South Sudan",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "08-JUL-11"
+        },
+        {
+          "abbreviation" : "UNOCI",
+          "name" : "United Nations Operation in Cote d'Ivoire",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "26-FEB-04"
+        },
+        {
+          "abbreviation" : "MONUSCO",
+          "name" : "United Nations Organization Stabilization Mission in the Democratic Republic of the Congo",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "28-MAY-10"
+        },
+        {
+          "abbreviation" : "UNFICYP",
+          "name" : "United Nations Peacekeeping Force in Cyprus",
+          "city" : "New York",
+          "country" : "USA",
+          "province" : "New York",
+          "established" : "04-MAR-64"
+        },
+        {
+          "abbreviation" : "UNRWA",
+          "name" : "United Nations Relief and Works Agency for Palestine Refugees in the Near East",
+          "city" : "Wien",
+          "country" : "A",
+          "province" : "Wien",
+          "established" : "08-DEC-49"
+        },
+        {
+          "abbreviation" : "UNSC",
+          "name" : "United Nations Security Council",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "25-JUN-45"
+        },
+        {
+          "abbreviation" : "UNTSO",
+          "name" : "United Nations Truce Supervision Organization",
+          "city" : "Yerushalayim",
+          "country" : "IL",
+          "province" : "Yerushalayim",
+          "established" : "01-MAY-48"
+        },
+        {
+          "abbreviation" : "UPU",
+          "name" : "Universal Postal Union",
+          "city" : "Bern",
+          "country" : "CH",
+          "province" : "Bern",
+          "established" : "09-OCT-74"
+        },
+        {
+          "abbreviation" : "V4",
+          "name" : "Visegrád Group",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "15-FEB-91"
+        },
+        {
+          "abbreviation" : "WCO",
+          "name" : "World Customs Organization",
+          "city" : "Bruxelles",
+          "country" : "B",
+          "province" : "Bruxelles",
+          "established" : "15-DEC-50"
+        },
+        {
+          "abbreviation" : "WFTU",
+          "name" : "World Federation of Trade Unions",
+          "city" : "Praha",
+          "country" : "CZ",
+          "province" : "Praha",
+          "established" : "03-OCT-45"
+        },
+        {
+          "abbreviation" : "WHO",
+          "name" : "World Health Organization",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "22-JUL-46"
+        },
+        {
+          "abbreviation" : "WIPO",
+          "name" : "World Intellectual Property Organization",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "14-JUL-67"
+        },
+        {
+          "abbreviation" : "WMO",
+          "name" : "World Meteorological Organization",
+          "city" : "Genève",
+          "country" : "CH",
+          "province" : "Genève",
+          "established" : "11-OCT-47"
+        },
+        {
+          "abbreviation" : "UNWTO",
+          "name" : "World Tourism Organization",
+          "city" : "Madrid",
+          "country" : "E",
+          "province" : "Madrid",
+          "established" : "01-JAN-75"
+        },
+        {
+          "abbreviation" : "WTO",
+          "name" : "World Trade Organization",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : "14-APR-94"
+        },
+        {
+          "abbreviation" : "ZC",
+          "name" : "Zangger Committee",
+          "city" : "",
+          "country" : "",
+          "province" : "",
+          "established" : ""
+        }
+      ]
+    }
+  ]
+}

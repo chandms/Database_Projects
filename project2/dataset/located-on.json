@@ -1,0 +1,3600 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "CITY",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "PROVINCE",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "PROVINCE_AREA",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "COUNTRY",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "ISLAND",
+          "type" : "VARCHAR2"
+        }
+      ],
+      "items" : [
+        {
+          "city" : "Male",
+          "province" : "Maldives",
+          "province_area" : 300,
+          "country" : "MV",
+          "island" : "Male"
+        },
+        {
+          "city" : "Mumbai",
+          "province" : "Maharashtra",
+          "province_area" : 307713,
+          "country" : "IND",
+          "island" : "Salsette"
+        },
+        {
+          "city" : "Thane",
+          "province" : "Maharashtra",
+          "province_area" : 307713,
+          "country" : "IND",
+          "island" : "Salsette"
+        },
+        {
+          "city" : "Port Blair",
+          "province" : "Andaman and Nicobar Islands",
+          "province_area" : 8249,
+          "country" : "IND",
+          "island" : "South Andaman Island"
+        },
+        {
+          "city" : "Kavaratti",
+          "province" : "Lakshadweep",
+          "province_area" : 30,
+          "country" : "IND",
+          "island" : "Kavaratti"
+        },
+        {
+          "city" : "Kerkyra",
+          "province" : "Ionion Nison",
+          "province_area" : 2306,
+          "country" : "GR",
+          "island" : "Korfu"
+        },
+        {
+          "city" : "Chania",
+          "province" : "Kritis",
+          "province_area" : 8335,
+          "country" : "GR",
+          "island" : "Crete"
+        },
+        {
+          "city" : "Iraklio",
+          "province" : "Kritis",
+          "province_area" : 8335,
+          "country" : "GR",
+          "island" : "Crete"
+        },
+        {
+          "city" : "Ermoupoli",
+          "province" : "Notioy Aigaioy",
+          "province_area" : 5285,
+          "country" : "GR",
+          "island" : "Syros"
+        },
+        {
+          "city" : "Rhodes",
+          "province" : "Notioy Aigaioy",
+          "province_area" : 5285,
+          "country" : "GR",
+          "island" : "Rhodos"
+        },
+        {
+          "city" : "Chalkida",
+          "province" : "Stereas Elladas",
+          "province_area" : 15549,
+          "country" : "GR",
+          "island" : "Euboea"
+        },
+        {
+          "city" : "Mytilini",
+          "province" : "Boreioy Aigaioy",
+          "province_area" : 3835,
+          "country" : "GR",
+          "island" : "Lesbos"
+        },
+        {
+          "city" : "Larnaka",
+          "province" : "Cyprus",
+          "province_area" : 9251,
+          "country" : "CY",
+          "island" : "Cyprus"
+        },
+        {
+          "city" : "Lefkosia",
+          "province" : "Cyprus",
+          "province_area" : 9251,
+          "country" : "CY",
+          "island" : "Cyprus"
+        },
+        {
+          "city" : "Lemesos",
+          "province" : "Cyprus",
+          "province_area" : 9251,
+          "country" : "CY",
+          "island" : "Cyprus"
+        },
+        {
+          "city" : "Ajaccio",
+          "province" : "Corse",
+          "province_area" : 8679,
+          "country" : "F",
+          "island" : "Corse"
+        },
+        {
+          "city" : "Palma de Mallorca",
+          "province" : "Illes Balears",
+          "province_area" : 4991,
+          "country" : "E",
+          "island" : "Mallorca"
+        },
+        {
+          "city" : "San Cristóbal de La Laguna",
+          "province" : "Canarias",
+          "province_area" : 7447,
+          "country" : "E",
+          "island" : "Teneriffa"
+        },
+        {
+          "city" : "Santa Cruz de Tenerife",
+          "province" : "Canarias",
+          "province_area" : 7447,
+          "country" : "E",
+          "island" : "Teneriffa"
+        },
+        {
+          "city" : "Telde",
+          "province" : "Canarias",
+          "province_area" : 7447,
+          "country" : "E",
+          "island" : "Gran Canaria"
+        },
+        {
+          "city" : "Las Palmas de Gran Canaria",
+          "province" : "Canarias",
+          "province_area" : 7447,
+          "country" : "E",
+          "island" : "Gran Canaria"
+        },
+        {
+          "city" : "Catánia",
+          "province" : "Sicilia",
+          "province_area" : 25711,
+          "country" : "I",
+          "island" : "Sicilia"
+        },
+        {
+          "city" : "Messina",
+          "province" : "Sicilia",
+          "province_area" : 25711,
+          "country" : "I",
+          "island" : "Sicilia"
+        },
+        {
+          "city" : "Palermo",
+          "province" : "Sicilia",
+          "province_area" : 25711,
+          "country" : "I",
+          "island" : "Sicilia"
+        },
+        {
+          "city" : "Siracusa",
+          "province" : "Sicilia",
+          "province_area" : 25711,
+          "country" : "I",
+          "island" : "Sicilia"
+        },
+        {
+          "city" : "Cágliari",
+          "province" : "Sardegna",
+          "province_area" : 24089,
+          "country" : "I",
+          "island" : "Sardegna"
+        },
+        {
+          "city" : "Sássari",
+          "province" : "Sardegna",
+          "province_area" : 24089,
+          "country" : "I",
+          "island" : "Sardegna"
+        },
+        {
+          "city" : "Južno-Sachalinsk",
+          "province" : "Sakhalin",
+          "province_area" : 87100,
+          "country" : "R",
+          "island" : "Sachalin"
+        },
+        {
+          "city" : "Odense",
+          "province" : "Syddanmark",
+          "province_area" : 12206,
+          "country" : "DK",
+          "island" : "Fünen"
+        },
+        {
+          "city" : "Copenhagen",
+          "province" : "Hovedstaden",
+          "province_area" : 2561,
+          "country" : "DK",
+          "island" : "Seeland"
+        },
+        {
+          "city" : "Ronne",
+          "province" : "Hovedstaden",
+          "province_area" : 2561,
+          "country" : "DK",
+          "island" : "Bornholm"
+        },
+        {
+          "city" : "Helsingør",
+          "province" : "Hovedstaden",
+          "province_area" : 2561,
+          "country" : "DK",
+          "island" : "Seeland"
+        },
+        {
+          "city" : "Hillerød",
+          "province" : "Hovedstaden",
+          "province_area" : 2561,
+          "country" : "DK",
+          "island" : "Seeland"
+        },
+        {
+          "city" : "Sorø",
+          "province" : "Sjælland",
+          "province_area" : 7273,
+          "country" : "DK",
+          "island" : "Seeland"
+        },
+        {
+          "city" : "Akureyri",
+          "province" : "Iceland",
+          "province_area" : 103000,
+          "country" : "IS",
+          "island" : "Iceland"
+        },
+        {
+          "city" : "Reykjavik",
+          "province" : "Iceland",
+          "province_area" : 103000,
+          "country" : "IS",
+          "island" : "Iceland"
+        },
+        {
+          "city" : "Hafnarfjordur",
+          "province" : "Iceland",
+          "province_area" : 103000,
+          "country" : "IS",
+          "island" : "Iceland"
+        },
+        {
+          "city" : "Keflavik",
+          "province" : "Iceland",
+          "province_area" : 103000,
+          "country" : "IS",
+          "island" : "Iceland"
+        },
+        {
+          "city" : "Tórshavn",
+          "province" : "Faroe Islands",
+          "province_area" : 1400,
+          "country" : "FO",
+          "island" : "Streymoy"
+        },
+        {
+          "city" : "Cork",
+          "province" : "Ireland",
+          "province_area" : 70280,
+          "country" : "IRL",
+          "island" : "Ireland"
+        },
+        {
+          "city" : "Dublin",
+          "province" : "Ireland",
+          "province_area" : 70280,
+          "country" : "IRL",
+          "island" : "Ireland"
+        },
+        {
+          "city" : "Galway",
+          "province" : "Ireland",
+          "province_area" : 70280,
+          "country" : "IRL",
+          "island" : "Ireland"
+        },
+        {
+          "city" : "Limerick",
+          "province" : "Ireland",
+          "province_area" : 70280,
+          "country" : "IRL",
+          "island" : "Ireland"
+        },
+        {
+          "city" : "Valletta",
+          "province" : "Malta",
+          "province_area" : 316,
+          "country" : "M",
+          "island" : "Malta"
+        },
+        {
+          "city" : "Victoria",
+          "province" : "Malta",
+          "province_area" : 316,
+          "country" : "M",
+          "island" : "Gozo"
+        },
+        {
+          "city" : "Douglas",
+          "province" : "Isle of Man",
+          "province_area" : 588,
+          "country" : "GBM",
+          "island" : "Isle of Man"
+        },
+        {
+          "city" : "Ponta Delgada",
+          "province" : "Azores",
+          "province_area" : 2247,
+          "country" : "P",
+          "island" : "Sao Miguel"
+        },
+        {
+          "city" : "Funchal",
+          "province" : "Madeira",
+          "province_area" : 794,
+          "country" : "P",
+          "island" : "Madeira"
+        },
+        {
+          "city" : "Longyearbyen",
+          "province" : "Svalbard",
+          "province_area" : 62049,
+          "country" : "SVA",
+          "island" : "Svalbard"
+        },
+        {
+          "city" : "Middlesbrough",
+          "province" : "North East",
+          "province_area" : 8573,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Newcastle upon Tyne",
+          "province" : "North East",
+          "province_area" : 8573,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Sunderland",
+          "province" : "North East",
+          "province_area" : 8573,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Gateshead",
+          "province" : "North East",
+          "province_area" : 8573,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Birkenhead",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Blackburn",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Blackpool",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Bolton",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Manchester",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Oldham",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Preston",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Rochdale",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Salford",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "St Helens",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Stockport",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Warrington",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Wigan",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Liverpool",
+          "province" : "North West",
+          "province_area" : 14105,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Bradford",
+          "province" : "Yorkshire and the Humber",
+          "province_area" : 15407,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Doncaster",
+          "province" : "Yorkshire and the Humber",
+          "province_area" : 15407,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Rotherham",
+          "province" : "Yorkshire and the Humber",
+          "province_area" : 15407,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Sheffield",
+          "province" : "Yorkshire and the Humber",
+          "province_area" : 15407,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Wakefield",
+          "province" : "Yorkshire and the Humber",
+          "province_area" : 15407,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "York",
+          "province" : "Yorkshire and the Humber",
+          "province_area" : 15407,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Huddersfield",
+          "province" : "Yorkshire and the Humber",
+          "province_area" : 15407,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Kingston upon Hull",
+          "province" : "Yorkshire and the Humber",
+          "province_area" : 15407,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Leeds",
+          "province" : "Yorkshire and the Humber",
+          "province_area" : 15407,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Derby",
+          "province" : "East Midlands",
+          "province_area" : 15606,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Northampton",
+          "province" : "East Midlands",
+          "province_area" : 15606,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Nottingham",
+          "province" : "East Midlands",
+          "province_area" : 15606,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Leicester",
+          "province" : "East Midlands",
+          "province_area" : 15606,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Lincoln",
+          "province" : "East Midlands",
+          "province_area" : 15606,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Birmingham",
+          "province" : "West Midlands",
+          "province_area" : 12998,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Coventry",
+          "province" : "West Midlands",
+          "province_area" : 12998,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Solihull",
+          "province" : "West Midlands",
+          "province_area" : 12998,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Stoke-on-Trent",
+          "province" : "West Midlands",
+          "province_area" : 12998,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Sutton Coldfield",
+          "province" : "West Midlands",
+          "province_area" : 12998,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Telford",
+          "province" : "West Midlands",
+          "province_area" : 12998,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Wolverhampton",
+          "province" : "West Midlands",
+          "province_area" : 12998,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Worcester",
+          "province" : "West Midlands",
+          "province_area" : 12998,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Basildon",
+          "province" : "East of England",
+          "province_area" : 19108,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Cambridge",
+          "province" : "East of England",
+          "province_area" : 19108,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Chelmsford",
+          "province" : "East of England",
+          "province_area" : 19108,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Colchester",
+          "province" : "East of England",
+          "province_area" : 19108,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Norwich",
+          "province" : "East of England",
+          "province_area" : 19108,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Peterborough",
+          "province" : "East of England",
+          "province_area" : 19108,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Southend-on-Sea",
+          "province" : "East of England",
+          "province_area" : 19108,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Watford",
+          "province" : "East of England",
+          "province_area" : 19108,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Ipswich",
+          "province" : "East of England",
+          "province_area" : 19108,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Luton",
+          "province" : "East of England",
+          "province_area" : 19108,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "London",
+          "province" : "London",
+          "province_area" : 1572,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Basingstoke",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Brighton and Hove",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Crawley",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Eastbourne",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Maidstone",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Milton Keynes",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Oxford",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Portsmouth",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Reading",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Slough",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Southampton",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Woking",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Worthing",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Gillingham",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "High Wycombe",
+          "province" : "South East",
+          "province_area" : 19069,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Bournemouth",
+          "province" : "South West",
+          "province_area" : 23837,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Bristol",
+          "province" : "South West",
+          "province_area" : 23837,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Cheltenham",
+          "province" : "South West",
+          "province_area" : 23837,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Exeter",
+          "province" : "South West",
+          "province_area" : 23837,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Plymouth",
+          "province" : "South West",
+          "province_area" : 23837,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Poole",
+          "province" : "South West",
+          "province_area" : 23837,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Swindon",
+          "province" : "South West",
+          "province_area" : 23837,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Gloucester",
+          "province" : "South West",
+          "province_area" : 23837,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Aberdeen",
+          "province" : "Scotland",
+          "province_area" : 78133,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Dundee",
+          "province" : "Scotland",
+          "province_area" : 78133,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Edinburgh",
+          "province" : "Scotland",
+          "province_area" : 78133,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Glasgow",
+          "province" : "Scotland",
+          "province_area" : 78133,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Kirkwall",
+          "province" : "Scotland",
+          "province_area" : 78133,
+          "country" : "GB",
+          "island" : "Orkney Mainland"
+        },
+        {
+          "city" : "Lerwick",
+          "province" : "Scotland",
+          "province_area" : 78133,
+          "country" : "GB",
+          "island" : "Shetland Mainland"
+        },
+        {
+          "city" : "Cardiff",
+          "province" : "Wales",
+          "province_area" : 20735,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Newport",
+          "province" : "Wales",
+          "province_area" : 20735,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Swansea",
+          "province" : "Wales",
+          "province_area" : 20735,
+          "country" : "GB",
+          "island" : "Great Britain"
+        },
+        {
+          "city" : "Belfast",
+          "province" : "Northern Ireland",
+          "province_area" : 14130,
+          "country" : "GB",
+          "island" : "Ireland"
+        },
+        {
+          "city" : "Saint Peter Port",
+          "province" : "Guernsey",
+          "province_area" : 194,
+          "country" : "GBG",
+          "island" : "Guernsey"
+        },
+        {
+          "city" : "Saint Helier",
+          "province" : "Jersey",
+          "province_area" : 117,
+          "country" : "GBJ",
+          "island" : "Jersey"
+        },
+        {
+          "city" : "Al Manāmah",
+          "province" : "Bahrain",
+          "province_area" : 620,
+          "country" : "BRN",
+          "island" : "Bahrain"
+        },
+        {
+          "city" : "Ushuaia",
+          "province" : "Tierra del Fuego",
+          "province_area" : 21571,
+          "country" : "RA",
+          "island" : "Tierra del Fuego"
+        },
+        {
+          "city" : "Vitória",
+          "province" : "Espírito Santo",
+          "province_area" : 46077,
+          "country" : "BR",
+          "island" : "Ilha de Vitória"
+        },
+        {
+          "city" : "São Luís",
+          "province" : "Maranhão",
+          "province_area" : 331983,
+          "country" : "BR",
+          "island" : "Ilha de São Luís"
+        },
+        {
+          "city" : "Florianópolis",
+          "province" : "Santa Catarina",
+          "province_area" : 95346,
+          "country" : "BR",
+          "island" : "Ilha de Santa Catarina"
+        },
+        {
+          "city" : "Santos",
+          "province" : "São Paulo",
+          "province_area" : 248209,
+          "country" : "BR",
+          "island" : "Ilha de São Vicente"
+        },
+        {
+          "city" : "São Vicente",
+          "province" : "São Paulo",
+          "province_area" : 248209,
+          "country" : "BR",
+          "island" : "Ilha de São Vicente"
+        },
+        {
+          "city" : "Guarujá",
+          "province" : "São Paulo",
+          "province_area" : 248209,
+          "country" : "BR",
+          "island" : "Ilha de Sãnto Amaro"
+        },
+        {
+          "city" : "Stanley",
+          "province" : "Falkland Islands",
+          "province_area" : 12173,
+          "country" : "FALK",
+          "island" : "East Falkland"
+        },
+        {
+          "city" : "Colombo",
+          "province" : "Sri Lanka",
+          "province_area" : 65610,
+          "country" : "CL",
+          "island" : "Sri Lanka"
+        },
+        {
+          "city" : "Sri Jayawardhanapura",
+          "province" : "Sri Lanka",
+          "province_area" : 65610,
+          "country" : "CL",
+          "island" : "Sri Lanka"
+        },
+        {
+          "city" : "Xiamen",
+          "province" : "Fujian",
+          "province_area" : 123100,
+          "country" : "CN",
+          "island" : "Xiamen"
+        },
+        {
+          "city" : "Sanya",
+          "province" : "Hainan",
+          "province_area" : 34300,
+          "country" : "CN",
+          "island" : "Hainan"
+        },
+        {
+          "city" : "Haikou",
+          "province" : "Hainan",
+          "province_area" : 34300,
+          "country" : "CN",
+          "island" : "Hainan"
+        },
+        {
+          "city" : "Zhoushan",
+          "province" : "Zhejiang",
+          "province_area" : 101800,
+          "country" : "CN",
+          "island" : "Zhoushan"
+        },
+        {
+          "city" : "Changhua",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Chiayi",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "New Taipei",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Pingtung",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Taichung",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Tainan",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Taipei",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Taitung",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Taoyuan",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Hsinchu",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Hualien",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Jhongli",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Kaohsiung",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Keelung",
+          "province" : "Taiwan",
+          "province_area" : 36179,
+          "country" : "RC",
+          "island" : "Taiwan"
+        },
+        {
+          "city" : "Taipa-Coloane",
+          "province" : "Macao",
+          "province_area" : 16,
+          "country" : "MACX",
+          "island" : "Coloane"
+        },
+        {
+          "city" : "Taipa-Coloane",
+          "province" : "Macao",
+          "province_area" : 16,
+          "country" : "MACX",
+          "island" : "Taipa"
+        },
+        {
+          "city" : "Jeju",
+          "province" : "South Korea",
+          "province_area" : 98480,
+          "country" : "ROK",
+          "island" : "Jeju"
+        },
+        {
+          "city" : "Asahikawa",
+          "province" : "Hokkaido",
+          "province_area" : 83456,
+          "country" : "J",
+          "island" : "Hokkaido"
+        },
+        {
+          "city" : "Sapporo",
+          "province" : "Hokkaido",
+          "province_area" : 83456,
+          "country" : "J",
+          "island" : "Hokkaido"
+        },
+        {
+          "city" : "Hakodate",
+          "province" : "Hokkaido",
+          "province_area" : 83456,
+          "country" : "J",
+          "island" : "Hokkaido"
+        },
+        {
+          "city" : "Kushiro",
+          "province" : "Hokkaido",
+          "province_area" : 83456,
+          "country" : "J",
+          "island" : "Hokkaido"
+        },
+        {
+          "city" : "Aomori",
+          "province" : "Aomori",
+          "province_area" : 9644,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Morioka",
+          "province" : "Iwate",
+          "province_area" : 15278,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Sendai",
+          "province" : "Miyagi",
+          "province_area" : 7285,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Akita",
+          "province" : "Akita",
+          "province_area" : 11636,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Yamagata",
+          "province" : "Yamagata",
+          "province_area" : 9323,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Fukushima",
+          "province" : "Fukushima",
+          "province_area" : 13782,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Mito",
+          "province" : "Ibaraki",
+          "province_area" : 6095,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Utsunomiya",
+          "province" : "Tochigi",
+          "province_area" : 6408,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Maebashi",
+          "province" : "Gumma",
+          "province_area" : 6362,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Saitama",
+          "province" : "Saitama",
+          "province_area" : 3798,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Kawaguchi",
+          "province" : "Saitama",
+          "province_area" : 3798,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Chiba",
+          "province" : "Chiba",
+          "province_area" : 5156,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Funabashi",
+          "province" : "Chiba",
+          "province_area" : 5156,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Matsudo",
+          "province" : "Chiba",
+          "province_area" : 5156,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Ichikawa",
+          "province" : "Chiba",
+          "province_area" : 5156,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Kashiwa",
+          "province" : "Chiba",
+          "province_area" : 5156,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Machida",
+          "province" : "Tokyo",
+          "province_area" : 2187,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Tokyo",
+          "province" : "Tokyo",
+          "province_area" : 2187,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Hachioji",
+          "province" : "Tokyo",
+          "province_area" : 2187,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Fujisawa",
+          "province" : "Kanagawa",
+          "province_area" : 2415,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Sagamihara",
+          "province" : "Kanagawa",
+          "province_area" : 2415,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Yokohama",
+          "province" : "Kanagawa",
+          "province_area" : 2415,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Yokosuka",
+          "province" : "Kanagawa",
+          "province_area" : 2415,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Kawasaki",
+          "province" : "Kanagawa",
+          "province_area" : 2415,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Niigata",
+          "province" : "Niigata",
+          "province_area" : 12583,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Toyama",
+          "province" : "Toyama",
+          "province_area" : 4247,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Kanazawa",
+          "province" : "Ishikawa",
+          "province_area" : 4185,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Fukui",
+          "province" : "Fukui",
+          "province_area" : 4189,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Kofu",
+          "province" : "Yamanashi",
+          "province_area" : 4465,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Nagano",
+          "province" : "Nagano",
+          "province_area" : 13562,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Gifu",
+          "province" : "Gifu",
+          "province_area" : 10621,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Shizuoka",
+          "province" : "Shizuoka",
+          "province_area" : 7780,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Hamamatsu",
+          "province" : "Shizuoka",
+          "province_area" : 7780,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Nagoya",
+          "province" : "Aichi",
+          "province_area" : 5165,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Toyota",
+          "province" : "Aichi",
+          "province_area" : 5165,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Tsu",
+          "province" : "Mie",
+          "province_area" : 5777,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Otsu",
+          "province" : "Shiga",
+          "province_area" : 4017,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Kyoto",
+          "province" : "Kyoto",
+          "province_area" : 4613,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Osaka",
+          "province" : "Osaka",
+          "province_area" : 1898,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Sakai",
+          "province" : "Osaka",
+          "province_area" : 1898,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Higashiosaka",
+          "province" : "Osaka",
+          "province_area" : 1898,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Hirakata",
+          "province" : "Osaka",
+          "province_area" : 1898,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Amagasaki",
+          "province" : "Hyogo",
+          "province_area" : 8396,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Nishinomiya",
+          "province" : "Hyogo",
+          "province_area" : 8396,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Himeji",
+          "province" : "Hyogo",
+          "province_area" : 8396,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Kobe",
+          "province" : "Hyogo",
+          "province_area" : 8396,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Nara",
+          "province" : "Nara",
+          "province_area" : 3691,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Wakayama",
+          "province" : "Wakayama",
+          "province_area" : 4726,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Tottori",
+          "province" : "Tottori",
+          "province_area" : 3507,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Matsue",
+          "province" : "Shimane",
+          "province_area" : 6707,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Okayama",
+          "province" : "Okayama",
+          "province_area" : 7113,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Kurashiki",
+          "province" : "Okayama",
+          "province_area" : 7113,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Fukuyama",
+          "province" : "Hiroshima",
+          "province_area" : 8479,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Hiroshima",
+          "province" : "Hiroshima",
+          "province_area" : 8479,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Yamaguchi",
+          "province" : "Yamaguchi",
+          "province_area" : 6113,
+          "country" : "J",
+          "island" : "Honshu"
+        },
+        {
+          "city" : "Tokushima",
+          "province" : "Tokushima",
+          "province_area" : 4146,
+          "country" : "J",
+          "island" : "Shikoku"
+        },
+        {
+          "city" : "Takamatsu",
+          "province" : "Kagawa",
+          "province_area" : 1876,
+          "country" : "J",
+          "island" : "Shikoku"
+        },
+        {
+          "city" : "Matsuyama",
+          "province" : "Ehime",
+          "province_area" : 5678,
+          "country" : "J",
+          "island" : "Shikoku"
+        },
+        {
+          "city" : "Kochi",
+          "province" : "Kochi",
+          "province_area" : 7105,
+          "country" : "J",
+          "island" : "Shikoku"
+        },
+        {
+          "city" : "Fukuoka",
+          "province" : "Fukuoka",
+          "province_area" : 4977,
+          "country" : "J",
+          "island" : "Kyushu"
+        },
+        {
+          "city" : "Kitakyushu",
+          "province" : "Fukuoka",
+          "province_area" : 4977,
+          "country" : "J",
+          "island" : "Kyushu"
+        },
+        {
+          "city" : "Saga",
+          "province" : "Saga",
+          "province_area" : 2439,
+          "country" : "J",
+          "island" : "Kyushu"
+        },
+        {
+          "city" : "Nagasaki",
+          "province" : "Nagasaki",
+          "province_area" : 4105,
+          "country" : "J",
+          "island" : "Kyushu"
+        },
+        {
+          "city" : "Kumamoto",
+          "province" : "Kumamoto",
+          "province_area" : 7404,
+          "country" : "J",
+          "island" : "Kyushu"
+        },
+        {
+          "city" : "Oita",
+          "province" : "Oita",
+          "province_area" : 6339,
+          "country" : "J",
+          "island" : "Kyushu"
+        },
+        {
+          "city" : "Miyazaki",
+          "province" : "Miyazaki",
+          "province_area" : 7735,
+          "country" : "J",
+          "island" : "Kyushu"
+        },
+        {
+          "city" : "Kagoshima",
+          "province" : "Kagoshima",
+          "province_area" : 9188,
+          "country" : "J",
+          "island" : "Kyushu"
+        },
+        {
+          "city" : "Naha",
+          "province" : "Okinawa",
+          "province_area" : 2276,
+          "country" : "J",
+          "island" : "Okinawa"
+        },
+        {
+          "city" : "San Carlos",
+          "province" : "Ilocos",
+          "province_area" : 13012,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "San Fernando",
+          "province" : "Ilocos",
+          "province_area" : 13012,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Tuguegarao",
+          "province" : "Cagayan Valley",
+          "province_area" : 28228,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Angeles",
+          "province" : "Central Luzon",
+          "province_area" : 22014,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Cabanatuan",
+          "province" : "Central Luzon",
+          "province_area" : 22014,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Mabalacat",
+          "province" : "Central Luzon",
+          "province_area" : 22014,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Malolos",
+          "province" : "Central Luzon",
+          "province_area" : 22014,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "San Fernando",
+          "province" : "Central Luzon",
+          "province_area" : 22014,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "San Jose Del Monte",
+          "province" : "Central Luzon",
+          "province_area" : 22014,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Tarlac",
+          "province" : "Central Luzon",
+          "province_area" : 22014,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Antipolo",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Bacoor",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Batangas",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Binangonan",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Biñan",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Cabuyao",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Cainta",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Calamba",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Dasmarinas",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Rodriguez",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "San Mateo",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "San Pablo",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "San Pedro",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Santa Rosa",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Taytay",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "General Trias",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Imus",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Lipa",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Lucena",
+          "province" : "Calabarzon",
+          "province_area" : 16873,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Legazpi",
+          "province" : "Bicol",
+          "province_area" : 18155,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Bacolod",
+          "province" : "Western Visayas",
+          "province_area" : 20794,
+          "country" : "RP",
+          "island" : "Negros"
+        },
+        {
+          "city" : "Roxas",
+          "province" : "Western Visayas",
+          "province_area" : 20794,
+          "country" : "RP",
+          "island" : "Panay"
+        },
+        {
+          "city" : "Iloilo",
+          "province" : "Western Visayas",
+          "province_area" : 20794,
+          "country" : "RP",
+          "island" : "Panay"
+        },
+        {
+          "city" : "Cebu",
+          "province" : "Central Visayas",
+          "province_area" : 15885,
+          "country" : "RP",
+          "island" : "Cebu"
+        },
+        {
+          "city" : "Mandaue",
+          "province" : "Central Visayas",
+          "province_area" : 15885,
+          "country" : "RP",
+          "island" : "Cebu"
+        },
+        {
+          "city" : "Tagbilaran",
+          "province" : "Central Visayas",
+          "province_area" : 15885,
+          "country" : "RP",
+          "island" : "Bohol"
+        },
+        {
+          "city" : "Toledo",
+          "province" : "Central Visayas",
+          "province_area" : 15885,
+          "country" : "RP",
+          "island" : "Cebu"
+        },
+        {
+          "city" : "Lapu-Lapu",
+          "province" : "Central Visayas",
+          "province_area" : 15885,
+          "country" : "RP",
+          "island" : "Cebu"
+        },
+        {
+          "city" : "Tacloban",
+          "province" : "Eastern Visayas",
+          "province_area" : 23251,
+          "country" : "RP",
+          "island" : "Leyte"
+        },
+        {
+          "city" : "Pagadian",
+          "province" : "Zamboanga Peninsula",
+          "province_area" : 17046,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "Zamboanga",
+          "province" : "Zamboanga Peninsula",
+          "province_area" : 17046,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "Cagayan De Oro",
+          "province" : "Northern Mindanao",
+          "province_area" : 20496,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "Valencia",
+          "province" : "Northern Mindanao",
+          "province_area" : 20496,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "Iligan",
+          "province" : "Northern Mindanao",
+          "province_area" : 20496,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "Davao",
+          "province" : "Davao",
+          "province_area" : 20357,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "Tagum",
+          "province" : "Davao",
+          "province_area" : 20357,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "General Santos",
+          "province" : "Soccsksargen",
+          "province_area" : 22513,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "Koronadal",
+          "province" : "Soccsksargen",
+          "province_area" : 22513,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "Makati",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Malabon",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Mandaluyong",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Manila",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Marikina",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Muntinlupa",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Parañaque",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Pasay",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Pasig",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Quezon City",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Taguig",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Valenzuela",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Kalookan",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Las Piñas",
+          "province" : "Metro Manila",
+          "province_area" : 633,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Baguio",
+          "province" : "Cordillera",
+          "province_area" : 19422,
+          "country" : "RP",
+          "island" : "Luzon"
+        },
+        {
+          "city" : "Cotabato",
+          "province" : "Muslim Mindanao",
+          "province_area" : 21065,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "Marawi",
+          "province" : "Muslim Mindanao",
+          "province_area" : 21065,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "Jolo",
+          "province" : "Muslim Mindanao",
+          "province_area" : 21065,
+          "country" : "RP",
+          "island" : "Jolo"
+        },
+        {
+          "city" : "Butuan",
+          "province" : "Caraga",
+          "province_area" : 21478,
+          "country" : "RP",
+          "island" : "Mindanao"
+        },
+        {
+          "city" : "Calapan",
+          "province" : "Mimaropa",
+          "province_area" : 29620,
+          "country" : "RP",
+          "island" : "Mindoro"
+        },
+        {
+          "city" : "Puerto Princesa",
+          "province" : "Mimaropa",
+          "province_area" : 29620,
+          "country" : "RP",
+          "island" : "Palawan"
+        },
+        {
+          "city" : "Phuket",
+          "province" : "Thailand",
+          "province_area" : 514000,
+          "country" : "THA",
+          "island" : "Phuket"
+        },
+        {
+          "city" : "Georgetown",
+          "province" : "Pulau Pinang",
+          "province_area" : 1048,
+          "country" : "MAL",
+          "island" : "Penang"
+        },
+        {
+          "city" : "Sandakan",
+          "province" : "Sabah",
+          "province_area" : 73631,
+          "country" : "MAL",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Tawau",
+          "province" : "Sabah",
+          "province_area" : 73631,
+          "country" : "MAL",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Kota Kinabalu",
+          "province" : "Sabah",
+          "province_area" : 73631,
+          "country" : "MAL",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Sibu",
+          "province" : "Sarawak",
+          "province_area" : 124450,
+          "country" : "MAL",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Kuching Utara",
+          "province" : "Sarawak",
+          "province_area" : 124450,
+          "country" : "MAL",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Labuan",
+          "province" : "Labuan",
+          "province_area" : 91,
+          "country" : "MAL",
+          "island" : "Labuan"
+        },
+        {
+          "city" : "Bandar Seri Begawan",
+          "province" : "Brunei",
+          "province_area" : 5770,
+          "country" : "BRU",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Singapore",
+          "province" : "Singapore",
+          "province_area" : 632.6,
+          "country" : "SGP",
+          "island" : "Ujong"
+        },
+        {
+          "city" : "Banda Aceh",
+          "province" : "Aceh",
+          "province_area" : 57956,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Binjai",
+          "province" : "Sumatera Utara",
+          "province_area" : 72981,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Medan",
+          "province" : "Sumatera Utara",
+          "province_area" : 72981,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Pematang Siantar",
+          "province" : "Sumatera Utara",
+          "province_area" : 72981,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Padang",
+          "province" : "Sumatera Barat",
+          "province_area" : 42012,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Dumai",
+          "province" : "Riau",
+          "province_area" : 87023,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Pekanbaru",
+          "province" : "Riau",
+          "province_area" : 87023,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Jambi",
+          "province" : "Jambi",
+          "province_area" : 50058,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Palembang",
+          "province" : "Sumatera Selatan",
+          "province_area" : 91592,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Lubuk Linggau",
+          "province" : "Sumatera Selatan",
+          "province_area" : 91592,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Bengkulu",
+          "province" : "Bengkulu",
+          "province_area" : 19919,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Bandar Lampung",
+          "province" : "Lampung",
+          "province_area" : 34623,
+          "country" : "RI",
+          "island" : "Sumatra"
+        },
+        {
+          "city" : "Pangkal Pinang",
+          "province" : "Kepulauan Bangka Belitung",
+          "province_area" : 16424,
+          "country" : "RI",
+          "island" : "Bangka"
+        },
+        {
+          "city" : "Batam",
+          "province" : "Kepulauan Riau",
+          "province_area" : 8201,
+          "country" : "RI",
+          "island" : "Batam"
+        },
+        {
+          "city" : "Tanjung Pinang",
+          "province" : "Kepulauan Riau",
+          "province_area" : 8201,
+          "country" : "RI",
+          "island" : "Bintan"
+        },
+        {
+          "city" : "Jakarta",
+          "province" : "DKI Jakarta",
+          "province_area" : 664,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Bandung",
+          "province" : "Jawa Barat",
+          "province_area" : 35377,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Bekasi",
+          "province" : "Jawa Barat",
+          "province_area" : 35377,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Bogor",
+          "province" : "Jawa Barat",
+          "province_area" : 35377,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Cimahi",
+          "province" : "Jawa Barat",
+          "province_area" : 35377,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Cirebon",
+          "province" : "Jawa Barat",
+          "province_area" : 35377,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Depok",
+          "province" : "Jawa Barat",
+          "province_area" : 35377,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Sukabumi",
+          "province" : "Jawa Barat",
+          "province_area" : 35377,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Tasikmalaya",
+          "province" : "Jawa Barat",
+          "province_area" : 35377,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Pekalongan",
+          "province" : "Jawa Tengah",
+          "province_area" : 32800,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Semarang",
+          "province" : "Jawa Tengah",
+          "province_area" : 32800,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Surakarta",
+          "province" : "Jawa Tengah",
+          "province_area" : 32800,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Tegal",
+          "province" : "Jawa Tengah",
+          "province_area" : 32800,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Yogyakarta",
+          "province" : "DI Yogyakarta",
+          "province_area" : 3133,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Malang",
+          "province" : "Jawa Timur",
+          "province_area" : 47799,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Probolinggo",
+          "province" : "Jawa Timur",
+          "province_area" : 47799,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Surabaya",
+          "province" : "Jawa Timur",
+          "province_area" : 47799,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Kediri",
+          "province" : "Jawa Timur",
+          "province_area" : 47799,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Cilegon",
+          "province" : "Banten",
+          "province_area" : 9662,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Serang",
+          "province" : "Banten",
+          "province_area" : 9662,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Tangerang",
+          "province" : "Banten",
+          "province_area" : 9662,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Tangerang Selatan",
+          "province" : "Banten",
+          "province_area" : 9662,
+          "country" : "RI",
+          "island" : "Java"
+        },
+        {
+          "city" : "Denpasar",
+          "province" : "Bali",
+          "province_area" : 5780,
+          "country" : "RI",
+          "island" : "Bali"
+        },
+        {
+          "city" : "Mataram",
+          "province" : "Nusa Tenggara Barat",
+          "province_area" : 18572,
+          "country" : "RI",
+          "island" : "Lombok"
+        },
+        {
+          "city" : "Kupang",
+          "province" : "Nusa Tenggara Timur",
+          "province_area" : 48718,
+          "country" : "RI",
+          "island" : "Timor"
+        },
+        {
+          "city" : "Pontianak",
+          "province" : "Kalimantan Barat",
+          "province_area" : 147307,
+          "country" : "RI",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Palangkaraya",
+          "province" : "Kalimantan Tengah",
+          "province_area" : 153564,
+          "country" : "RI",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Bandjarmasin",
+          "province" : "Kalimantan Selatan",
+          "province_area" : 38744,
+          "country" : "RI",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Balikpapan",
+          "province" : "Kalimantan Timur",
+          "province_area" : 129067,
+          "country" : "RI",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Samarinda",
+          "province" : "Kalimantan Timur",
+          "province_area" : 129067,
+          "country" : "RI",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Tanjung Selor",
+          "province" : "Kalimantan Utara",
+          "province_area" : 75468,
+          "country" : "RI",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Tarakan",
+          "province" : "Kalimantan Utara",
+          "province_area" : 75468,
+          "country" : "RI",
+          "island" : "Borneo"
+        },
+        {
+          "city" : "Manado",
+          "province" : "Sulawesi Utara",
+          "province_area" : 13851,
+          "country" : "RI",
+          "island" : "Sulawesi"
+        },
+        {
+          "city" : "Palu",
+          "province" : "Sulawesi Tengah",
+          "province_area" : 61841,
+          "country" : "RI",
+          "island" : "Sulawesi"
+        },
+        {
+          "city" : "Makassar",
+          "province" : "Sulawesi Selatan",
+          "province_area" : 46717,
+          "country" : "RI",
+          "island" : "Sulawesi"
+        },
+        {
+          "city" : "Kendari",
+          "province" : "Sulawesi Tenggara",
+          "province_area" : 38067,
+          "country" : "RI",
+          "island" : "Sulawesi"
+        },
+        {
+          "city" : "Gorontalo",
+          "province" : "Gorontalo",
+          "province_area" : 11257,
+          "country" : "RI",
+          "island" : "Sulawesi"
+        },
+        {
+          "city" : "Mamuju",
+          "province" : "Sulawesi Barat",
+          "province_area" : 16787,
+          "country" : "RI",
+          "island" : "Sulawesi"
+        },
+        {
+          "city" : "Ambon",
+          "province" : "Maluku",
+          "province_area" : 46914,
+          "country" : "RI",
+          "island" : "Ambon"
+        },
+        {
+          "city" : "Ternate",
+          "province" : "Maluku Utara",
+          "province_area" : 31982,
+          "country" : "RI",
+          "island" : "Ternate"
+        },
+        {
+          "city" : "Manokwari",
+          "province" : "Papua Barat",
+          "province_area" : 97024,
+          "country" : "RI",
+          "island" : "New Guinea"
+        },
+        {
+          "city" : "Merauke",
+          "province" : "Papua",
+          "province_area" : 319036,
+          "country" : "RI",
+          "island" : "New Guinea"
+        },
+        {
+          "city" : "Jayapura",
+          "province" : "Papua",
+          "province_area" : 319036,
+          "country" : "RI",
+          "island" : "New Guinea"
+        },
+        {
+          "city" : "Dili",
+          "province" : "Timor-Leste",
+          "province_area" : 15007,
+          "country" : "TL",
+          "island" : "Timor"
+        },
+        {
+          "city" : "Lae",
+          "province" : "North",
+          "province_area" : 229400,
+          "country" : "PNG",
+          "island" : "New Guinea"
+        },
+        {
+          "city" : "Port Moresby",
+          "province" : "South",
+          "province_area" : 223900,
+          "country" : "PNG",
+          "island" : "New Guinea"
+        },
+        {
+          "city" : "Buka",
+          "province" : "Bougainville",
+          "province_area" : 9300,
+          "country" : "PNG",
+          "island" : "Buka"
+        },
+        {
+          "city" : "Honiara",
+          "province" : "Solomon Islands",
+          "province_area" : 28450,
+          "country" : "SOL",
+          "island" : "Guadalcanal"
+        },
+        {
+          "city" : "Port Vila",
+          "province" : "Vanuatu",
+          "province_area" : 14760,
+          "country" : "VU",
+          "island" : "Efate"
+        },
+        {
+          "city" : "Noumea",
+          "province" : "New Caledonia",
+          "province_area" : 19060,
+          "country" : "NCL",
+          "island" : "Grande Terre"
+        },
+        {
+          "city" : "Hobart",
+          "province" : "Tasmania",
+          "province_area" : 68018,
+          "country" : "AUS",
+          "island" : "Tasmania"
+        },
+        {
+          "city" : "Flying Fish Cove",
+          "province" : "Christmas Island",
+          "province_area" : 135,
+          "country" : "XMAS",
+          "island" : "Christmas Island"
+        },
+        {
+          "city" : "West Island",
+          "province" : "Cocos Islands",
+          "province_area" : 14,
+          "country" : "COCO",
+          "island" : "Pulau Panjang"
+        },
+        {
+          "city" : "Kingston",
+          "province" : "Norfolk Island",
+          "province_area" : 34.6,
+          "country" : "NORF",
+          "island" : "Norfolk Island"
+        },
+        {
+          "city" : "Auckland",
+          "province" : "New Zealand",
+          "province_area" : 268680,
+          "country" : "NZ",
+          "island" : "Te Ika-a-Maui (North Island)"
+        },
+        {
+          "city" : "Christchurch",
+          "province" : "New Zealand",
+          "province_area" : 268680,
+          "country" : "NZ",
+          "island" : "Te Waka-a-Maui (South Island)"
+        },
+        {
+          "city" : "Dunedin",
+          "province" : "New Zealand",
+          "province_area" : 268680,
+          "country" : "NZ",
+          "island" : "Te Waka-a-Maui (South Island)"
+        },
+        {
+          "city" : "Wellington",
+          "province" : "New Zealand",
+          "province_area" : 268680,
+          "country" : "NZ",
+          "island" : "Te Ika-a-Maui (North Island)"
+        },
+        {
+          "city" : "Hamilton",
+          "province" : "New Zealand",
+          "province_area" : 268680,
+          "country" : "NZ",
+          "island" : "Te Ika-a-Maui (North Island)"
+        },
+        {
+          "city" : "Ngerulmud",
+          "province" : "Palau",
+          "province_area" : 458,
+          "country" : "PAL",
+          "island" : "Babeldaob"
+        },
+        {
+          "city" : "Koror",
+          "province" : "Palau",
+          "province_area" : 458,
+          "country" : "PAL",
+          "island" : "Koror"
+        },
+        {
+          "city" : "Saipan",
+          "province" : "Northern Mariana Islands",
+          "province_area" : 477,
+          "country" : "NMIS",
+          "island" : "Saipan"
+        },
+        {
+          "city" : "Dededo",
+          "province" : "Guam",
+          "province_area" : 545,
+          "country" : "GUAM",
+          "island" : "Guam"
+        },
+        {
+          "city" : "Hagåtña",
+          "province" : "Guam",
+          "province_area" : 545,
+          "country" : "GUAM",
+          "island" : "Guam"
+        },
+        {
+          "city" : "Palikir",
+          "province" : "Micronesia",
+          "province_area" : 702,
+          "country" : "FSM",
+          "island" : "Pohnpei"
+        },
+        {
+          "city" : "Majuro",
+          "province" : "Marshall Islands",
+          "province_area" : 181.3,
+          "country" : "MH",
+          "island" : "Majuro"
+        },
+        {
+          "city" : "Yaren",
+          "province" : "Nauru",
+          "province_area" : 21,
+          "country" : "NAU",
+          "island" : "Nauru"
+        },
+        {
+          "city" : "Tarawa",
+          "province" : "Kiribati",
+          "province_area" : 717,
+          "country" : "KIR",
+          "island" : "Tarawa"
+        },
+        {
+          "city" : "Funafuti",
+          "province" : "Tuvalu",
+          "province_area" : 26,
+          "country" : "TUV",
+          "island" : "Fongafale"
+        },
+        {
+          "city" : "Fakaofo",
+          "province" : "Tokelau",
+          "province_area" : 12,
+          "country" : "TOK",
+          "island" : "Fakaofo"
+        },
+        {
+          "city" : "Apia",
+          "province" : "Samoa",
+          "province_area" : 2860,
+          "country" : "WS",
+          "island" : "Upolu"
+        },
+        {
+          "city" : "Pago Pago",
+          "province" : "American Samoa",
+          "province_area" : 199,
+          "country" : "AMSA",
+          "island" : "Tutuila"
+        },
+        {
+          "city" : "Mata-Utu",
+          "province" : "Wallis and Futuna",
+          "province_area" : 274,
+          "country" : "WF",
+          "island" : "Uvea"
+        },
+        {
+          "city" : "Suva",
+          "province" : "Fiji",
+          "province_area" : 18270,
+          "country" : "FJI",
+          "island" : "Viti Levu"
+        },
+        {
+          "city" : "Nukualofa",
+          "province" : "Tonga",
+          "province_area" : 748,
+          "country" : "TO",
+          "island" : "Tongatapu"
+        },
+        {
+          "city" : "Alofi",
+          "province" : "Niue",
+          "province_area" : 260,
+          "country" : "NIUE",
+          "island" : "Niue"
+        },
+        {
+          "city" : "Avarua",
+          "province" : "Cook Islands",
+          "province_area" : 240,
+          "country" : "COOK",
+          "island" : "Rarotonga"
+        },
+        {
+          "city" : "Papeete",
+          "province" : "French Polynesia",
+          "province_area" : 4167,
+          "country" : "FPOL",
+          "island" : "Tahiti"
+        },
+        {
+          "city" : "Rikitea",
+          "province" : "French Polynesia",
+          "province_area" : 4167,
+          "country" : "FPOL",
+          "island" : "Mangareva"
+        },
+        {
+          "city" : "Adamstown",
+          "province" : "Pitcairn",
+          "province_area" : 47,
+          "country" : "PITC",
+          "island" : "Pitcairn"
+        },
+        {
+          "city" : "Banjul",
+          "province" : "Gambia",
+          "province_area" : 11300,
+          "country" : "WAG",
+          "island" : "St. Mary's Island"
+        },
+        {
+          "city" : "Malabo",
+          "province" : "Insular",
+          "province_area" : 2034,
+          "country" : "GQ",
+          "island" : "Bioko"
+        },
+        {
+          "city" : "Mkokotoni",
+          "province" : "Kaskazini Unguja",
+          "province_area" : 470,
+          "country" : "EAT",
+          "island" : "Sansibar"
+        },
+        {
+          "city" : "Koani",
+          "province" : "Kusini Unguja",
+          "province_area" : 854,
+          "country" : "EAT",
+          "island" : "Sansibar"
+        },
+        {
+          "city" : "Zanzibar",
+          "province" : "Mjini Magharibi Unguja",
+          "province_area" : 230,
+          "country" : "EAT",
+          "island" : "Sansibar"
+        },
+        {
+          "city" : "Wete",
+          "province" : "Kaskazini Pemba",
+          "province_area" : 574,
+          "country" : "EAT",
+          "island" : "Pemba"
+        },
+        {
+          "city" : "Chake Chake",
+          "province" : "Kusini Pemba",
+          "province_area" : 332,
+          "country" : "EAT",
+          "island" : "Pemba"
+        },
+        {
+          "city" : "Praia",
+          "province" : "Cape Verde",
+          "province_area" : 4033,
+          "country" : "CV",
+          "island" : "Santiago"
+        },
+        {
+          "city" : "São Tomé",
+          "province" : "Sao Tome and Principe",
+          "province_area" : 1001,
+          "country" : "STP",
+          "island" : "Sao Tome"
+        },
+        {
+          "city" : "Victoria",
+          "province" : "Seychelles",
+          "province_area" : 455,
+          "country" : "SY",
+          "island" : "Mahe"
+        },
+        {
+          "city" : "Moroni",
+          "province" : "Comoros",
+          "province_area" : 2170,
+          "country" : "COM",
+          "island" : "Grand Comoro"
+        },
+        {
+          "city" : "Mamoutzou",
+          "province" : "Mayotte",
+          "province_area" : 374,
+          "country" : "MAYO",
+          "island" : "Mayotte"
+        },
+        {
+          "city" : "Antananarivo",
+          "province" : "Madagascar",
+          "province_area" : 587041,
+          "country" : "RM",
+          "island" : "Madagaskar"
+        },
+        {
+          "city" : "Antsirabe",
+          "province" : "Madagascar",
+          "province_area" : 587041,
+          "country" : "RM",
+          "island" : "Madagaskar"
+        },
+        {
+          "city" : "Antsiranana",
+          "province" : "Madagascar",
+          "province_area" : 587041,
+          "country" : "RM",
+          "island" : "Madagaskar"
+        },
+        {
+          "city" : "Fianarantsoa",
+          "province" : "Madagascar",
+          "province_area" : 587041,
+          "country" : "RM",
+          "island" : "Madagaskar"
+        },
+        {
+          "city" : "Majunga",
+          "province" : "Madagascar",
+          "province_area" : 587041,
+          "country" : "RM",
+          "island" : "Madagaskar"
+        },
+        {
+          "city" : "Tamatave",
+          "province" : "Madagascar",
+          "province_area" : 587041,
+          "country" : "RM",
+          "island" : "Madagaskar"
+        },
+        {
+          "city" : "Toliara",
+          "province" : "Madagascar",
+          "province_area" : 587041,
+          "country" : "RM",
+          "island" : "Madagaskar"
+        },
+        {
+          "city" : "Port Louis",
+          "province" : "Mauritius",
+          "province_area" : 2040,
+          "country" : "MS",
+          "island" : "Mauritius"
+        },
+        {
+          "city" : "Saint-Denis",
+          "province" : "Reunion",
+          "province_area" : 2510,
+          "country" : "REUN",
+          "island" : "Reunion"
+        },
+        {
+          "city" : "Saint-Paul",
+          "province" : "Reunion",
+          "province_area" : 2510,
+          "country" : "REUN",
+          "island" : "Reunion"
+        },
+        {
+          "city" : "Jamestown",
+          "province" : "Saint Helena",
+          "province_area" : 391,
+          "country" : "HELX",
+          "island" : "Saint Helena"
+        },
+        {
+          "city" : "Nuuk",
+          "province" : "Greenland",
+          "province_area" : 2175600,
+          "country" : "GL",
+          "island" : "Greenland"
+        },
+        {
+          "city" : "Saint-Pierre",
+          "province" : "Saint Pierre and Miquelon",
+          "province_area" : 242,
+          "country" : "SPMI",
+          "island" : "Saint Pierre"
+        },
+        {
+          "city" : "Hamilton",
+          "province" : "Bermuda",
+          "province_area" : 53.3,
+          "country" : "BERM",
+          "island" : "Grand Bermuda"
+        },
+        {
+          "city" : "Saanich",
+          "province" : "British Columbia",
+          "province_area" : 922509,
+          "country" : "CDN",
+          "island" : "Vancouver Island"
+        },
+        {
+          "city" : "Victoria",
+          "province" : "British Columbia",
+          "province_area" : 922509,
+          "country" : "CDN",
+          "island" : "Vancouver Island"
+        },
+        {
+          "city" : "St. John's",
+          "province" : "Newfoundland and Labrador",
+          "province_area" : 370510,
+          "country" : "CDN",
+          "island" : "Newfoundland"
+        },
+        {
+          "city" : "Gander",
+          "province" : "Newfoundland and Labrador",
+          "province_area" : 370510,
+          "country" : "CDN",
+          "island" : "Newfoundland"
+        },
+        {
+          "city" : "Montréal",
+          "province" : "Quebec",
+          "province_area" : 1356547,
+          "country" : "CDN",
+          "island" : "Île de Montréal"
+        },
+        {
+          "city" : "Laval",
+          "province" : "Quebec",
+          "province_area" : 1356547,
+          "country" : "CDN",
+          "island" : "Île Jésus"
+        },
+        {
+          "city" : "Iqaluit",
+          "province" : "Nunavut",
+          "province_area" : 1877787,
+          "country" : "CDN",
+          "island" : "Baffin Island"
+        },
+        {
+          "city" : "Hilo",
+          "province" : "Hawaii",
+          "province_area" : 16635,
+          "country" : "USA",
+          "island" : "Hawaii"
+        },
+        {
+          "city" : "Honolulu",
+          "province" : "Hawaii",
+          "province_area" : 16635,
+          "country" : "USA",
+          "island" : "Oahu"
+        },
+        {
+          "city" : "New York",
+          "province" : "New York",
+          "province_area" : 122057,
+          "country" : "USA",
+          "island" : "Long Island"
+        },
+        {
+          "city" : "New York",
+          "province" : "New York",
+          "province_area" : 122057,
+          "country" : "USA",
+          "island" : "Manhattan"
+        },
+        {
+          "city" : "New York",
+          "province" : "New York",
+          "province_area" : 122057,
+          "country" : "USA",
+          "island" : "Staten Island"
+        },
+        {
+          "city" : "Nassau",
+          "province" : "Bahamas",
+          "province_area" : 13940,
+          "country" : "BS",
+          "island" : "New Providence"
+        },
+        {
+          "city" : "Grand Turk",
+          "province" : "Turks and Caicos Islands",
+          "province_area" : 430,
+          "country" : "TUCA",
+          "island" : "Grand Turk"
+        },
+        {
+          "city" : "George Town",
+          "province" : "Cayman Islands",
+          "province_area" : 262,
+          "country" : "CAYM",
+          "island" : "Grand Cayman"
+        },
+        {
+          "city" : "Camagüey",
+          "province" : "Camagüey",
+          "province_area" : 15386,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Ciego de Ávila",
+          "province" : "Ciego de Ávila",
+          "province_area" : 6971,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Cienfuegos",
+          "province" : "Cienfuegos",
+          "province_area" : 4188,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "La Habana",
+          "province" : "La Habana",
+          "province_area" : 728,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Bayamo",
+          "province" : "Granma",
+          "province_area" : 8374,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Manzanillo",
+          "province" : "Granma",
+          "province_area" : 8374,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Guantánamo",
+          "province" : "Guantánamo",
+          "province_area" : 6167,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Holguín",
+          "province" : "Holguín",
+          "province_area" : 9215,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Victoria de las Tunas",
+          "province" : "Las Tunas",
+          "province_area" : 6592,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Matanzas",
+          "province" : "Matanzas",
+          "province_area" : 11791,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Pinar del Río",
+          "province" : "Pinar del Río",
+          "province_area" : 8883,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Sancti Spíritus",
+          "province" : "Sancti Spíritus",
+          "province_area" : 6777,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Santiago de Cuba",
+          "province" : "Santiago de Cuba",
+          "province_area" : 6227,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Santa Clara",
+          "province" : "Villa Clara",
+          "province_area" : 8411,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Nueva Gerona",
+          "province" : "Isla de la Juventud",
+          "province_area" : 2419,
+          "country" : "C",
+          "island" : "Isla de la Juventud"
+        },
+        {
+          "city" : "Artemisa",
+          "province" : "Artemisa",
+          "province_area" : 4003,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "San José de las Lajas",
+          "province" : "Mayabeque",
+          "province_area" : 3743,
+          "country" : "C",
+          "island" : "Cuba"
+        },
+        {
+          "city" : "Kingston",
+          "province" : "Jamaica",
+          "province_area" : 10991,
+          "country" : "JA",
+          "island" : "Jamaica"
+        },
+        {
+          "city" : "Cap-Haïtien",
+          "province" : "Haiti",
+          "province_area" : 27750,
+          "country" : "RH",
+          "island" : "Hispaniola"
+        },
+        {
+          "city" : "Carrefour",
+          "province" : "Haiti",
+          "province_area" : 27750,
+          "country" : "RH",
+          "island" : "Hispaniola"
+        },
+        {
+          "city" : "Cité Soleil",
+          "province" : "Haiti",
+          "province_area" : 27750,
+          "country" : "RH",
+          "island" : "Hispaniola"
+        },
+        {
+          "city" : "Delmas",
+          "province" : "Haiti",
+          "province_area" : 27750,
+          "country" : "RH",
+          "island" : "Hispaniola"
+        },
+        {
+          "city" : "Port-au-Prince",
+          "province" : "Haiti",
+          "province_area" : 27750,
+          "country" : "RH",
+          "island" : "Hispaniola"
+        },
+        {
+          "city" : "Pétion-Ville",
+          "province" : "Haiti",
+          "province_area" : 27750,
+          "country" : "RH",
+          "island" : "Hispaniola"
+        },
+        {
+          "city" : "Gonaïves",
+          "province" : "Haiti",
+          "province_area" : 27750,
+          "country" : "RH",
+          "island" : "Hispaniola"
+        },
+        {
+          "city" : "Puerto Plata",
+          "province" : "Dominican Republic",
+          "province_area" : 48730,
+          "country" : "DOM",
+          "island" : "Hispaniola"
+        },
+        {
+          "city" : "Santiago",
+          "province" : "Dominican Republic",
+          "province_area" : 48730,
+          "country" : "DOM",
+          "island" : "Hispaniola"
+        },
+        {
+          "city" : "Santo Domingo",
+          "province" : "Dominican Republic",
+          "province_area" : 48730,
+          "country" : "DOM",
+          "island" : "Hispaniola"
+        },
+        {
+          "city" : "Bayamón",
+          "province" : "Puerto Rico",
+          "province_area" : 8870,
+          "country" : "PR",
+          "island" : "Puerto Rico"
+        },
+        {
+          "city" : "Carolina",
+          "province" : "Puerto Rico",
+          "province_area" : 8870,
+          "country" : "PR",
+          "island" : "Puerto Rico"
+        },
+        {
+          "city" : "Ponce",
+          "province" : "Puerto Rico",
+          "province_area" : 8870,
+          "country" : "PR",
+          "island" : "Puerto Rico"
+        },
+        {
+          "city" : "San Juan",
+          "province" : "Puerto Rico",
+          "province_area" : 8870,
+          "country" : "PR",
+          "island" : "Puerto Rico"
+        },
+        {
+          "city" : "Charlotte Amalie",
+          "province" : "Virgin Islands",
+          "province_area" : 346,
+          "country" : "VIRG",
+          "island" : "Saint Thomas"
+        },
+        {
+          "city" : "Road Town",
+          "province" : "British Virgin Islands",
+          "province_area" : 153,
+          "country" : "BVI",
+          "island" : "Tortola"
+        },
+        {
+          "city" : "The Valley",
+          "province" : "Anguilla",
+          "province_area" : 102,
+          "country" : "AXA",
+          "island" : "Anguilla"
+        },
+        {
+          "city" : "Marigot",
+          "province" : "Saint Martin",
+          "province_area" : 54,
+          "country" : "SMAR",
+          "island" : "St. Martin"
+        },
+        {
+          "city" : "Philipsburg",
+          "province" : "Sint Maarten",
+          "province_area" : 34,
+          "country" : "SX",
+          "island" : "St. Martin"
+        },
+        {
+          "city" : "Gustavia",
+          "province" : "Saint Barthelemy",
+          "province_area" : 21,
+          "country" : "SBAR",
+          "island" : "St. Barthelemy"
+        },
+        {
+          "city" : "Basseterre",
+          "province" : "Saint Kitts and Nevis",
+          "province_area" : 269,
+          "country" : "KN",
+          "island" : "Saint Kitts"
+        },
+        {
+          "city" : "St. John's",
+          "province" : "Antigua and Barbuda",
+          "province_area" : 442,
+          "country" : "AG",
+          "island" : "Antigua"
+        },
+        {
+          "city" : "Brades",
+          "province" : "Montserrat",
+          "province_area" : 102,
+          "country" : "MNTS",
+          "island" : "Montserrat"
+        },
+        {
+          "city" : "Plymouth",
+          "province" : "Montserrat",
+          "province_area" : 102,
+          "country" : "MNTS",
+          "island" : "Montserrat"
+        },
+        {
+          "city" : "Basse-Terre",
+          "province" : "Guadeloupe",
+          "province_area" : 1628,
+          "country" : "GUAD",
+          "island" : "Basse-Terre"
+        },
+        {
+          "city" : "Roseau",
+          "province" : "Dominica",
+          "province_area" : 746,
+          "country" : "WD",
+          "island" : "Dominica"
+        },
+        {
+          "city" : "Fort-de-France",
+          "province" : "Martinique",
+          "province_area" : 1128,
+          "country" : "MART",
+          "island" : "Martinique"
+        },
+        {
+          "city" : "Castries",
+          "province" : "Saint Lucia",
+          "province_area" : 620,
+          "country" : "WL",
+          "island" : "Saint Lucia"
+        },
+        {
+          "city" : "Bridgetown",
+          "province" : "Barbados",
+          "province_area" : 430,
+          "country" : "BDS",
+          "island" : "Barbados"
+        },
+        {
+          "city" : "Kingstown",
+          "province" : "Saint Vincent and the Grenadines",
+          "province_area" : 389,
+          "country" : "WV",
+          "island" : "Saint Vincent"
+        },
+        {
+          "city" : "Saint George's",
+          "province" : "Grenada",
+          "province_area" : 344,
+          "country" : "WG",
+          "island" : "Grenada"
+        },
+        {
+          "city" : "Port-of-Spain",
+          "province" : "Trinidad and Tobago",
+          "province_area" : 5130,
+          "country" : "TT",
+          "island" : "Trinidad"
+        },
+        {
+          "city" : "Kralendijk",
+          "province" : "Bonaire",
+          "province_area" : 294,
+          "country" : "NLB",
+          "island" : "Bonaire"
+        },
+        {
+          "city" : "Willemstad",
+          "province" : "Curacao",
+          "province_area" : 444,
+          "country" : "CUR",
+          "island" : "Curacao"
+        },
+        {
+          "city" : "Oranjestad",
+          "province" : "Aruba",
+          "province_area" : 193,
+          "country" : "ARU",
+          "island" : "Aruba"
+        },
+        {
+          "city" : "Porlamar",
+          "province" : "Nueva Esparta",
+          "province_area" : 1151,
+          "country" : "YV",
+          "island" : "Isla Margarita"
+        },
+        {
+          "city" : "La Asuncion",
+          "province" : "Nueva Esparta",
+          "province_area" : 1151,
+          "country" : "YV",
+          "island" : "Isla Margarita"
+        },
+        {
+          "city" : "San Andres",
+          "province" : "San Andrés, Providencia y Santa Catalina",
+          "province_area" : 44,
+          "country" : "CO",
+          "island" : "San Andres"
+        }
+      ]
+    }
+  ]
+}

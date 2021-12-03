@@ -1,0 +1,4282 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "CITY",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "COUNTRY",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "COUNTRY_AREA",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "COUNTRY_CAPITAL",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "PROVINCE",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "OTHERNAME",
+          "type" : "VARCHAR2"
+        }
+      ],
+      "items" : [
+        {
+          "city" : "Wien",
+          "country" : "A",
+          "country_area" : 83850,
+          "country_capital" : "Wien",
+          "province" : "Wien",
+          "othername" : "Vienna"
+        },
+        {
+          "city" : "Tirana",
+          "country" : "AL",
+          "country_area" : 28750,
+          "country_capital" : "Tirana",
+          "province" : "Albania",
+          "othername" : "Tirane"
+        },
+        {
+          "city" : "Ngiva",
+          "country" : "ANG",
+          "country_area" : 1246700,
+          "country_capital" : "Luanda",
+          "province" : "Cunene",
+          "othername" : "Ondjiva"
+        },
+        {
+          "city" : "Sumgayit",
+          "country" : "AZ",
+          "country_area" : 86600,
+          "country_capital" : "Baku",
+          "province" : "Azerbaijan",
+          "othername" : "Sumqayit"
+        },
+        {
+          "city" : "Antwerpen",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Antwerpen",
+          "othername" : "Antwerp"
+        },
+        {
+          "city" : "Antwerpen",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Antwerpen",
+          "othername" : "Anvers"
+        },
+        {
+          "city" : "Bruxelles",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Bruxelles",
+          "othername" : "Brussel"
+        },
+        {
+          "city" : "Bruxelles",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Bruxelles",
+          "othername" : "Brussels"
+        },
+        {
+          "city" : "Molenbeek-Saint-Jean",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Bruxelles",
+          "othername" : "Sint-Jans-Molenbeek"
+        },
+        {
+          "city" : "Schaerbeek",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Bruxelles",
+          "othername" : "Schaarbeek"
+        },
+        {
+          "city" : "Mons",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Hainaut",
+          "othername" : "Bergen"
+        },
+        {
+          "city" : "Liège",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Liège",
+          "othername" : "Luik"
+        },
+        {
+          "city" : "Namur",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Namur",
+          "othername" : "Namen"
+        },
+        {
+          "city" : "Gent",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Oost-Vlaanderen",
+          "othername" : "Gand"
+        },
+        {
+          "city" : "Gent",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Oost-Vlaanderen",
+          "othername" : "Ghent"
+        },
+        {
+          "city" : "Leuven",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "Vlaams-Brabant",
+          "othername" : "Louvain"
+        },
+        {
+          "city" : "Brugge",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "West-Vlaanderen",
+          "othername" : "Bruges"
+        },
+        {
+          "city" : "Ostende",
+          "country" : "B",
+          "country_area" : 30510,
+          "country_capital" : "Bruxelles",
+          "province" : "West-Vlaanderen",
+          "othername" : "Oostende"
+        },
+        {
+          "city" : "Santa Cruz de la Sierra",
+          "country" : "BOL",
+          "country_area" : 1098580,
+          "country_capital" : "La Paz",
+          "province" : "Santa Cruz",
+          "othername" : "Santa Cruz"
+        },
+        {
+          "city" : "Jaboatão",
+          "country" : "BR",
+          "country_area" : 8511965,
+          "country_capital" : "Brasília",
+          "province" : "Pernambuco",
+          "othername" : "Jaboatao dos Guararapes"
+        },
+        {
+          "city" : "Embu",
+          "country" : "BR",
+          "country_area" : 8511965,
+          "country_capital" : "Brasília",
+          "province" : "São Paulo",
+          "othername" : "Embu das Artes"
+        },
+        {
+          "city" : "Mogi Guaçu",
+          "country" : "BR",
+          "country_area" : 8511965,
+          "country_capital" : "Brasília",
+          "province" : "São Paulo",
+          "othername" : "Moji Guacu"
+        },
+        {
+          "city" : "Al Manāmah",
+          "country" : "BRN",
+          "country_area" : 620,
+          "country_capital" : "Al Manāmah",
+          "province" : "Bahrain",
+          "othername" : "Manama"
+        },
+        {
+          "city" : "Grodno",
+          "country" : "BY",
+          "country_area" : 207600,
+          "country_capital" : "Minsk",
+          "province" : "Grodno",
+          "othername" : "Hrodna"
+        },
+        {
+          "city" : "La Habana",
+          "country" : "C",
+          "country_area" : 110860,
+          "country_capital" : "La Habana",
+          "province" : "La Habana",
+          "othername" : "Habana"
+        },
+        {
+          "city" : "La Habana",
+          "country" : "C",
+          "country_area" : 110860,
+          "country_capital" : "La Habana",
+          "province" : "La Habana",
+          "othername" : "Havana"
+        },
+        {
+          "city" : "Victoria de las Tunas",
+          "country" : "C",
+          "country_area" : 110860,
+          "country_capital" : "La Habana",
+          "province" : "Las Tunas",
+          "othername" : "Las Tunas"
+        },
+        {
+          "city" : "Saint Catharines",
+          "country" : "CDN",
+          "country_area" : 9976140,
+          "country_capital" : "Ottawa",
+          "province" : "Ontario",
+          "othername" : "St. Catharines"
+        },
+        {
+          "city" : "Kalemi",
+          "country" : "CGO",
+          "country_area" : 2345410,
+          "country_capital" : "Kinshasa",
+          "province" : "Tanganyika",
+          "othername" : "Kalemie"
+        },
+        {
+          "city" : "Biel",
+          "country" : "CH",
+          "country_area" : 41290,
+          "country_capital" : "Bern",
+          "province" : "Bern",
+          "othername" : "Bienne"
+        },
+        {
+          "city" : "Fribourg",
+          "country" : "CH",
+          "country_area" : 41290,
+          "country_capital" : "Bern",
+          "province" : "Fribourg",
+          "othername" : "Freiburg"
+        },
+        {
+          "city" : "Genève",
+          "country" : "CH",
+          "country_area" : 41290,
+          "country_capital" : "Bern",
+          "province" : "Genève",
+          "othername" : "Geneva"
+        },
+        {
+          "city" : "Genève",
+          "country" : "CH",
+          "country_area" : 41290,
+          "country_capital" : "Bern",
+          "province" : "Genève",
+          "othername" : "Genf"
+        },
+        {
+          "city" : "Luzern",
+          "country" : "CH",
+          "country_area" : 41290,
+          "country_capital" : "Bern",
+          "province" : "Luzern",
+          "othername" : "Lucerne"
+        },
+        {
+          "city" : "Neuchatel",
+          "country" : "CH",
+          "country_area" : 41290,
+          "country_capital" : "Bern",
+          "province" : "Neuchâtel",
+          "othername" : "Neuenburg"
+        },
+        {
+          "city" : "Sankt Gallen",
+          "country" : "CH",
+          "country_area" : 41290,
+          "country_capital" : "Bern",
+          "province" : "Sankt Gallen",
+          "othername" : "St. Gallen"
+        },
+        {
+          "city" : "Sion",
+          "country" : "CH",
+          "country_area" : 41290,
+          "country_capital" : "Bern",
+          "province" : "Valais",
+          "othername" : "Sitten"
+        },
+        {
+          "city" : "Sri Jayawardhanapura",
+          "country" : "CL",
+          "country_area" : 65610,
+          "country_capital" : "Sri Jayawardhanapura",
+          "province" : "Sri Lanka",
+          "othername" : "Kotte"
+        },
+        {
+          "city" : "Sri Jayawardhanapura",
+          "country" : "CL",
+          "country_area" : 65610,
+          "country_capital" : "Sri Jayawardhanapura",
+          "province" : "Sri Lanka",
+          "othername" : "Sri Jayewardenepura"
+        },
+        {
+          "city" : "Xiamen",
+          "country" : "CN",
+          "country_area" : 9596960,
+          "country_capital" : "Beijing",
+          "province" : "Fujian",
+          "othername" : "Amoy"
+        },
+        {
+          "city" : "Guigang",
+          "country" : "CN",
+          "country_area" : 9596960,
+          "country_capital" : "Beijing",
+          "province" : "Guangxi",
+          "othername" : "Guixian"
+        },
+        {
+          "city" : "Xiangyang",
+          "country" : "CN",
+          "country_area" : 9596960,
+          "country_capital" : "Beijing",
+          "province" : "Hubei",
+          "othername" : "Xiangfan"
+        },
+        {
+          "city" : "Xuzhou",
+          "country" : "CN",
+          "country_area" : 9596960,
+          "country_capital" : "Beijing",
+          "province" : "Jiangsu",
+          "othername" : "Jiangsu"
+        },
+        {
+          "city" : "Panshan",
+          "country" : "CN",
+          "country_area" : 9596960,
+          "country_capital" : "Beijing",
+          "province" : "Liaoning",
+          "othername" : "Panjin"
+        },
+        {
+          "city" : "Hohhot",
+          "country" : "CN",
+          "country_area" : 9596960,
+          "country_capital" : "Beijing",
+          "province" : "Nei Mongol",
+          "othername" : "Huhhot"
+        },
+        {
+          "city" : "Jiaozhou",
+          "country" : "CN",
+          "country_area" : 9596960,
+          "country_capital" : "Beijing",
+          "province" : "Shandong",
+          "othername" : "Jiaoxian"
+        },
+        {
+          "city" : "Hami",
+          "country" : "CN",
+          "country_area" : 9596960,
+          "country_capital" : "Beijing",
+          "province" : "Xinjiang",
+          "othername" : "Kumul"
+        },
+        {
+          "city" : "Kashgar",
+          "country" : "CN",
+          "country_area" : 9596960,
+          "country_capital" : "Beijing",
+          "province" : "Xinjiang",
+          "othername" : "Kashi"
+        },
+        {
+          "city" : "Kashgar",
+          "country" : "CN",
+          "country_area" : 9596960,
+          "country_capital" : "Beijing",
+          "province" : "Xinjiang",
+          "othername" : "Kaxgar"
+        },
+        {
+          "city" : "Wulumuqi",
+          "country" : "CN",
+          "country_area" : 9596960,
+          "country_capital" : "Beijing",
+          "province" : "Xinjiang",
+          "othername" : "Urumqi"
+        },
+        {
+          "city" : "Inirida",
+          "country" : "CO",
+          "country_area" : 1138910,
+          "country_capital" : "Bogotá",
+          "province" : "Guainía",
+          "othername" : "Puerto Inirida"
+        },
+        {
+          "city" : "Pasto",
+          "country" : "CO",
+          "country_area" : 1138910,
+          "country_capital" : "Bogotá",
+          "province" : "Nariño",
+          "othername" : "San Juan de Pasto"
+        },
+        {
+          "city" : "San Andres de Tumaco",
+          "country" : "CO",
+          "country_area" : 1138910,
+          "country_capital" : "Bogotá",
+          "province" : "Nariño",
+          "othername" : "Tumaco"
+        },
+        {
+          "city" : "Girón",
+          "country" : "CO",
+          "country_area" : 1138910,
+          "country_capital" : "Bogotá",
+          "province" : "Santander",
+          "othername" : "San Juan de Girón"
+        },
+        {
+          "city" : "Larnaka",
+          "country" : "CY",
+          "country_area" : 9251,
+          "country_capital" : "Lefkosia",
+          "province" : "Cyprus",
+          "othername" : "Larnaca"
+        },
+        {
+          "city" : "Lefkosia",
+          "country" : "CY",
+          "country_area" : 9251,
+          "country_capital" : "Lefkosia",
+          "province" : "Cyprus",
+          "othername" : "Nicosia"
+        },
+        {
+          "city" : "Lemesos",
+          "country" : "CY",
+          "country_area" : 9251,
+          "country_capital" : "Lefkosia",
+          "province" : "Cyprus",
+          "othername" : "Limassol"
+        },
+        {
+          "city" : "Praha",
+          "country" : "CZ",
+          "country_area" : 78703,
+          "country_capital" : "Praha",
+          "province" : "Praha",
+          "othername" : "Prague"
+        },
+        {
+          "city" : "Freiburg",
+          "country" : "D",
+          "country_area" : 356910,
+          "country_capital" : "Berlin",
+          "province" : "Baden-Württemberg",
+          "othername" : "Freiburg im Breisgau"
+        },
+        {
+          "city" : "München",
+          "country" : "D",
+          "country_area" : 356910,
+          "country_capital" : "Berlin",
+          "province" : "Bayern",
+          "othername" : "Munich"
+        },
+        {
+          "city" : "Nürnberg",
+          "country" : "D",
+          "country_area" : 356910,
+          "country_capital" : "Berlin",
+          "province" : "Bayern",
+          "othername" : "Nuremberg"
+        },
+        {
+          "city" : "Frankfurt",
+          "country" : "D",
+          "country_area" : 356910,
+          "country_capital" : "Berlin",
+          "province" : "Hessen",
+          "othername" : "Frankfurt am Main"
+        },
+        {
+          "city" : "Offenbach am Main",
+          "country" : "D",
+          "country_area" : 356910,
+          "country_capital" : "Berlin",
+          "province" : "Hessen",
+          "othername" : "Offenbach"
+        },
+        {
+          "city" : "Hannover",
+          "country" : "D",
+          "country_area" : 356910,
+          "country_capital" : "Berlin",
+          "province" : "Niedersachsen",
+          "othername" : "Hanover"
+        },
+        {
+          "city" : "Köln",
+          "country" : "D",
+          "country_area" : 356910,
+          "country_capital" : "Berlin",
+          "province" : "Nordrhein-Westfalen",
+          "othername" : "Cologne"
+        },
+        {
+          "city" : "Mülheim",
+          "country" : "D",
+          "country_area" : 356910,
+          "country_capital" : "Berlin",
+          "province" : "Nordrhein-Westfalen",
+          "othername" : "Mülheim an der Ruhr"
+        },
+        {
+          "city" : "Ludwigshafen",
+          "country" : "D",
+          "country_area" : 356910,
+          "country_capital" : "Berlin",
+          "province" : "Rheinland-Pfalz",
+          "othername" : "Ludwigshafen am Rhein"
+        },
+        {
+          "city" : "Copenhagen",
+          "country" : "DK",
+          "country_area" : 43070,
+          "country_capital" : "Copenhagen",
+          "province" : "Hovedstaden",
+          "othername" : "Kopenhagen"
+        },
+        {
+          "city" : "Copenhagen",
+          "country" : "DK",
+          "country_area" : 43070,
+          "country_capital" : "Copenhagen",
+          "province" : "Hovedstaden",
+          "othername" : "København"
+        },
+        {
+          "city" : "Helsingør",
+          "country" : "DK",
+          "country_area" : 43070,
+          "country_capital" : "Copenhagen",
+          "province" : "Hovedstaden",
+          "othername" : "Elsinore"
+        },
+        {
+          "city" : "Helsingør",
+          "country" : "DK",
+          "country_area" : 43070,
+          "country_capital" : "Copenhagen",
+          "province" : "Hovedstaden",
+          "othername" : "Helsingör"
+        },
+        {
+          "city" : "Ronne",
+          "country" : "DK",
+          "country_area" : 43070,
+          "country_capital" : "Copenhagen",
+          "province" : "Hovedstaden",
+          "othername" : "Rønne"
+        },
+        {
+          "city" : "Århus",
+          "country" : "DK",
+          "country_area" : 43070,
+          "country_capital" : "Copenhagen",
+          "province" : "Midtjylland",
+          "othername" : "Aarhus"
+        },
+        {
+          "city" : "Ålborg",
+          "country" : "DK",
+          "country_area" : 43070,
+          "country_capital" : "Copenhagen",
+          "province" : "Nordjylland",
+          "othername" : "Aalborg"
+        },
+        {
+          "city" : "Santiago",
+          "country" : "DOM",
+          "country_area" : 48730,
+          "country_capital" : "Santo Domingo",
+          "province" : "Dominican Republic",
+          "othername" : "Santiago de los Caballeros"
+        },
+        {
+          "city" : "Ech Chelif",
+          "country" : "DZ",
+          "country_area" : 2381740,
+          "country_capital" : "Algiers",
+          "province" : "Algeria",
+          "othername" : "Chlef"
+        },
+        {
+          "city" : "El Djelfa",
+          "country" : "DZ",
+          "country_area" : 2381740,
+          "country_capital" : "Algiers",
+          "province" : "Algeria",
+          "othername" : "Djelfa"
+        },
+        {
+          "city" : "Tougourt",
+          "country" : "DZ",
+          "country_area" : 2381740,
+          "country_capital" : "Algiers",
+          "province" : "Algeria",
+          "othername" : "Touggourt"
+        },
+        {
+          "city" : "Jerez de la Frontera",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Andalucía",
+          "othername" : "Jerez"
+        },
+        {
+          "city" : "Sevilla",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Andalucía",
+          "othername" : "Seville"
+        },
+        {
+          "city" : "Las Palmas de Gran Canaria",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Canarias",
+          "othername" : "Las Palmas"
+        },
+        {
+          "city" : "San Cristóbal de La Laguna",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Canarias",
+          "othername" : "La Laguna"
+        },
+        {
+          "city" : "Hospitalet de Llobregat",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Catalunya",
+          "othername" : "L'Hospitalet de Llobregat"
+        },
+        {
+          "city" : "Donostia",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Euskadi",
+          "othername" : "Donostia-San Sebastián"
+        },
+        {
+          "city" : "Donostia",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Euskadi",
+          "othername" : "San Sebastián"
+        },
+        {
+          "city" : "A Coruña",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Galicia",
+          "othername" : "La Coruna"
+        },
+        {
+          "city" : "Palma de Mallorca",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Illes Balears",
+          "othername" : "Palma"
+        },
+        {
+          "city" : "Pamplona",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Navarra",
+          "othername" : "Iruña"
+        },
+        {
+          "city" : "Alicante",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Valenciana",
+          "othername" : "Alacant"
+        },
+        {
+          "city" : "Castellón de la Plana",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Valenciana",
+          "othername" : "Castelló de la Plana"
+        },
+        {
+          "city" : "Elche",
+          "country" : "E",
+          "country_area" : 504750,
+          "country_capital" : "Madrid",
+          "province" : "Valenciana",
+          "othername" : "Elx"
+        },
+        {
+          "city" : "Kigoma-Ujiji",
+          "country" : "EAT",
+          "country_area" : 945090,
+          "country_capital" : "Dodoma",
+          "province" : "Kigoma",
+          "othername" : "Kigoma"
+        },
+        {
+          "city" : "Massaua",
+          "country" : "ER",
+          "country_area" : 121320,
+          "country_capital" : "Asmara",
+          "province" : "Eritrea",
+          "othername" : "Mitsiwa"
+        },
+        {
+          "city" : "Al Fayyum",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Faiyum"
+        },
+        {
+          "city" : "Al Iskandariyah",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Alexandria"
+        },
+        {
+          "city" : "Al Ismailiyah",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Ismaïlia"
+        },
+        {
+          "city" : "Al Jizah",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Giza"
+        },
+        {
+          "city" : "Al Jizah",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Gizeh"
+        },
+        {
+          "city" : "Al Mahallah al Kubra",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "El-Mahalla El-Kubra"
+        },
+        {
+          "city" : "Al Mansurah",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Mansoura"
+        },
+        {
+          "city" : "Al Minya",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Minya"
+        },
+        {
+          "city" : "Al Qahirah",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Cairo"
+        },
+        {
+          "city" : "Al Uqsur",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Luxor"
+        },
+        {
+          "city" : "As Suways",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Suez"
+        },
+        {
+          "city" : "Az Zaqaziq",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Zagazig"
+        },
+        {
+          "city" : "Bani Suwayf",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Beni Suef"
+        },
+        {
+          "city" : "Bur Said",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Port Said"
+        },
+        {
+          "city" : "Kafr ad Dawwar",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Kafr el-Dawwar"
+        },
+        {
+          "city" : "Marsa Matruh",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Mersa Matruh"
+        },
+        {
+          "city" : "Qina",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Qena"
+        },
+        {
+          "city" : "Shibin al Kum",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Shibin El Kom"
+        },
+        {
+          "city" : "Shubra al Khimah",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Shubra El-Kheima"
+        },
+        {
+          "city" : "Suhaj",
+          "country" : "ET",
+          "country_area" : 1001450,
+          "country_capital" : "Al Qahirah",
+          "province" : "Egypt",
+          "othername" : "Sohag"
+        },
+        {
+          "city" : "Aysaita",
+          "country" : "ETH",
+          "country_area" : 1127127,
+          "country_capital" : "Addis Ababa",
+          "province" : "Afar",
+          "othername" : "Asaita"
+        },
+        {
+          "city" : "Gambella",
+          "country" : "ETH",
+          "country_area" : 1127127,
+          "country_capital" : "Addis Ababa",
+          "province" : "Gambella",
+          "othername" : "Gambela"
+        },
+        {
+          "city" : "Adama",
+          "country" : "ETH",
+          "country_area" : 1127127,
+          "country_capital" : "Addis Ababa",
+          "province" : "Oromia",
+          "othername" : "Nazret"
+        },
+        {
+          "city" : "Bishoftu",
+          "country" : "ETH",
+          "country_area" : 1127127,
+          "country_capital" : "Addis Ababa",
+          "province" : "Oromia",
+          "othername" : "Debre Zeyit"
+        },
+        {
+          "city" : "Newcastle upon Tyne",
+          "country" : "GB",
+          "country_area" : 244820,
+          "country_capital" : "London",
+          "province" : "North East",
+          "othername" : "Newcastle"
+        },
+        {
+          "city" : "Sutton Coldfield",
+          "country" : "GB",
+          "country_area" : 244820,
+          "country_capital" : "London",
+          "province" : "West Midlands",
+          "othername" : "Sutton"
+        },
+        {
+          "city" : "Kingston upon Hull",
+          "country" : "GB",
+          "country_area" : 244820,
+          "country_capital" : "London",
+          "province" : "Yorkshire and the Humber",
+          "othername" : "Hull"
+        },
+        {
+          "city" : "Ciudad de Guatemala",
+          "country" : "GCA",
+          "country_area" : 108890,
+          "country_capital" : "Ciudad de Guatemala",
+          "province" : "Guatemala",
+          "othername" : "Guatemala City"
+        },
+        {
+          "city" : "Athina",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Attikis",
+          "othername" : "Athens"
+        },
+        {
+          "city" : "Peiraias",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Attikis",
+          "othername" : "Piraeus"
+        },
+        {
+          "city" : "Peiraias",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Attikis",
+          "othername" : "Piräus"
+        },
+        {
+          "city" : "Mytilini",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Boreioy Aigaioy",
+          "othername" : "Mytilene"
+        },
+        {
+          "city" : "Patra",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Dytikis Elladas",
+          "othername" : "Patras"
+        },
+        {
+          "city" : "Kerkyra",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Ionion Nison",
+          "othername" : "Corfu"
+        },
+        {
+          "city" : "Kerkyra",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Ionion Nison",
+          "othername" : "Korfu"
+        },
+        {
+          "city" : "Iraklio",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Kritis",
+          "othername" : "Irakleio"
+        },
+        {
+          "city" : "Iraklio",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Kritis",
+          "othername" : "Iraklion"
+        },
+        {
+          "city" : "Rhodes",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Notioy Aigaioy",
+          "othername" : "Rhodos"
+        },
+        {
+          "city" : "Chalkida",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Stereas Elladas",
+          "othername" : "Chalcis"
+        },
+        {
+          "city" : "Chalkida",
+          "country" : "GR",
+          "country_area" : 131940,
+          "country_capital" : "Athina",
+          "province" : "Stereas Elladas",
+          "othername" : "Chalkis"
+        },
+        {
+          "city" : "Hagåtña",
+          "country" : "GUAM",
+          "country_area" : 545,
+          "country_capital" : "Hagåtña",
+          "province" : "Guam",
+          "othername" : "Agana"
+        },
+        {
+          "city" : "Siguatepeque",
+          "country" : "HN",
+          "country_area" : 112090,
+          "country_capital" : "Tegucigalpa",
+          "province" : "Francisco Morazán",
+          "othername" : "Siquatepeque"
+        },
+        {
+          "city" : "Roatan",
+          "country" : "HN",
+          "country_area" : 112090,
+          "country_capital" : "Tegucigalpa",
+          "province" : "Islas de la Bahía",
+          "othername" : "Coxen Hole"
+        },
+        {
+          "city" : "Roatan",
+          "country" : "HN",
+          "country_area" : 112090,
+          "country_capital" : "Tegucigalpa",
+          "province" : "Islas de la Bahía",
+          "othername" : "Coxen Hole (Roatan)"
+        },
+        {
+          "city" : "Réggio di Calabria",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Calabria",
+          "othername" : "Reggio Calabria"
+        },
+        {
+          "city" : "Nápoli",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Campania",
+          "othername" : "Naples"
+        },
+        {
+          "city" : "Reggio nell'Emilia",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Emilia-Romagna",
+          "othername" : "Reggio Emilia"
+        },
+        {
+          "city" : "Roma",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Lazio",
+          "othername" : "Rome"
+        },
+        {
+          "city" : "Génova",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Liguria",
+          "othername" : "Genoa"
+        },
+        {
+          "city" : "Milano",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Lombardia",
+          "othername" : "Milan"
+        },
+        {
+          "city" : "Torino",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Piemonte",
+          "othername" : "Turin"
+        },
+        {
+          "city" : "Siracusa",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Sicilia",
+          "othername" : "Syracuse"
+        },
+        {
+          "city" : "Firenze",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Toscana",
+          "othername" : "Florence"
+        },
+        {
+          "city" : "Bolzano",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Trentino-Alto Adige",
+          "othername" : "Bozen"
+        },
+        {
+          "city" : "Pádova",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Veneto",
+          "othername" : "Padua"
+        },
+        {
+          "city" : "Venézia",
+          "country" : "I",
+          "country_area" : 301230,
+          "country_capital" : "Roma",
+          "province" : "Veneto",
+          "othername" : "Venice"
+        },
+        {
+          "city" : "Beer Sheva",
+          "country" : "IL",
+          "country_area" : 22072,
+          "country_capital" : "Yerushalayim",
+          "province" : "HaDarom",
+          "othername" : "Beersheba"
+        },
+        {
+          "city" : "Petah Tiqwa",
+          "country" : "IL",
+          "country_area" : 22072,
+          "country_capital" : "Yerushalayim",
+          "province" : "HaMerkaz",
+          "othername" : "Petah Tikva"
+        },
+        {
+          "city" : "Petah Tiqwa",
+          "country" : "IL",
+          "country_area" : 22072,
+          "country_capital" : "Yerushalayim",
+          "province" : "HaMerkaz",
+          "othername" : "Petah Tikwa"
+        },
+        {
+          "city" : "Rishon LeZiyyon",
+          "country" : "IL",
+          "country_area" : 22072,
+          "country_capital" : "Yerushalayim",
+          "province" : "HaMerkaz",
+          "othername" : "Rishon LeZion"
+        },
+        {
+          "city" : "Tel Aviv-Yafo",
+          "country" : "IL",
+          "country_area" : 22072,
+          "country_capital" : "Yerushalayim",
+          "province" : "Tel Aviv",
+          "othername" : "Jaffa"
+        },
+        {
+          "city" : "Tel Aviv-Yafo",
+          "country" : "IL",
+          "country_area" : 22072,
+          "country_capital" : "Yerushalayim",
+          "province" : "Tel Aviv",
+          "othername" : "Tel Aviv"
+        },
+        {
+          "city" : "Yerushalayim",
+          "country" : "IL",
+          "country_area" : 22072,
+          "country_capital" : "Yerushalayim",
+          "province" : "Yerushalayim",
+          "othername" : "Jerusalem"
+        },
+        {
+          "city" : "Gauhati",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Assam",
+          "othername" : "Guwahati"
+        },
+        {
+          "city" : "Bhilai",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Chhattisgarh",
+          "othername" : "Bhilai Nagar"
+        },
+        {
+          "city" : "Daman",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Daman and Diu",
+          "othername" : "Diu"
+        },
+        {
+          "city" : "Panaji",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Goa",
+          "othername" : "Goa"
+        },
+        {
+          "city" : "Ahmadabad",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Gujarat",
+          "othername" : "Ahmedabad"
+        },
+        {
+          "city" : "Bharuch",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Gujarat",
+          "othername" : "Broach"
+        },
+        {
+          "city" : "Simla",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Himachal Pradesh",
+          "othername" : "Shimla"
+        },
+        {
+          "city" : "Bokaro Steel City",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Jharkhand",
+          "othername" : "Bokara Steel City"
+        },
+        {
+          "city" : "Bangalore",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Karnataka",
+          "othername" : "Bengaluru"
+        },
+        {
+          "city" : "Hubli",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Karnataka",
+          "othername" : "Hubballi"
+        },
+        {
+          "city" : "Kochi",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Kerala",
+          "othername" : "Cochin"
+        },
+        {
+          "city" : "Kozhikode",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Kerala",
+          "othername" : "Calicut"
+        },
+        {
+          "city" : "Trivandrum",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Kerala",
+          "othername" : "Thiruvananthapuram"
+        },
+        {
+          "city" : "Navi Mumbai",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Maharashtra",
+          "othername" : "New Bombay"
+        },
+        {
+          "city" : "Sholapur",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Maharashtra",
+          "othername" : "Solapur"
+        },
+        {
+          "city" : "Aijal",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Mizoram",
+          "othername" : "Aizawl"
+        },
+        {
+          "city" : "Dehra Dun",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "Uttarakhand",
+          "othername" : "Dehradun"
+        },
+        {
+          "city" : "Haora",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "West Bengal",
+          "othername" : "Howrah"
+        },
+        {
+          "city" : "Kolkata",
+          "country" : "IND",
+          "country_area" : 3287590,
+          "country_capital" : "Delhi",
+          "province" : "West Bengal",
+          "othername" : "Calcutta"
+        },
+        {
+          "city" : "Nalčik",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Kabardino-Balkarskaya",
+          "othername" : "Nalchik"
+        },
+        {
+          "city" : "Petropavlovsk-Kamčatskij",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Kamchatka",
+          "othername" : "Petropavlovsk Kamchatsky"
+        },
+        {
+          "city" : "Čerkessk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Karachayevo-Cherkesskaya",
+          "othername" : "Cherkessk"
+        },
+        {
+          "city" : "Novokuznetsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Kemerovskaya",
+          "othername" : "Novokuzneck"
+        },
+        {
+          "city" : "Prokopjevsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Kemerovskaya",
+          "othername" : "Prokopyevsk"
+        },
+        {
+          "city" : "Khabarovsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Khabarovskiy",
+          "othername" : "Chabarovsk"
+        },
+        {
+          "city" : "Komsomolsk-na-Amure",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Khabarovskiy",
+          "othername" : "Komsomolsk on Amur"
+        },
+        {
+          "city" : "Khanty Mansijsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Khanty Mansi ao",
+          "othername" : "Khanty Mansiysk"
+        },
+        {
+          "city" : "Neftejugansk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Khanty Mansi ao",
+          "othername" : "Nefteyugansk"
+        },
+        {
+          "city" : "Nizhnevartovsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Khanty Mansi ao",
+          "othername" : "Nižnevartovsk"
+        },
+        {
+          "city" : "Novorossiysk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Krasnodarskiy",
+          "othername" : "Novorossijsk"
+        },
+        {
+          "city" : "Sochi",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Krasnodarskiy",
+          "othername" : "Soči"
+        },
+        {
+          "city" : "Ačinsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Krasnoyarsk",
+          "othername" : "Achinsk"
+        },
+        {
+          "city" : "Krasnoyarsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Krasnoyarsk",
+          "othername" : "Krasnojarsk"
+        },
+        {
+          "city" : "Jelec",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Lipetskaya",
+          "othername" : "Yelets"
+        },
+        {
+          "city" : "Lipetsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Lipetskaya",
+          "othername" : "Lipeck"
+        },
+        {
+          "city" : "Yoshkar-Ola",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Mariy-El",
+          "othername" : "Joškar-Ola"
+        },
+        {
+          "city" : "Moskva",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moscow",
+          "othername" : "Moscow"
+        },
+        {
+          "city" : "Balašicha",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Balashikha"
+        },
+        {
+          "city" : "Chimki",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Khimki"
+        },
+        {
+          "city" : "Korolëv",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Korolyov"
+        },
+        {
+          "city" : "Lubercy",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Lyubertsy"
+        },
+        {
+          "city" : "Mytišči",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Mytishchi"
+        },
+        {
+          "city" : "Odincovo",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Odintsovo"
+        },
+        {
+          "city" : "Orechovo-Zujevo",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Orekhovo Zuyevo"
+        },
+        {
+          "city" : "Puškino",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Pushkino"
+        },
+        {
+          "city" : "Sergijev Posad",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Sergiyev Posad"
+        },
+        {
+          "city" : "Sergijev Posad",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Zagorsk"
+        },
+        {
+          "city" : "Serpuchov",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Serpukhov"
+        },
+        {
+          "city" : "Ščëlkovo",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Shchyolkovo"
+        },
+        {
+          "city" : "Železnodorožnyj",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Zheleznodorozhny"
+        },
+        {
+          "city" : "Žukovskij",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Zhukovskij"
+        },
+        {
+          "city" : "Žukovskij",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Moskovskaya",
+          "othername" : "Zhukovsky"
+        },
+        {
+          "city" : "Dzeržinsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Nizhnii Novgorodskaya",
+          "othername" : "Dzerzhinsk"
+        },
+        {
+          "city" : "Nizhnii Novgorod",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Nizhnii Novgorodskaya",
+          "othername" : "Nizhny Novgorod"
+        },
+        {
+          "city" : "Nizhnii Novgorod",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Nizhnii Novgorodskaya",
+          "othername" : "Nižnij Novgorod"
+        },
+        {
+          "city" : "Velikij Novgorod",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Novgorodskaya",
+          "othername" : "Novgorod"
+        },
+        {
+          "city" : "Velikij Novgorod",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Novgorodskaya",
+          "othername" : "Veliky Novgorod"
+        },
+        {
+          "city" : "Orel",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Orlovskaya",
+          "othername" : "Oryol"
+        },
+        {
+          "city" : "Orel",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Orlovskaya",
+          "othername" : "Orël"
+        },
+        {
+          "city" : "Nachodka",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Primorskiy",
+          "othername" : "Nakhodka"
+        },
+        {
+          "city" : "Ussurijsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Primorskiy",
+          "othername" : "Ussuriysk"
+        },
+        {
+          "city" : "Batajsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Rostovskaya",
+          "othername" : "Bataisk"
+        },
+        {
+          "city" : "Batajsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Rostovskaya",
+          "othername" : "Bataysk"
+        },
+        {
+          "city" : "Novočerkassk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Rostovskaya",
+          "othername" : "Novocherkassk"
+        },
+        {
+          "city" : "Novošachtinsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Rostovskaya",
+          "othername" : "Novoshakhtinsk"
+        },
+        {
+          "city" : "Rostov-na-Donu",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Rostovskaya",
+          "othername" : "Rostov"
+        },
+        {
+          "city" : "Rostov-na-Donu",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Rostovskaya",
+          "othername" : "Rostov on Don"
+        },
+        {
+          "city" : "Šachty",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Rostovskaya",
+          "othername" : "Shakhty"
+        },
+        {
+          "city" : "Ryazan",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Ryazanskaya",
+          "othername" : "Rjazan"
+        },
+        {
+          "city" : "Yakutsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Sakha",
+          "othername" : "Jakutsk"
+        },
+        {
+          "city" : "Južno-Sachalinsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Sakhalin",
+          "othername" : "Yuzhno Sakhalinsk"
+        },
+        {
+          "city" : "Novokujbyševsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Samarskaya",
+          "othername" : "Novokuybyshevsk"
+        },
+        {
+          "city" : "Tolyatti",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Samarskaya",
+          "othername" : "Toljatti"
+        },
+        {
+          "city" : "Sankt Peterburg",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Sankt-Peterburg",
+          "othername" : "Saint Petersburg"
+        },
+        {
+          "city" : "Sankt Peterburg",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Sankt-Peterburg",
+          "othername" : "Sankt Petersburg"
+        },
+        {
+          "city" : "Sankt Peterburg",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Sankt-Peterburg",
+          "othername" : "Sankt-Peterburg"
+        },
+        {
+          "city" : "Sankt Peterburg",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Sankt-Peterburg",
+          "othername" : "St. Peterburg"
+        },
+        {
+          "city" : "Jessentuki",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Stavropolskiy",
+          "othername" : "Yessentuki"
+        },
+        {
+          "city" : "Kamensk-Uralskij",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Sverdlovskaya",
+          "othername" : "Kamensk Uralsky"
+        },
+        {
+          "city" : "Nizhny Tagil",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Sverdlovskaya",
+          "othername" : "Nižnij Tagil"
+        },
+        {
+          "city" : "Yekaterinburg",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Sverdlovskaya",
+          "othername" : "Jekaterinburg"
+        },
+        {
+          "city" : "Almetjevsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Tatarstan",
+          "othername" : "Almetyevsk"
+        },
+        {
+          "city" : "Kazan",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Tatarstan",
+          "othername" : "Kazan"
+        },
+        {
+          "city" : "Naberezhnye Tchelny",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Tatarstan",
+          "othername" : "Naberezhnye Chelny"
+        },
+        {
+          "city" : "Naberezhnye Tchelny",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Tatarstan",
+          "othername" : "Naberežnyje Čelny"
+        },
+        {
+          "city" : "Nižnekamsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Tatarstan",
+          "othername" : "Nizhnekamsk"
+        },
+        {
+          "city" : "Tyumen",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Tyumenskaya",
+          "othername" : "Tumen"
+        },
+        {
+          "city" : "Izhevsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Udmurtskaya",
+          "othername" : "Iževsk"
+        },
+        {
+          "city" : "Ulyanovsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Ulyanovskaya",
+          "othername" : "Uljanovsk"
+        },
+        {
+          "city" : "Kamyšin",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Volgogradskaya",
+          "othername" : "Kamyshin"
+        },
+        {
+          "city" : "Volzhsky",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Volgogradskaya",
+          "othername" : "Volžskij"
+        },
+        {
+          "city" : "Cherepovets",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Vologodskaya",
+          "othername" : "Čerepovec"
+        },
+        {
+          "city" : "Voronezh",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Voronezhskaya",
+          "othername" : "Voronež"
+        },
+        {
+          "city" : "Nojabrsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Yamalo Nenets ao",
+          "othername" : "Noyabrsk"
+        },
+        {
+          "city" : "Novyj Urengoj",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Yamalo Nenets ao",
+          "othername" : "Novy Urengoy"
+        },
+        {
+          "city" : "Yaroslavl",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Yaroslavskaya",
+          "othername" : "Jaroslavl"
+        },
+        {
+          "city" : "Chita",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Zabaykalskiy",
+          "othername" : "Čita"
+        },
+        {
+          "city" : "San Salvador de Jujuy",
+          "country" : "RA",
+          "country_area" : 2766890,
+          "country_capital" : "Buenos Aires",
+          "province" : "Jujuy",
+          "othername" : "Jujuy"
+        },
+        {
+          "city" : "San Miguel de Tucumán",
+          "country" : "RA",
+          "country_area" : 2766890,
+          "country_capital" : "Buenos Aires",
+          "province" : "Tucumán",
+          "othername" : "Tucuman"
+        },
+        {
+          "city" : "Jhongli",
+          "country" : "RC",
+          "country_area" : 36179,
+          "country_capital" : "Taipei",
+          "province" : "Taiwan",
+          "othername" : "Zhongli"
+        },
+        {
+          "city" : "Coyhaique",
+          "country" : "RCH",
+          "country_area" : 756950,
+          "country_capital" : "Santiago",
+          "province" : "Aysén",
+          "othername" : "Coihaique"
+        },
+        {
+          "city" : "N'Zérékoré",
+          "country" : "RG",
+          "country_area" : 245860,
+          "country_capital" : "Conakry",
+          "province" : "Guinea",
+          "othername" : "Nzérékoré"
+        },
+        {
+          "city" : "Pétion-Ville",
+          "country" : "RH",
+          "country_area" : 27750,
+          "country_capital" : "Port-au-Prince",
+          "province" : "Haiti",
+          "othername" : "Pétionville"
+        },
+        {
+          "city" : "Tangerang Selatan",
+          "country" : "RI",
+          "country_area" : 1919440,
+          "country_capital" : "Jakarta",
+          "province" : "Banten",
+          "othername" : "South Tangerang"
+        },
+        {
+          "city" : "Bandjarmasin",
+          "country" : "RI",
+          "country_area" : 1919440,
+          "country_capital" : "Jakarta",
+          "province" : "Kalimantan Selatan",
+          "othername" : "Banjarmasin"
+        },
+        {
+          "city" : "Tanjung Pinang",
+          "country" : "RI",
+          "country_area" : 1919440,
+          "country_capital" : "Jakarta",
+          "province" : "Kepulauan Riau",
+          "othername" : "Tanjungpinang"
+        },
+        {
+          "city" : "Makassar",
+          "country" : "RI",
+          "country_area" : 1919440,
+          "country_capital" : "Jakarta",
+          "province" : "Sulawesi Selatan",
+          "othername" : "Ujung Pandang"
+        },
+        {
+          "city" : "Lubuk Linggau",
+          "country" : "RI",
+          "country_area" : 1919440,
+          "country_capital" : "Jakarta",
+          "province" : "Sumatera Selatan",
+          "othername" : "Lubuklinggau"
+        },
+        {
+          "city" : "Aioun",
+          "country" : "RIM",
+          "country_area" : 1030700,
+          "country_capital" : "Nouakchott",
+          "province" : "Hodh El Gharbi",
+          "othername" : "Ayoûn el-Atroûs"
+        },
+        {
+          "city" : "Tidjikja",
+          "country" : "RIM",
+          "country_area" : 1030700,
+          "country_capital" : "Nouakchott",
+          "province" : "Tagant",
+          "othername" : "Tidjikdja"
+        },
+        {
+          "city" : "Zouerate",
+          "country" : "RIM",
+          "country_area" : 1030700,
+          "country_capital" : "Nouakchott",
+          "province" : "Tiris Zemmour",
+          "othername" : "Zouérat"
+        },
+        {
+          "city" : "Ardebil",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "Ardebil",
+          "othername" : "Ardabil"
+        },
+        {
+          "city" : "Esfahan",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "Esfahan",
+          "othername" : "Isfahan"
+        },
+        {
+          "city" : "Khomeinishahr",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "Esfahan",
+          "othername" : "Khomeynishahr"
+        },
+        {
+          "city" : "Gonbad-e-Kavus",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "Golestan",
+          "othername" : "Gonbad e Kavous"
+        },
+        {
+          "city" : "Hamedan",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "Hamedan",
+          "othername" : "Hamadan"
+        },
+        {
+          "city" : "Neyshabur",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "Khorasan-e-Razavi",
+          "othername" : "Nishapur"
+        },
+        {
+          "city" : "Ahvaz",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "Khuzestan",
+          "othername" : "Ahwaz"
+        },
+        {
+          "city" : "Yasuj",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "Kohgiluyeh and Boyer-Ahmad",
+          "othername" : "Yasouj"
+        },
+        {
+          "city" : "Khorramabad",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "Lorestan",
+          "othername" : "Khoram Abad"
+        },
+        {
+          "city" : "Bojnurd",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "North Khorasan",
+          "othername" : "Bojnord"
+        },
+        {
+          "city" : "Bojnurd",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "North Khorasan",
+          "othername" : "Bojnourd"
+        },
+        {
+          "city" : "Eslam Shahr",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "Tehran",
+          "othername" : "Islamshahr"
+        },
+        {
+          "city" : "Khoy",
+          "country" : "IR",
+          "country_area" : 1648000,
+          "country_capital" : "Tehran",
+          "province" : "West Azarbayejan",
+          "othername" : "Khvoy"
+        },
+        {
+          "city" : "As Sulaymaniyah",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "As Sulaymaniyah",
+          "othername" : "Sulaymaniyah"
+        },
+        {
+          "city" : "Al Basrah",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "Basrah",
+          "othername" : "Basra"
+        },
+        {
+          "city" : "Al Basrah",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "Basrah",
+          "othername" : "Basrah"
+        },
+        {
+          "city" : "Duhouk",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "Duhouk",
+          "othername" : "Dahuk"
+        },
+        {
+          "city" : "Kerbela",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "Kerbela",
+          "othername" : "Karbala"
+        },
+        {
+          "city" : "Al Amarah",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "Maysan",
+          "othername" : "Amarah"
+        },
+        {
+          "city" : "Al Mawsil",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "Nineveh",
+          "othername" : "Mosul"
+        },
+        {
+          "city" : "An Nasiriyah",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "Thi Qar",
+          "othername" : "Nasiriyah"
+        },
+        {
+          "city" : "Al Kut",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "Wasit",
+          "othername" : "Kut"
+        },
+        {
+          "city" : "Ar Ramadi",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "al-Anbar",
+          "othername" : "Ramadi"
+        },
+        {
+          "city" : "As Samawah",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "al-Muthanna",
+          "othername" : "Samawah"
+        },
+        {
+          "city" : "An Najaf",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "al-Najaf",
+          "othername" : "Najaf"
+        },
+        {
+          "city" : "Diwaniyah",
+          "country" : "IRQ",
+          "country_area" : 437072,
+          "country_capital" : "Baghdad",
+          "province" : "al-Qadisiya",
+          "othername" : "Al Diwaniyah"
+        },
+        {
+          "city" : "Basseterre",
+          "country" : "KN",
+          "country_area" : 269,
+          "country_capital" : "Basseterre",
+          "province" : "Saint Kitts and Nevis",
+          "othername" : "Basse Terre"
+        },
+        {
+          "city" : "Prishtine",
+          "country" : "KOS",
+          "country_area" : 10887,
+          "country_capital" : "Prishtine",
+          "province" : "Kosovo",
+          "othername" : "Pristina"
+        },
+        {
+          "city" : "Hamhung-Hungnam",
+          "country" : "KP",
+          "country_area" : 120540,
+          "country_capital" : "Pyongyang",
+          "province" : "North Korea",
+          "othername" : "Hamhung"
+        },
+        {
+          "city" : "Kim Chaek",
+          "country" : "KP",
+          "country_area" : 120540,
+          "country_capital" : "Pyongyang",
+          "province" : "North Korea",
+          "othername" : "Kimchaek"
+        },
+        {
+          "city" : "Kim Chaek",
+          "country" : "KP",
+          "country_area" : 120540,
+          "country_capital" : "Pyongyang",
+          "province" : "North Korea",
+          "othername" : "Songjin"
+        },
+        {
+          "city" : "Nampho",
+          "country" : "KP",
+          "country_area" : 120540,
+          "country_capital" : "Pyongyang",
+          "province" : "North Korea",
+          "othername" : "Nampo"
+        },
+        {
+          "city" : "Sinpho",
+          "country" : "KP",
+          "country_area" : 120540,
+          "country_capital" : "Pyongyang",
+          "province" : "North Korea",
+          "othername" : "Sinpo"
+        },
+        {
+          "city" : "Al Kuwayt",
+          "country" : "KWT",
+          "country_area" : 17820,
+          "country_capital" : "Al Kuwayt",
+          "province" : "Kuwait",
+          "othername" : "Kuwait"
+        },
+        {
+          "city" : "Al Kuwayt",
+          "country" : "KWT",
+          "country_area" : 17820,
+          "country_capital" : "Al Kuwayt",
+          "province" : "Kuwait",
+          "othername" : "Kuwait City"
+        },
+        {
+          "city" : "Koksetau",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Akmola",
+          "othername" : "Kokshetau"
+        },
+        {
+          "city" : "Aqtobe",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Aktobe",
+          "othername" : "Aktobe"
+        },
+        {
+          "city" : "Taldykurgan",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Almaty",
+          "othername" : "Taldykorgan"
+        },
+        {
+          "city" : "Nur-Sultan",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Astana",
+          "othername" : "Akmolinsk"
+        },
+        {
+          "city" : "Nur-Sultan",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Astana",
+          "othername" : "Aqmola"
+        },
+        {
+          "city" : "Nur-Sultan",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Astana",
+          "othername" : "Astana"
+        },
+        {
+          "city" : "Nur-Sultan",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Astana",
+          "othername" : "Zelinograd"
+        },
+        {
+          "city" : "Semei",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "East-Kazakhstan",
+          "othername" : "Semey"
+        },
+        {
+          "city" : "Öskemen",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "East-Kazakhstan",
+          "othername" : "Ust-Kamenogorsk"
+        },
+        {
+          "city" : "Balkhash",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Karaganda",
+          "othername" : "Balqash"
+        },
+        {
+          "city" : "Karaganda",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Karaganda",
+          "othername" : "Karagandy"
+        },
+        {
+          "city" : "Kustanay",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Kostanai",
+          "othername" : "Kostanai"
+        },
+        {
+          "city" : "Kustanay",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Kostanai",
+          "othername" : "Kostanay"
+        },
+        {
+          "city" : "Rudniy",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "Kostanai",
+          "othername" : "Rudny"
+        },
+        {
+          "city" : "Petropavlovsk",
+          "country" : "KZ",
+          "country_area" : 2717300,
+          "country_capital" : "Nur-Sultan",
+          "province" : "North-Kazakhstan",
+          "othername" : "Petropavl"
+        },
+        {
+          "city" : "Vientiane",
+          "country" : "LAO",
+          "country_area" : 236800,
+          "country_capital" : "Vientiane",
+          "province" : "Laos",
+          "othername" : "Viangchan"
+        },
+        {
+          "city" : "Misratah",
+          "country" : "LAR",
+          "country_area" : 1759540,
+          "country_capital" : "Tripoli",
+          "province" : "Libya",
+          "othername" : "Misrata"
+        },
+        {
+          "city" : "Fès",
+          "country" : "MA",
+          "country_area" : 446550,
+          "country_capital" : "Rabat",
+          "province" : "Fes Boulemane",
+          "othername" : "Fez"
+        },
+        {
+          "city" : "Tanger",
+          "country" : "MA",
+          "country_area" : 446550,
+          "country_capital" : "Rabat",
+          "province" : "Tanger Tetouan",
+          "othername" : "Tangier"
+        },
+        {
+          "city" : "Kota Bahru",
+          "country" : "MAL",
+          "country_area" : 329750,
+          "country_capital" : "Kuala Lumpur",
+          "province" : "Kelantan",
+          "othername" : "Kota Bharu"
+        },
+        {
+          "city" : "Melaka",
+          "country" : "MAL",
+          "country_area" : 329750,
+          "country_capital" : "Kuala Lumpur",
+          "province" : "Melaka",
+          "othername" : "Malacca"
+        },
+        {
+          "city" : "Georgetown",
+          "country" : "MAL",
+          "country_area" : 329750,
+          "country_capital" : "Kuala Lumpur",
+          "province" : "Pulau Pinang",
+          "othername" : "Penang"
+        },
+        {
+          "city" : "Kuching Utara",
+          "country" : "MAL",
+          "country_area" : 329750,
+          "country_capital" : "Kuala Lumpur",
+          "province" : "Sarawak",
+          "othername" : "Kuching"
+        },
+        {
+          "city" : "Klang",
+          "country" : "MAL",
+          "country_area" : 329750,
+          "country_capital" : "Kuala Lumpur",
+          "province" : "Selangor",
+          "othername" : "Kelang"
+        },
+        {
+          "city" : "Mamoutzou",
+          "country" : "MAYO",
+          "country_area" : 374,
+          "country_capital" : "Mamoutzou",
+          "province" : "Mayotte",
+          "othername" : "Mamoudzou"
+        },
+        {
+          "city" : "Monaco",
+          "country" : "MC",
+          "country_area" : 1.9,
+          "country_capital" : "Monaco",
+          "province" : "Monaco",
+          "othername" : "Monaco-Ville"
+        },
+        {
+          "city" : "Ciudad Juárez",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Chihuahua",
+          "othername" : "Juárez"
+        },
+        {
+          "city" : "Ciudad de México",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Distrito Federal",
+          "othername" : "Mexico City"
+        },
+        {
+          "city" : "Pachuca",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Hidalgo",
+          "othername" : "Pachuca de Soto"
+        },
+        {
+          "city" : "Zamora de Hidalgo",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Michoacán",
+          "othername" : "Zamora"
+        },
+        {
+          "city" : "Cuautla Morelos",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Morelos",
+          "othername" : "Cuautla"
+        },
+        {
+          "city" : "Ecatepec",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "México, Estado de",
+          "othername" : "Ecatepec de Morelos"
+        },
+        {
+          "city" : "Naucalpan",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "México, Estado de",
+          "othername" : "Naucalpan de Juarez"
+        },
+        {
+          "city" : "San Pablo",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "México, Estado de",
+          "othername" : "San Pablo de las Salinas"
+        },
+        {
+          "city" : "Tlalnepantla",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "México, Estado de",
+          "othername" : "Tlalnepantla de Baz"
+        },
+        {
+          "city" : "Ciudad Santa Catarina",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Nuevo Léon",
+          "othername" : "Santa Catarina"
+        },
+        {
+          "city" : "San Nicolás de los Garzas",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Nuevo Léon",
+          "othername" : "San Nicolas de los Garza"
+        },
+        {
+          "city" : "Soledad Díez Gutiérrez",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "San Luis Potosí",
+          "othername" : "Soledad de Graciano Sanchez"
+        },
+        {
+          "city" : "Nogales",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Sonora",
+          "othername" : "Heroica Nogales"
+        },
+        {
+          "city" : "Poza Rica de Hidalgo",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Veracruz",
+          "othername" : "Poza Rica"
+        },
+        {
+          "city" : "Veracruz",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Veracruz",
+          "othername" : "Veracruz Llave"
+        },
+        {
+          "city" : "Xalapa-Enríquez",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Veracruz",
+          "othername" : "Jalapa"
+        },
+        {
+          "city" : "Xalapa-Enríquez",
+          "country" : "MEX",
+          "country_area" : 1972550,
+          "country_capital" : "Ciudad de México",
+          "province" : "Veracruz",
+          "othername" : "Xalapa"
+        },
+        {
+          "city" : "Ulaanbaatar",
+          "country" : "MNG",
+          "country_area" : 1565000,
+          "country_capital" : "Ulaanbaatar",
+          "province" : "Mongolia",
+          "othername" : "Ulan Bator"
+        },
+        {
+          "city" : "Nacala Porto",
+          "country" : "MOC",
+          "country_area" : 801590,
+          "country_capital" : "Maputo",
+          "province" : "Maputo",
+          "othername" : "Nacala"
+        },
+        {
+          "city" : "Magwe",
+          "country" : "MYA",
+          "country_area" : 678500,
+          "country_capital" : "Nay Pyi Taw",
+          "province" : "Magwe",
+          "othername" : "Magway"
+        },
+        {
+          "city" : "Mawlamyine",
+          "country" : "MYA",
+          "country_area" : 678500,
+          "country_capital" : "Nay Pyi Taw",
+          "province" : "Mon",
+          "othername" : "Mawlamyaing"
+        },
+        {
+          "city" : "Mawlamyine",
+          "country" : "MYA",
+          "country_area" : 678500,
+          "country_capital" : "Nay Pyi Taw",
+          "province" : "Mon",
+          "othername" : "Moulmein"
+        },
+        {
+          "city" : "Nay Pyi Taw",
+          "country" : "MYA",
+          "country_area" : 678500,
+          "country_capital" : "Nay Pyi Taw",
+          "province" : "Nay Pyi Taw",
+          "othername" : "Naypyidaw"
+        },
+        {
+          "city" : "Nay Pyi Taw",
+          "country" : "MYA",
+          "country_area" : 678500,
+          "country_capital" : "Nay Pyi Taw",
+          "province" : "Nay Pyi Taw",
+          "othername" : "Naypyitaw"
+        },
+        {
+          "city" : "Sittwe",
+          "country" : "MYA",
+          "country_area" : 678500,
+          "country_capital" : "Nay Pyi Taw",
+          "province" : "Rakhine",
+          "othername" : "Akyab"
+        },
+        {
+          "city" : "Tavoy",
+          "country" : "MYA",
+          "country_area" : 678500,
+          "country_capital" : "Nay Pyi Taw",
+          "province" : "Tanintharyi",
+          "othername" : "Dawei"
+        },
+        {
+          "city" : "Yangon",
+          "country" : "MYA",
+          "country_area" : 678500,
+          "country_capital" : "Nay Pyi Taw",
+          "province" : "Yangon",
+          "othername" : "Rangoon"
+        },
+        {
+          "city" : "Vadsø",
+          "country" : "N",
+          "country_area" : 324220,
+          "country_capital" : "Oslo",
+          "province" : "Finnmark",
+          "othername" : "Vadsoe"
+        },
+        {
+          "city" : "Bodø",
+          "country" : "N",
+          "country_area" : 324220,
+          "country_capital" : "Oslo",
+          "province" : "Nordland",
+          "othername" : "Bodoe"
+        },
+        {
+          "city" : "Tromsø",
+          "country" : "N",
+          "country_area" : 324220,
+          "country_capital" : "Oslo",
+          "province" : "Troms",
+          "othername" : "Tromsoe"
+        },
+        {
+          "city" : "Lalitpur",
+          "country" : "NEP",
+          "country_area" : 140800,
+          "country_capital" : "Kathmandu",
+          "province" : "Nepal",
+          "othername" : "Patan"
+        },
+        {
+          "city" : "Benin",
+          "country" : "NGR",
+          "country_area" : 923770,
+          "country_capital" : "Abuja",
+          "province" : "Edo",
+          "othername" : "Benin City"
+        },
+        {
+          "city" : "Effon-Alaiye",
+          "country" : "NGR",
+          "country_area" : 923770,
+          "country_capital" : "Abuja",
+          "province" : "Ekiti",
+          "othername" : "Efon-Alaaye"
+        },
+        {
+          "city" : "Ilesha",
+          "country" : "NGR",
+          "country_area" : 923770,
+          "country_capital" : "Abuja",
+          "province" : "Osun",
+          "othername" : "Ilesa"
+        },
+        {
+          "city" : "Oshogbo",
+          "country" : "NGR",
+          "country_area" : 923770,
+          "country_capital" : "Abuja",
+          "province" : "Osun",
+          "othername" : "Osogbo"
+        },
+        {
+          "city" : "Ogbomosho",
+          "country" : "NGR",
+          "country_area" : 923770,
+          "country_capital" : "Abuja",
+          "province" : "Oyo",
+          "othername" : "Ogbomoso"
+        },
+        {
+          "city" : "Den Haag",
+          "country" : "NL",
+          "country_area" : 37330,
+          "country_capital" : "Amsterdam",
+          "province" : "Zuid-Holland",
+          "othername" : "'s-Gravenhage"
+        },
+        {
+          "city" : "Den Haag",
+          "country" : "NL",
+          "country_area" : 37330,
+          "country_capital" : "Amsterdam",
+          "province" : "Zuid-Holland",
+          "othername" : "The Hague"
+        },
+        {
+          "city" : "As Seeb",
+          "country" : "OM",
+          "country_area" : 212460,
+          "country_capital" : "Muscat",
+          "province" : "Oman",
+          "othername" : "As Sib"
+        },
+        {
+          "city" : "Muscat",
+          "country" : "OM",
+          "country_area" : 212460,
+          "country_capital" : "Muscat",
+          "province" : "Oman",
+          "othername" : "Maskat"
+        },
+        {
+          "city" : "Evora",
+          "country" : "P",
+          "country_area" : 92080,
+          "country_capital" : "Lisboa",
+          "province" : "Evora",
+          "othername" : "Évora"
+        },
+        {
+          "city" : "Funchal",
+          "country" : "P",
+          "country_area" : 92080,
+          "country_capital" : "Lisboa",
+          "province" : "Madeira",
+          "othername" : "Madeira"
+        },
+        {
+          "city" : "Oporto",
+          "country" : "P",
+          "country_area" : 92080,
+          "country_capital" : "Lisboa",
+          "province" : "Porto",
+          "othername" : "Porto"
+        },
+        {
+          "city" : "Santarem",
+          "country" : "P",
+          "country_area" : 92080,
+          "country_capital" : "Lisboa",
+          "province" : "Santarem",
+          "othername" : "Santarém"
+        },
+        {
+          "city" : "Santiago",
+          "country" : "PA",
+          "country_area" : 78200,
+          "country_capital" : "Panamá City",
+          "province" : "Veraguas",
+          "othername" : "Santiago de Veraguas"
+        },
+        {
+          "city" : "Cusco",
+          "country" : "PE",
+          "country_area" : 1285220,
+          "country_capital" : "Lima",
+          "province" : "Cusco",
+          "othername" : "Cuzco"
+        },
+        {
+          "city" : "Islamabad",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "FCT Islamabad",
+          "othername" : "Islāmābād"
+        },
+        {
+          "city" : "Mardan",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Khyber Pakhtunkhwa",
+          "othername" : "Mardān"
+        },
+        {
+          "city" : "Mingaora",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Khyber Pakhtunkhwa",
+          "othername" : "Mingawara"
+        },
+        {
+          "city" : "Mingaora",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Khyber Pakhtunkhwa",
+          "othername" : "Mingora"
+        },
+        {
+          "city" : "Mingaora",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Khyber Pakhtunkhwa",
+          "othername" : "Mingāora"
+        },
+        {
+          "city" : "Peshawar",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Khyber Pakhtunkhwa",
+          "othername" : "Peshāwar"
+        },
+        {
+          "city" : "Bahawalpur",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Bahāwalpur"
+        },
+        {
+          "city" : "Burewala",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Būrewāla"
+        },
+        {
+          "city" : "Dera Ghazi Khan",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Dera Ghāzi Khān"
+        },
+        {
+          "city" : "Gujranwala",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Gujrānwāla"
+        },
+        {
+          "city" : "Gujrat",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Gujrāt"
+        },
+        {
+          "city" : "Kamoke",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Kāmoke"
+        },
+        {
+          "city" : "Kasur",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Kasūr"
+        },
+        {
+          "city" : "Multan",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Multān"
+        },
+        {
+          "city" : "Okara",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Okāra"
+        },
+        {
+          "city" : "Rahimyar Khan",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Rahim Yar Khan"
+        },
+        {
+          "city" : "Rahimyar Khan",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Rahīmyār Khān"
+        },
+        {
+          "city" : "Rawalpindi",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Rāwalpindi"
+        },
+        {
+          "city" : "Sahiwal",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Sāhīwal"
+        },
+        {
+          "city" : "Sheikhupura",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Sheikhūpura"
+        },
+        {
+          "city" : "Sialkot",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Siālkot"
+        },
+        {
+          "city" : "Wah Cantonment",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Punjab",
+          "othername" : "Wāh Cantonment"
+        },
+        {
+          "city" : "Hyderabad",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Sindh",
+          "othername" : "Hyderābād"
+        },
+        {
+          "city" : "Karachi",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Sindh",
+          "othername" : "Karāchi"
+        },
+        {
+          "city" : "Larkana",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Sindh",
+          "othername" : "Lārkāna"
+        },
+        {
+          "city" : "Mirpur Khas",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Sindh",
+          "othername" : "Mīrpur Khās"
+        },
+        {
+          "city" : "Nawabshah",
+          "country" : "PK",
+          "country_area" : 803940,
+          "country_capital" : "Islamabad",
+          "province" : "Sindh",
+          "othername" : "Nawābshāh"
+        },
+        {
+          "city" : "Warszawa",
+          "country" : "PL",
+          "country_area" : 312683,
+          "country_capital" : "Warszawa",
+          "province" : "Mazowieckie",
+          "othername" : "Warsaw"
+        },
+        {
+          "city" : "Majkop",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Adygeya",
+          "othername" : "Maykop"
+        },
+        {
+          "city" : "Bijsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Altayskiy",
+          "othername" : "Biysk"
+        },
+        {
+          "city" : "Rubcovsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Altayskiy",
+          "othername" : "Rubtsovsk"
+        },
+        {
+          "city" : "Blagoveščensk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Amurskaya",
+          "othername" : "Blagoveshchensk"
+        },
+        {
+          "city" : "Arkhangelsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Arkhangelskaya",
+          "othername" : "Archangelsk"
+        },
+        {
+          "city" : "Astrakhan",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Astrakhanskaya",
+          "othername" : "Astrachan"
+        },
+        {
+          "city" : "Oktjabrskij",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Bashkortostan",
+          "othername" : "Oktyabrsky"
+        },
+        {
+          "city" : "Staryj Oskol",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Belgorodskaya",
+          "othername" : "Stary Oskol"
+        },
+        {
+          "city" : "Bryansk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Bryanskaya",
+          "othername" : "Brjansk"
+        },
+        {
+          "city" : "Grozny",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Chechenskaya",
+          "othername" : "Groznyj"
+        },
+        {
+          "city" : "Chelyabinsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Chelyabinskaya",
+          "othername" : "Čelabinsk"
+        },
+        {
+          "city" : "Kopejsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Chelyabinskaya",
+          "othername" : "Kopeysk"
+        },
+        {
+          "city" : "Cheboksary",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Chuvashia",
+          "othername" : "Čeboksary"
+        },
+        {
+          "city" : "Novočeboksarsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Chuvashia",
+          "othername" : "Novocheboksarsk"
+        },
+        {
+          "city" : "Chasavjurt",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Dagestan",
+          "othername" : "Khasavyurt"
+        },
+        {
+          "city" : "Kaspijsk",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Dagestan",
+          "othername" : "Kaspiysk"
+        },
+        {
+          "city" : "Makhachkala",
+          "country" : "R",
+          "country_area" : 17075200,
+          "country_capital" : "Moskva",
+          "province" : "Dagestan",
+          "othername" : "Machačkala"
+        },
+        {
+          "city" : "Bayrūt",
+          "country" : "RL",
+          "country_area" : 10400,
+          "country_capital" : "Bayrūt",
+          "province" : "Lebanon",
+          "othername" : "Beirut"
+        },
+        {
+          "city" : "Majunga",
+          "country" : "RM",
+          "country_area" : 587041,
+          "country_capital" : "Antananarivo",
+          "province" : "Madagascar",
+          "othername" : "Mahajanga"
+        },
+        {
+          "city" : "Tamatave",
+          "country" : "RM",
+          "country_area" : 587041,
+          "country_capital" : "Antananarivo",
+          "province" : "Madagascar",
+          "othername" : "Toamasina"
+        },
+        {
+          "city" : "Tombouctou",
+          "country" : "RMM",
+          "country_area" : 1240000,
+          "country_capital" : "Bamako",
+          "province" : "Tombouctou",
+          "othername" : "Timbuktu"
+        },
+        {
+          "city" : "Bucureşti",
+          "country" : "RO",
+          "country_area" : 237500,
+          "country_capital" : "Bucureşti",
+          "province" : "Bucureşti",
+          "othername" : "Bucarest"
+        },
+        {
+          "city" : "Bucureşti",
+          "country" : "RO",
+          "country_area" : 237500,
+          "country_capital" : "Bucureşti",
+          "province" : "Bucureşti",
+          "othername" : "Bucharest"
+        },
+        {
+          "city" : "Sfintu Gheorghe",
+          "country" : "RO",
+          "country_area" : 237500,
+          "country_capital" : "Bucureşti",
+          "province" : "Covasna",
+          "othername" : "Sfântu Gheorghe"
+        },
+        {
+          "city" : "Tirgu Jiu",
+          "country" : "RO",
+          "country_area" : 237500,
+          "country_capital" : "Bucureşti",
+          "province" : "Gorj",
+          "othername" : "Târgu Jiu"
+        },
+        {
+          "city" : "Busan",
+          "country" : "ROK",
+          "country_area" : 98480,
+          "country_capital" : "Seoul",
+          "province" : "South Korea",
+          "othername" : "Pusan"
+        },
+        {
+          "city" : "Daegu",
+          "country" : "ROK",
+          "country_area" : 98480,
+          "country_capital" : "Seoul",
+          "province" : "South Korea",
+          "othername" : "Taegu"
+        },
+        {
+          "city" : "Daejeon",
+          "country" : "ROK",
+          "country_area" : 98480,
+          "country_capital" : "Seoul",
+          "province" : "South Korea",
+          "othername" : "Taejon"
+        },
+        {
+          "city" : "Gwangju",
+          "country" : "ROK",
+          "country_area" : 98480,
+          "country_capital" : "Seoul",
+          "province" : "South Korea",
+          "othername" : "Kwangju"
+        },
+        {
+          "city" : "Jeju",
+          "country" : "ROK",
+          "country_area" : 98480,
+          "country_capital" : "Seoul",
+          "province" : "South Korea",
+          "othername" : "Cheju"
+        },
+        {
+          "city" : "Biñan",
+          "country" : "RP",
+          "country_area" : 299764,
+          "country_capital" : "Manila",
+          "province" : "Calabarzon",
+          "othername" : "Biniang"
+        },
+        {
+          "city" : "Rodriguez",
+          "country" : "RP",
+          "country_area" : 299764,
+          "country_capital" : "Manila",
+          "province" : "Calabarzon",
+          "othername" : "Montalban"
+        },
+        {
+          "city" : "San Jose Del Monte",
+          "country" : "RP",
+          "country_area" : 299764,
+          "country_capital" : "Manila",
+          "province" : "Central Luzon",
+          "othername" : "San Jose del Monte"
+        },
+        {
+          "city" : "Lapu-Lapu",
+          "country" : "RP",
+          "country_area" : 299764,
+          "country_capital" : "Manila",
+          "province" : "Central Visayas",
+          "othername" : "Opon"
+        },
+        {
+          "city" : "Kalookan",
+          "country" : "RP",
+          "country_area" : 299764,
+          "country_capital" : "Manila",
+          "province" : "Metro Manila",
+          "othername" : "Caloocan"
+        },
+        {
+          "city" : "Cagayan De Oro",
+          "country" : "RP",
+          "country_area" : 299764,
+          "country_capital" : "Manila",
+          "province" : "Northern Mindanao",
+          "othername" : "Cagayan de Oro"
+        },
+        {
+          "city" : "General Santos",
+          "country" : "RP",
+          "country_area" : 299764,
+          "country_capital" : "Manila",
+          "province" : "Soccsksargen",
+          "othername" : "Dadiangas"
+        },
+        {
+          "city" : "Bhisho",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "Eastern Cape",
+          "othername" : "Bisho"
+        },
+        {
+          "city" : "Buffalo City",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "Eastern Cape",
+          "othername" : "East London"
+        },
+        {
+          "city" : "Nelson Mandela Bay",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "Eastern Cape",
+          "othername" : "Gqeberha"
+        },
+        {
+          "city" : "Nelson Mandela Bay",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "Eastern Cape",
+          "othername" : "Port Elizabeth"
+        },
+        {
+          "city" : "Mangaung",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "Free State",
+          "othername" : "Bloemfontein"
+        },
+        {
+          "city" : "Ekurhuleni - Germiston",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "Gauteng",
+          "othername" : "East Rand"
+        },
+        {
+          "city" : "Ekurhuleni - Germiston",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "Gauteng",
+          "othername" : "Ekurhuleni"
+        },
+        {
+          "city" : "Emfuleni",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "Gauteng",
+          "othername" : "Vanderbijlpark"
+        },
+        {
+          "city" : "Tshwane",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "Gauteng",
+          "othername" : "Pretoria"
+        },
+        {
+          "city" : "Msunduzi",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "KwaZulu-Natal",
+          "othername" : "Pietermaritzburg"
+        },
+        {
+          "city" : "eThekwini",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "KwaZulu-Natal",
+          "othername" : "Durban"
+        },
+        {
+          "city" : "Polokwane",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "Limpopo",
+          "othername" : "Pietersburg"
+        },
+        {
+          "city" : "Mbombela",
+          "country" : "RSA",
+          "country_area" : 1219912,
+          "country_capital" : "Tshwane",
+          "province" : "Mpumalanga",
+          "othername" : "Nelspruit"
+        },
+        {
+          "city" : "Göteborg",
+          "country" : "S",
+          "country_area" : 449964,
+          "country_capital" : "Stockholm",
+          "province" : "Västra Götaland",
+          "othername" : "Gothenburg"
+        },
+        {
+          "city" : "Göteborg",
+          "country" : "S",
+          "country_area" : 449964,
+          "country_capital" : "Stockholm",
+          "province" : "Västra Götaland",
+          "othername" : "Göteborg"
+        },
+        {
+          "city" : "Al Baha",
+          "country" : "SA",
+          "country_area" : 1960582,
+          "country_capital" : "Riyadh",
+          "province" : "Al-Baha",
+          "othername" : "Al Bahah"
+        },
+        {
+          "city" : "Sakaka",
+          "country" : "SA",
+          "country_area" : 1960582,
+          "country_capital" : "Riyadh",
+          "province" : "Al-Jouf",
+          "othername" : "Sakakah"
+        },
+        {
+          "city" : "Al Madinah",
+          "country" : "SA",
+          "country_area" : 1960582,
+          "country_capital" : "Riyadh",
+          "province" : "Al-Madinah Al-Monawarah",
+          "othername" : "Madinah"
+        },
+        {
+          "city" : "Jazan",
+          "country" : "SA",
+          "country_area" : 1960582,
+          "country_capital" : "Riyadh",
+          "province" : "Jazan",
+          "othername" : "Jizan"
+        },
+        {
+          "city" : "At Taif",
+          "country" : "SA",
+          "country_area" : 1960582,
+          "country_capital" : "Riyadh",
+          "province" : "Makkah Al-Mokarramah",
+          "othername" : "Taif"
+        },
+        {
+          "city" : "Makkah",
+          "country" : "SA",
+          "country_area" : 1960582,
+          "country_capital" : "Riyadh",
+          "province" : "Makkah Al-Mokarramah",
+          "othername" : "Mecca"
+        },
+        {
+          "city" : "Tabouk",
+          "country" : "SA",
+          "country_area" : 1960582,
+          "country_capital" : "Riyadh",
+          "province" : "Tabouk",
+          "othername" : "Tabuk"
+        },
+        {
+          "city" : "Beograd",
+          "country" : "SRB",
+          "country_area" : 77474,
+          "country_capital" : "Beograd",
+          "province" : "Serbia",
+          "othername" : "Belgrade"
+        },
+        {
+          "city" : "Al Gazira",
+          "country" : "SUD",
+          "country_area" : 1840687,
+          "country_capital" : "Khartoum",
+          "province" : "Al-Jazīrah",
+          "othername" : "Wad Madani"
+        },
+        {
+          "city" : "Khartoum North",
+          "country" : "SUD",
+          "country_area" : 1840687,
+          "country_capital" : "Khartoum",
+          "province" : "Al-Kharṭūm",
+          "othername" : "Al Chartum Bahri"
+        },
+        {
+          "city" : "Khartoum North",
+          "country" : "SUD",
+          "country_area" : 1840687,
+          "country_capital" : "Khartoum",
+          "province" : "Al-Kharṭūm",
+          "othername" : "Chartum Bahri"
+        },
+        {
+          "city" : "Omdurman",
+          "country" : "SUD",
+          "country_area" : 1840687,
+          "country_capital" : "Khartoum",
+          "province" : "Al-Kharṭūm",
+          "othername" : "Umm Durman"
+        },
+        {
+          "city" : "Al Gedaref",
+          "country" : "SUD",
+          "country_area" : 1840687,
+          "country_capital" : "Khartoum",
+          "province" : "Al-Qaḍārif",
+          "othername" : "Al Qadarif"
+        },
+        {
+          "city" : "Kūstī",
+          "country" : "SUD",
+          "country_area" : 1840687,
+          "country_capital" : "Khartoum",
+          "province" : "An-Nīl al-Abyaḍ",
+          "othername" : "Kosti"
+        },
+        {
+          "city" : "Dunqulā",
+          "country" : "SUD",
+          "country_area" : 1840687,
+          "country_capital" : "Khartoum",
+          "province" : "Ash-Shamālīyah",
+          "othername" : "Dongola"
+        },
+        {
+          "city" : "Aḍ-Ḍuayn",
+          "country" : "SUD",
+          "country_area" : 1840687,
+          "country_capital" : "Khartoum",
+          "province" : "Sharq Dārfūr",
+          "othername" : "Ad Duain"
+        },
+        {
+          "city" : "Al Qamishl",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Al Hasakah",
+          "othername" : "Qamishli"
+        },
+        {
+          "city" : "Al Ladhiqiyah",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Al Ladhiqiyah",
+          "othername" : "Latakia"
+        },
+        {
+          "city" : "Al Qunaytirah",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Al Qunaytirah",
+          "othername" : "Quneitra"
+        },
+        {
+          "city" : "Dayr az Zawr",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Dayr az Zawr",
+          "othername" : "Deir ez-Zor"
+        },
+        {
+          "city" : "Dimashq",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Dimashq",
+          "othername" : "Damascus"
+        },
+        {
+          "city" : "Dimashq",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Dimashq",
+          "othername" : "Damaskus"
+        },
+        {
+          "city" : "Halab",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Halab",
+          "othername" : "Aleppo"
+        },
+        {
+          "city" : "Halab",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Halab",
+          "othername" : "Haleb"
+        },
+        {
+          "city" : "Hamah",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Hamah",
+          "othername" : "Hama"
+        },
+        {
+          "city" : "Hims",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Hims",
+          "othername" : "Homs"
+        },
+        {
+          "city" : "Maarrat an Numan",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Idlib",
+          "othername" : "Maarat al-Numaan"
+        },
+        {
+          "city" : "Duma",
+          "country" : "SYR",
+          "country_area" : 185180,
+          "country_capital" : "Dimashq",
+          "province" : "Rif Dimashq",
+          "othername" : "Douma"
+        },
+        {
+          "city" : "Bangkok",
+          "country" : "THA",
+          "country_area" : 514000,
+          "country_capital" : "Bangkok",
+          "province" : "Thailand",
+          "othername" : "Khrung Thep"
+        },
+        {
+          "city" : "Kulyab",
+          "country" : "TJ",
+          "country_area" : 143100,
+          "country_capital" : "Dushanbe",
+          "province" : "Khatlon",
+          "othername" : "Kulob"
+        },
+        {
+          "city" : "Khujand",
+          "country" : "TJ",
+          "country_area" : 143100,
+          "country_capital" : "Dushanbe",
+          "province" : "Sughd",
+          "othername" : "Chudschand"
+        },
+        {
+          "city" : "Khujand",
+          "country" : "TJ",
+          "country_area" : 143100,
+          "country_capital" : "Dushanbe",
+          "province" : "Sughd",
+          "othername" : "Khudzhand"
+        },
+        {
+          "city" : "Balkanabat",
+          "country" : "TM",
+          "country_area" : 488100,
+          "country_capital" : "Ashgabat",
+          "province" : "Balkan",
+          "othername" : "Nebitdag"
+        },
+        {
+          "city" : "Dashhowuz",
+          "country" : "TM",
+          "country_area" : 488100,
+          "country_capital" : "Ashgabat",
+          "province" : "Dashhowuz",
+          "othername" : "Daşoguz"
+        },
+        {
+          "city" : "Dashhowuz",
+          "country" : "TM",
+          "country_area" : 488100,
+          "country_capital" : "Ashgabat",
+          "province" : "Dashhowuz",
+          "othername" : "Tashauz"
+        },
+        {
+          "city" : "Turkmenabat",
+          "country" : "TM",
+          "country_area" : 488100,
+          "country_capital" : "Ashgabat",
+          "province" : "Lebap",
+          "othername" : "Charjew"
+        },
+        {
+          "city" : "Afyonkarahisar",
+          "country" : "TR",
+          "country_area" : 780580,
+          "country_capital" : "Ankara",
+          "province" : "Afyonkarahisar",
+          "othername" : "Afyon"
+        },
+        {
+          "city" : "Hatay",
+          "country" : "TR",
+          "country_area" : 780580,
+          "country_capital" : "Ankara",
+          "province" : "Hatay",
+          "othername" : "Antakya"
+        },
+        {
+          "city" : "Kocaeli",
+          "country" : "TR",
+          "country_area" : 780580,
+          "country_capital" : "Ankara",
+          "province" : "Kocaeli",
+          "othername" : "Izmit"
+        },
+        {
+          "city" : "Mersin",
+          "country" : "TR",
+          "country_area" : 780580,
+          "country_capital" : "Ankara",
+          "province" : "Mersin",
+          "othername" : "Icel"
+        },
+        {
+          "city" : "Sakarya",
+          "country" : "TR",
+          "country_area" : 780580,
+          "country_capital" : "Ankara",
+          "province" : "Sakarya",
+          "othername" : "Adapazari"
+        },
+        {
+          "city" : "Şanlıurfa",
+          "country" : "TR",
+          "country_area" : 780580,
+          "country_capital" : "Ankara",
+          "province" : "Şanlıurfa",
+          "othername" : "Urfa"
+        },
+        {
+          "city" : "Dnipro",
+          "country" : "UA",
+          "country_area" : 603700,
+          "country_capital" : "Kyïv",
+          "province" : "Dnipropetrovska",
+          "othername" : "Dnipropetrovsk"
+        },
+        {
+          "city" : "Kharkiv",
+          "country" : "UA",
+          "country_area" : 603700,
+          "country_capital" : "Kyïv",
+          "province" : "Kharkivska",
+          "othername" : "Kharkov"
+        },
+        {
+          "city" : "Kyïv",
+          "country" : "UA",
+          "country_area" : 603700,
+          "country_capital" : "Kyïv",
+          "province" : "Kyïv",
+          "othername" : "Kiev"
+        },
+        {
+          "city" : "Prypjat",
+          "country" : "UA",
+          "country_area" : 603700,
+          "country_capital" : "Kyïv",
+          "province" : "Kyïvska",
+          "othername" : "Pripyat"
+        },
+        {
+          "city" : "Odesa",
+          "country" : "UA",
+          "country_area" : 603700,
+          "country_capital" : "Kyïv",
+          "province" : "Odeska",
+          "othername" : "Odessa"
+        },
+        {
+          "city" : "Rivne",
+          "country" : "UA",
+          "country_area" : 603700,
+          "country_capital" : "Kyïv",
+          "province" : "Rivnenska",
+          "othername" : "Rovno"
+        },
+        {
+          "city" : "Uzhhorod",
+          "country" : "UA",
+          "country_area" : 603700,
+          "country_capital" : "Kyïv",
+          "province" : "Zakarpatska",
+          "othername" : "Uzhgorod"
+        },
+        {
+          "city" : "Zaporizhzhia",
+          "country" : "UA",
+          "country_area" : 603700,
+          "country_capital" : "Kyïv",
+          "province" : "Zaporizka",
+          "othername" : "Zaporizhia"
+        },
+        {
+          "city" : "Al Sharjah",
+          "country" : "UAE",
+          "country_area" : 75581,
+          "country_capital" : "Abu Dhabi",
+          "province" : "United Arab Emirates",
+          "othername" : "Sharjah"
+        },
+        {
+          "city" : "Boise City",
+          "country" : "USA",
+          "country_area" : 9372610,
+          "country_capital" : "Washington",
+          "province" : "Idaho",
+          "othername" : "Boise"
+        },
+        {
+          "city" : "Lexington",
+          "country" : "USA",
+          "country_area" : 9372610,
+          "country_capital" : "Washington",
+          "province" : "Kentucky",
+          "othername" : "Lexington Fayette"
+        },
+        {
+          "city" : "Nashville-Davidson",
+          "country" : "USA",
+          "country_area" : 9372610,
+          "country_capital" : "Washington",
+          "province" : "Tennessee",
+          "othername" : "Nashville"
+        },
+        {
+          "city" : "Buxoro",
+          "country" : "UZ",
+          "country_area" : 447400,
+          "country_capital" : "Toshkent",
+          "province" : "Buxoro",
+          "othername" : "Bukhara"
+        },
+        {
+          "city" : "Fargona",
+          "country" : "UZ",
+          "country_area" : 447400,
+          "country_capital" : "Toshkent",
+          "province" : "Fargʻona",
+          "othername" : "Fergana"
+        },
+        {
+          "city" : "Marg‘ilon",
+          "country" : "UZ",
+          "country_area" : 447400,
+          "country_capital" : "Toshkent",
+          "province" : "Fargʻona",
+          "othername" : "Margilan"
+        },
+        {
+          "city" : "Qo‘qon",
+          "country" : "UZ",
+          "country_area" : 447400,
+          "country_capital" : "Toshkent",
+          "province" : "Fargʻona",
+          "othername" : "Kokand"
+        },
+        {
+          "city" : "Samarqand",
+          "country" : "UZ",
+          "country_area" : 447400,
+          "country_capital" : "Toshkent",
+          "province" : "Samarqand",
+          "othername" : "Samarkand"
+        },
+        {
+          "city" : "Termiz",
+          "country" : "UZ",
+          "country_area" : 447400,
+          "country_capital" : "Toshkent",
+          "province" : "Surkhandarya",
+          "othername" : "Termez"
+        },
+        {
+          "city" : "Olmaliq",
+          "country" : "UZ",
+          "country_area" : 447400,
+          "country_capital" : "Toshkent",
+          "province" : "Toshkent",
+          "othername" : "Almalyk"
+        },
+        {
+          "city" : "Toshkent",
+          "country" : "UZ",
+          "country_area" : 447400,
+          "country_capital" : "Toshkent",
+          "province" : "Toshkent City",
+          "othername" : "Tashkent"
+        },
+        {
+          "city" : "Urganch",
+          "country" : "UZ",
+          "country_area" : 447400,
+          "country_capital" : "Toshkent",
+          "province" : "Xorazm",
+          "othername" : "Urgench"
+        },
+        {
+          "city" : "Qui Nhon",
+          "country" : "VN",
+          "country_area" : 329560,
+          "country_capital" : "Hanoi",
+          "province" : "North and South Central Coast",
+          "othername" : "Quy Nhơn"
+        },
+        {
+          "city" : "Ha Long",
+          "country" : "VN",
+          "country_area" : 329560,
+          "country_capital" : "Hanoi",
+          "province" : "Northern Midlands and Mountains",
+          "othername" : "Hong Gai"
+        },
+        {
+          "city" : "Bien Hoa",
+          "country" : "VN",
+          "country_area" : 329560,
+          "country_capital" : "Hanoi",
+          "province" : "Southeast",
+          "othername" : "Bien Hoa City"
+        },
+        {
+          "city" : "Ho Chi Minh City",
+          "country" : "VN",
+          "country_area" : 329560,
+          "country_capital" : "Hanoi",
+          "province" : "Southeast",
+          "othername" : "Ho Chi Minh"
+        },
+        {
+          "city" : "Ho Chi Minh City",
+          "country" : "VN",
+          "country_area" : 329560,
+          "country_capital" : "Hanoi",
+          "province" : "Southeast",
+          "othername" : "Saigon"
+        },
+        {
+          "city" : "Al Khalil",
+          "country" : "WB",
+          "country_area" : 5655,
+          "country_capital" : "Ramallah",
+          "province" : "West Bank",
+          "othername" : "Hebron"
+        },
+        {
+          "city" : "Saint George's",
+          "country" : "WG",
+          "country_area" : 344,
+          "country_capital" : "Saint George's",
+          "province" : "Grenada",
+          "othername" : "St. George's"
+        },
+        {
+          "city" : "El Aaiun",
+          "country" : "WSA",
+          "country_area" : 266000,
+          "country_capital" : "El Aaiun",
+          "province" : "Western Sahara",
+          "othername" : "Laâyoune"
+        },
+        {
+          "city" : "Taizz",
+          "country" : "YE",
+          "country_area" : 527970,
+          "country_capital" : "Sanaa",
+          "province" : "Yemen",
+          "othername" : "Taiz"
+        },
+        {
+          "city" : "al Hudaydah",
+          "country" : "YE",
+          "country_area" : 527970,
+          "country_capital" : "Sanaa",
+          "province" : "Yemen",
+          "othername" : "Al Hudaydah"
+        },
+        {
+          "city" : "al Hudaydah",
+          "country" : "YE",
+          "country_area" : 527970,
+          "country_capital" : "Sanaa",
+          "province" : "Yemen",
+          "othername" : "Hodeidah"
+        },
+        {
+          "city" : "San Fernando",
+          "country" : "YV",
+          "country_area" : 912050,
+          "country_capital" : "Caracas",
+          "province" : "Apure",
+          "othername" : "San Fernando de Apure"
+        },
+        {
+          "city" : "Santa Ana de Coro",
+          "country" : "YV",
+          "country_area" : 912050,
+          "country_capital" : "Caracas",
+          "province" : "Falcón",
+          "othername" : "Coro"
+        },
+        {
+          "city" : "San Juan",
+          "country" : "YV",
+          "country_area" : 912050,
+          "country_capital" : "Caracas",
+          "province" : "Guárico",
+          "othername" : "San Juan de Los Morros"
+        }
+      ]
+    }
+  ]
+}

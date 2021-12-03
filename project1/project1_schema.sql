@@ -179,3 +179,19 @@ CREATE TABLE inventories
       REFERENCES warehouses( warehouse_id ) 
       ON DELETE CASCADE
   );
+
+
+
+
+drop table regions;
+drop table countries;
+drop table locations;
+drop table warehouses;
+drop table product_categories;
+drop table products;
+drop table customers;
+drop table contacts;
+drop table orders;
+drop table order_items;
+drop table inventories;
+drop table employees;

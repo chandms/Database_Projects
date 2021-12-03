@@ -1,0 +1,245 @@
+{"name": "Albania", "code": "AL", "capital": "Tirana", "province": "Albania", "area": 28750, "population": 2821977, "_id": {"$oid": "61a853fc9abb2b800db79698"}}
+{"name": "Greece", "code": "GR", "capital": "Athina", "province": "Attikis", "area": 131940, "population": 10816286, "_id": {"$oid": "61a853fc9abb2b800db79699"}}
+{"name": "Cyprus", "code": "CY", "capital": "Lefkosia", "province": "Cyprus", "area": 9251, "population": 1133803, "_id": {"$oid": "61a853fc9abb2b800db7969a"}}
+{"name": "North Macedonia", "code": "MK", "capital": "Skopje", "province": "North Macedonia", "area": 25333, "population": 2059794, "_id": {"$oid": "61a853fc9abb2b800db7969b"}}
+{"name": "Serbia", "code": "SRB", "capital": "Beograd", "province": "Serbia", "area": 77474, "population": 7120666, "_id": {"$oid": "61a853fc9abb2b800db7969c"}}
+{"name": "Montenegro", "code": "MNE", "capital": "Podgorica", "province": "Montenegro", "area": 14026, "population": 620029, "_id": {"$oid": "61a853fc9abb2b800db7969d"}}
+{"name": "Kosovo", "code": "KOS", "capital": "Prishtine", "province": "Kosovo", "area": 10887, "population": 1733872, "_id": {"$oid": "61a853fc9abb2b800db7969e"}}
+{"name": "Andorra", "code": "AND", "capital": "Andorra la Vella", "province": "Andorra", "area": 450, "population": 78115, "_id": {"$oid": "61a853fc9abb2b800db7969f"}}
+{"name": "France", "code": "F", "capital": "Paris", "province": "\u00cele-de-France", "area": 547030, "population": 64300821, "_id": {"$oid": "61a853fc9abb2b800db796a0"}}
+{"name": "Spain", "code": "E", "capital": "Madrid", "province": "Madrid", "area": 504750, "population": 46815916, "_id": {"$oid": "61a853fc9abb2b800db796a1"}}
+{"name": "Czech Republic", "code": "CZ", "capital": "Praha", "province": "Praha", "area": 78703, "population": 10562214, "_id": {"$oid": "61a853fc9abb2b800db796a2"}}
+{"name": "Slovakia", "code": "SK", "capital": "Bratislava", "province": "Bratislavsk\u00fd", "area": 48845, "population": 5397036, "_id": {"$oid": "61a853fc9abb2b800db796a3"}}
+{"name": "Germany", "code": "D", "capital": "Berlin", "province": "Berlin", "area": 356910, "population": 82521653, "_id": {"$oid": "61a853fc9abb2b800db796a4"}}
+{"name": "Hungary", "code": "H", "capital": "Budapest", "province": "Budapest", "area": 93030, "population": 9937628, "_id": {"$oid": "61a853fc9abb2b800db796a5"}}
+{"name": "Italy", "code": "I", "capital": "Roma", "province": "Lazio", "area": 301230, "population": 59433744, "_id": {"$oid": "61a853fc9abb2b800db796a6"}}
+{"name": "Switzerland", "code": "CH", "capital": "Bern", "province": "Bern", "area": 41290, "population": 8139631, "_id": {"$oid": "61a853fc9abb2b800db796a7"}}
+{"name": "Liechtenstein", "code": "FL", "capital": "Vaduz", "province": "Liechtenstein", "area": 160, "population": 36149, "_id": {"$oid": "61a853fc9abb2b800db796a8"}}
+{"name": "Austria", "code": "A", "capital": "Wien", "province": "Wien", "area": 83850, "population": 8499759, "_id": {"$oid": "61a853fc9abb2b800db796a9"}}
+{"name": "Estonia", "code": "EST", "capital": "Tallinn", "province": "Estonia", "area": 45100, "population": 1294455, "_id": {"$oid": "61a853fc9abb2b800db796aa"}}
+{"name": "Latvia", "code": "LV", "capital": "R\u012bga", "province": "Latvia", "area": 64100, "population": 2201196, "_id": {"$oid": "61a853fc9abb2b800db796ab"}}
+{"name": "Lithuania", "code": "LT", "capital": "Vilnius", "province": "Lithuania", "area": 65200, "population": 2979310, "_id": {"$oid": "61a853fc9abb2b800db796ac"}}
+{"name": "Belarus", "code": "BY", "capital": "Minsk", "province": "Minsk City", "area": 207600, "population": 9460692, "_id": {"$oid": "61a853fc9abb2b800db796ad"}}
+{"name": "Poland", "code": "PL", "capital": "Warszawa", "province": "Mazowieckie", "area": 312683, "population": 38533789, "_id": {"$oid": "61a853fc9abb2b800db796ae"}}
+{"name": "Ukraine", "code": "UA", "capital": "Ky\u00efv", "province": "Ky\u00efv", "area": 603700, "population": 45633637, "_id": {"$oid": "61a853fc9abb2b800db796af"}}
+{"name": "Russia", "code": "R", "capital": "Moskva", "province": "Moscow", "area": 17075200, "population": 143666931, "_id": {"$oid": "61a853fc9abb2b800db796b0"}}
+{"name": "Belgium", "code": "B", "capital": "Bruxelles", "province": "Bruxelles", "area": 30510, "population": 11099554, "_id": {"$oid": "61a853fc9abb2b800db796b1"}}
+{"name": "Luxembourg", "code": "L", "capital": "Luxembourg", "province": "Luxembourg", "area": 2586, "population": 524853, "_id": {"$oid": "61a853fc9abb2b800db796b2"}}
+{"name": "Netherlands", "code": "NL", "capital": "Amsterdam", "province": "Noord-Holland", "area": 37330, "population": 16843181, "_id": {"$oid": "61a853fc9abb2b800db796b3"}}
+{"name": "Slovenia", "code": "SLO", "capital": "Ljubljana", "province": "Slovenia", "area": 20256, "population": 2058821, "_id": {"$oid": "61a853fc9abb2b800db796b4"}}
+{"name": "Croatia", "code": "HR", "capital": "Zagreb", "province": "Croatia", "area": 56538, "population": 4290612, "_id": {"$oid": "61a853fc9abb2b800db796b5"}}
+{"name": "Bosnia and Herzegovina", "code": "BIH", "capital": "Sarajevo", "province": "Federacija Bosne i Hercegovine", "area": 51233, "population": 3791622, "_id": {"$oid": "61a853fc9abb2b800db796b6"}}
+{"name": "Bulgaria", "code": "BG", "capital": "Sofia", "province": "Bulgaria", "area": 110910, "population": 7351234, "_id": {"$oid": "61a853fc9abb2b800db796b7"}}
+{"name": "Romania", "code": "RO", "capital": "Bucure\u015fti", "province": "Bucure\u015fti", "area": 237500, "population": 20121641, "_id": {"$oid": "61a853fc9abb2b800db796b8"}}
+{"name": "Denmark", "code": "DK", "capital": "Copenhagen", "province": "Hovedstaden", "area": 43070, "population": 5678348, "_id": {"$oid": "61a853fc9abb2b800db796b9"}}
+{"name": "Iceland", "code": "IS", "capital": "Reykjavik", "province": "Iceland", "area": 103000, "population": 332529, "_id": {"$oid": "61a853fc9abb2b800db796ba"}}
+{"name": "Faroe Islands", "code": "FO", "capital": "T\u00f3rshavn", "province": "Faroe Islands", "area": 1400, "population": 48346, "_id": {"$oid": "61a853fc9abb2b800db796bb"}}
+{"name": "Ireland", "code": "IRL", "capital": "Dublin", "province": "Ireland", "area": 70280, "population": 4588252, "_id": {"$oid": "61a853fc9abb2b800db796bc"}}
+{"name": "Finland", "code": "SF", "capital": "Helsinki", "province": "Uusimaa", "area": 337030, "population": 5513130, "_id": {"$oid": "61a853fc9abb2b800db796bd"}}
+{"name": "Norway", "code": "N", "capital": "Oslo", "province": "Oslo", "area": 324220, "population": 5051275, "_id": {"$oid": "61a853fc9abb2b800db796be"}}
+{"name": "Sweden", "code": "S", "capital": "Stockholm", "province": "Stockholm", "area": 449964, "population": 9555893, "_id": {"$oid": "61a853fc9abb2b800db796bf"}}
+{"name": "Monaco", "code": "MC", "capital": "Monaco", "province": "Monaco", "area": 1.9, "population": 36845, "_id": {"$oid": "61a853fc9abb2b800db796c0"}}
+{"name": "Vatican City", "code": "V", "capital": "Vatican City", "province": "Vatican City", "area": 0.44, "population": 826, "_id": {"$oid": "61a853fc9abb2b800db796c1"}}
+{"name": "Ceuta", "code": "CEU", "capital": "Ceuta", "province": "Ceuta", "area": 18, "population": 82376, "_id": {"$oid": "61a853fc9abb2b800db796c2"}}
+{"name": "Melilla", "code": "MEL", "capital": "Melilla", "province": "Melilla", "area": 12, "population": 78476, "_id": {"$oid": "61a853fc9abb2b800db796c3"}}
+{"name": "San Marino", "code": "RSM", "capital": "San Marino", "province": "San Marino", "area": 60, "population": 32440, "_id": {"$oid": "61a853fc9abb2b800db796c4"}}
+{"name": "Malta", "code": "M", "capital": "Valletta", "province": "Malta", "area": 316, "population": 475800, "_id": {"$oid": "61a853fc9abb2b800db796c5"}}
+{"name": "Isle of Man", "code": "GBM", "capital": "Douglas", "province": "Isle of Man", "area": 588, "population": 84497, "_id": {"$oid": "61a853fc9abb2b800db796c6"}}
+{"name": "Moldova", "code": "MD", "capital": "Chi\u015fin\u0103u", "province": "Moldova", "area": 33700, "population": 3473900, "_id": {"$oid": "61a853fc9abb2b800db796c7"}}
+{"name": "Portugal", "code": "P", "capital": "Lisboa", "province": "Lisboa", "area": 92080, "population": 10561614, "_id": {"$oid": "61a853fc9abb2b800db796c8"}}
+{"name": "Svalbard", "code": "SVA", "capital": "Longyearbyen", "province": "Svalbard", "area": 62049, "population": 2667, "_id": {"$oid": "61a853fc9abb2b800db796c9"}}
+{"name": "United Kingdom", "code": "GB", "capital": "London", "province": "London", "area": 244820, "population": 64105654, "_id": {"$oid": "61a853fc9abb2b800db796ca"}}
+{"name": "Gibraltar", "code": "GBZ", "capital": "Gibraltar", "province": "Gibraltar", "area": 6.5, "population": 32577, "_id": {"$oid": "61a853fc9abb2b800db796cb"}}
+{"name": "Guernsey", "code": "GBG", "capital": "Saint Peter Port", "province": "Guernsey", "area": 194, "population": 64540, "_id": {"$oid": "61a853fc9abb2b800db796cc"}}
+{"name": "Jersey", "code": "GBJ", "capital": "Saint Helier", "province": "Jersey", "area": 117, "population": 97857, "_id": {"$oid": "61a853fc9abb2b800db796cd"}}
+{"name": "Armenia", "code": "ARM", "capital": "Yerevan", "province": "Armenia", "area": 29800, "population": 3026879, "_id": {"$oid": "61a853fc9abb2b800db796ce"}}
+{"name": "Georgia", "code": "GE", "capital": "Tbilisi", "province": "Georgia", "area": 69700, "population": 4010000, "_id": {"$oid": "61a853fc9abb2b800db796cf"}}
+{"name": "Azerbaijan", "code": "AZ", "capital": "Baku", "province": "Azerbaijan", "area": 86600, "population": 9356500, "_id": {"$oid": "61a853fc9abb2b800db796d0"}}
+{"name": "Turkey", "code": "TR", "capital": "Ankara", "province": "Ankara", "area": 780580, "population": 75627384, "_id": {"$oid": "61a853fc9abb2b800db796d1"}}
+{"name": "Lebanon", "code": "RL", "capital": "Bayr\u016bt", "province": "Lebanon", "area": 10400, "population": 4341092, "_id": {"$oid": "61a853fc9abb2b800db796d2"}}
+{"name": "West Bank", "code": "WB", "capital": "Ramallah", "province": "West Bank", "area": 5655, "population": 2881687, "_id": {"$oid": "61a853fc9abb2b800db796d3"}}
+{"name": "Gaza Strip", "code": "GAZA", "capital": "", "province": "", "area": 365, "population": 1899291, "_id": {"$oid": "61a853fc9abb2b800db796d4"}}
+{"name": "Israel", "code": "IL", "capital": "Yerushalayim", "province": "Yerushalayim", "area": 22072, "population": 7420368, "_id": {"$oid": "61a853fc9abb2b800db796d5"}}
+{"name": "Syria", "code": "SYR", "capital": "Dimashq", "province": "Dimashq", "area": 185180, "population": 17070135, "_id": {"$oid": "61a853fc9abb2b800db796d6"}}
+{"name": "Jordan", "code": "JOR", "capital": "Amman", "province": "Jordan", "area": 89213, "population": 9131712, "_id": {"$oid": "61a853fc9abb2b800db796d7"}}
+{"name": "Saudi Arabia", "code": "SA", "capital": "Riyadh", "province": "Al-Riyadh", "area": 1960582, "population": 27136977, "_id": {"$oid": "61a853fc9abb2b800db796d8"}}
+{"name": "Bahrain", "code": "BRN", "capital": "Al Man\u0101mah", "province": "Bahrain", "area": 620, "population": 1234571, "_id": {"$oid": "61a853fc9abb2b800db796d9"}}
+{"name": "Qatar", "code": "Q", "capital": "Doha", "province": "Qatar", "area": 11000, "population": 2404776, "_id": {"$oid": "61a853fc9abb2b800db796da"}}
+{"name": "United Arab Emirates", "code": "UAE", "capital": "Abu Dhabi", "province": "United Arab Emirates", "area": 75581, "population": 9121167, "_id": {"$oid": "61a853fc9abb2b800db796db"}}
+{"name": "Oman", "code": "OM", "capital": "Muscat", "province": "Oman", "area": 212460, "population": 4992364, "_id": {"$oid": "61a853fc9abb2b800db796dc"}}
+{"name": "Yemen", "code": "YE", "capital": "Sanaa", "province": "Yemen", "area": 527970, "population": 24527000, "_id": {"$oid": "61a853fc9abb2b800db796dd"}}
+{"name": "Kuwait", "code": "KWT", "capital": "Al Kuwayt", "province": "Kuwait", "area": 17820, "population": 2991580, "_id": {"$oid": "61a853fc9abb2b800db796de"}}
+{"name": "Iraq", "code": "IRQ", "capital": "Baghdad", "province": "Baghdad", "area": 437072, "population": 33330512, "_id": {"$oid": "61a853fc9abb2b800db796df"}}
+{"name": "Iran", "code": "IR", "capital": "Tehran", "province": "Tehran", "area": 1648000, "population": 79926270, "_id": {"$oid": "61a853fc9abb2b800db796e0"}}
+{"name": "Afghanistan", "code": "AFG", "capital": "Kabul", "province": "Afghanistan", "area": 647500, "population": 26023100, "_id": {"$oid": "61a853fc9abb2b800db796e1"}}
+{"name": "Turkmenistan", "code": "TM", "capital": "Ashgabat", "province": "Ashgabat", "area": 488100, "population": 6550000, "_id": {"$oid": "61a853fc9abb2b800db796e2"}}
+{"name": "Uzbekistan", "code": "UZ", "capital": "Toshkent", "province": "Toshkent City", "area": 447400, "population": 32120500, "_id": {"$oid": "61a853fc9abb2b800db796e3"}}
+{"name": "Tajikistan", "code": "TJ", "capital": "Dushanbe", "province": "Dushanbe", "area": 143100, "population": 8161100, "_id": {"$oid": "61a853fc9abb2b800db796e4"}}
+{"name": "Kyrgyzstan", "code": "KG", "capital": "Bishkek", "province": "Kyrgyzstan", "area": 198500, "population": 6256700, "_id": {"$oid": "61a853fc9abb2b800db796e5"}}
+{"name": "Kazakhstan", "code": "KZ", "capital": "Nur-Sultan", "province": "Astana", "area": 2717300, "population": 17165239, "_id": {"$oid": "61a853fc9abb2b800db796e6"}}
+{"name": "Mongolia", "code": "MNG", "capital": "Ulaanbaatar", "province": "Mongolia", "area": 1565000, "population": 2754685, "_id": {"$oid": "61a853fc9abb2b800db796e7"}}
+{"name": "Maldives", "code": "MV", "capital": "Male", "province": "Maldives", "area": 300, "population": 402071, "_id": {"$oid": "61a853fc9abb2b800db796e8"}}
+{"name": "Pakistan", "code": "PK", "capital": "Islamabad", "province": "FCT Islamabad", "area": 803940, "population": 207776954, "_id": {"$oid": "61a853fc9abb2b800db796e9"}}
+{"name": "India", "code": "IND", "capital": "Delhi", "province": "Delhi", "area": 3287590, "population": 1210854977, "_id": {"$oid": "61a853fc9abb2b800db796ea"}}
+{"name": "Nepal", "code": "NEP", "capital": "Kathmandu", "province": "Nepal", "area": 140800, "population": 26494504, "_id": {"$oid": "61a853fc9abb2b800db796eb"}}
+{"name": "Bhutan", "code": "BHT", "capital": "Thimphu", "province": "Bhutan", "area": 47000, "population": 727145, "_id": {"$oid": "61a853fc9abb2b800db796ec"}}
+{"name": "Bangladesh", "code": "BD", "capital": "Dhaka", "province": "Dhaka", "area": 144000, "population": 149772364, "_id": {"$oid": "61a853fc9abb2b800db796ed"}}
+{"name": "Myanmar", "code": "MYA", "capital": "Nay Pyi Taw", "province": "Nay Pyi Taw", "area": 678500, "population": 51419420, "_id": {"$oid": "61a853fc9abb2b800db796ee"}}
+{"name": "Sri Lanka", "code": "CL", "capital": "Sri Jayawardhanapura", "province": "Sri Lanka", "area": 65610, "population": 20263723, "_id": {"$oid": "61a853fc9abb2b800db796ef"}}
+{"name": "China", "code": "CN", "capital": "Beijing", "province": "Beijing", "area": 9596960, "population": 1427647786, "_id": {"$oid": "61a853fc9abb2b800db796f0"}}
+{"name": "Taiwan", "code": "RC", "capital": "Taipei", "province": "Taiwan", "area": 36179, "population": 23571227, "_id": {"$oid": "61a853fc9abb2b800db796f1"}}
+{"name": "Hong Kong", "code": "HK", "capital": "Hong Kong", "province": "Hong Kong", "area": 1092, "population": 7336585, "_id": {"$oid": "61a853fc9abb2b800db796f2"}}
+{"name": "Macao", "code": "MACX", "capital": "Macao", "province": "Macao", "area": 16, "population": 650834, "_id": {"$oid": "61a853fc9abb2b800db796f3"}}
+{"name": "North Korea", "code": "KP", "capital": "Pyongyang", "province": "North Korea", "area": 120540, "population": 24500520, "_id": {"$oid": "61a853fc9abb2b800db796f4"}}
+{"name": "South Korea", "code": "ROK", "capital": "Seoul", "province": "South Korea", "area": 98480, "population": 51269554, "_id": {"$oid": "61a853fc9abb2b800db796f5"}}
+{"name": "Japan", "code": "J", "capital": "Tokyo", "province": "Tokyo", "area": 377835, "population": 127094745, "_id": {"$oid": "61a853fc9abb2b800db796f6"}}
+{"name": "Philippines", "code": "RP", "capital": "Manila", "province": "Metro Manila", "area": 299764, "population": 100981437, "_id": {"$oid": "61a853fc9abb2b800db796f7"}}
+{"name": "Vietnam", "code": "VN", "capital": "Hanoi", "province": "Red River Delta", "area": 329560, "population": 88772900, "_id": {"$oid": "61a853fc9abb2b800db796f8"}}
+{"name": "Cambodia", "code": "K", "capital": "Phnom Penh", "province": "Cambodia", "area": 181040, "population": 15288489, "_id": {"$oid": "61a853fc9abb2b800db796f9"}}
+{"name": "Laos", "code": "LAO", "capital": "Vientiane", "province": "Laos", "area": 236800, "population": 6514432, "_id": {"$oid": "61a853fc9abb2b800db796fa"}}
+{"name": "Thailand", "code": "THA", "capital": "Bangkok", "province": "Thailand", "area": 514000, "population": 65981659, "_id": {"$oid": "61a853fc9abb2b800db796fb"}}
+{"name": "Malaysia", "code": "MAL", "capital": "Kuala Lumpur", "province": "Kuala Lumpur", "area": 329750, "population": 27565821, "_id": {"$oid": "61a853fc9abb2b800db796fc"}}
+{"name": "Brunei", "code": "BRU", "capital": "Bandar Seri Begawan", "province": "Brunei", "area": 5770, "population": 393372, "_id": {"$oid": "61a853fc9abb2b800db796fd"}}
+{"name": "Singapore", "code": "SGP", "capital": "Singapore", "province": "Singapore", "area": 632.6, "population": 5076700, "_id": {"$oid": "61a853fc9abb2b800db796fe"}}
+{"name": "Indonesia", "code": "RI", "capital": "Jakarta", "province": "DKI Jakarta", "area": 1919440, "population": 252124458, "_id": {"$oid": "61a853fc9abb2b800db796ff"}}
+{"name": "Timor-Leste", "code": "TL", "capital": "Dili", "province": "Timor-Leste", "area": 15007, "population": 1066582, "_id": {"$oid": "61a853fc9abb2b800db79700"}}
+{"name": "Papua New Guinea", "code": "PNG", "capital": "Port Moresby", "province": "South", "area": 461690, "population": 7275324, "_id": {"$oid": "61a853fc9abb2b800db79701"}}
+{"name": "Solomon Islands", "code": "SOL", "capital": "Honiara", "province": "Solomon Islands", "area": 28450, "population": 515870, "_id": {"$oid": "61a853fc9abb2b800db79702"}}
+{"name": "Vanuatu", "code": "VU", "capital": "Port Vila", "province": "Vanuatu", "area": 14760, "population": 236299, "_id": {"$oid": "61a853fc9abb2b800db79703"}}
+{"name": "New Caledonia", "code": "NCL", "capital": "Noumea", "province": "New Caledonia", "area": 19060, "population": 271407, "_id": {"$oid": "61a853fc9abb2b800db79704"}}
+{"name": "Australia", "code": "AUS", "capital": "Canberra", "province": "Australia Capital Territory", "area": 7692024, "population": 23135281, "_id": {"$oid": "61a853fc9abb2b800db79705"}}
+{"name": "Christmas Island", "code": "XMAS", "capital": "Flying Fish Cove", "province": "Christmas Island", "area": 135, "population": 1843, "_id": {"$oid": "61a853fc9abb2b800db79706"}}
+{"name": "Cocos Islands", "code": "COCO", "capital": "West Island", "province": "Cocos Islands", "area": 14, "population": 544, "_id": {"$oid": "61a853fc9abb2b800db79707"}}
+{"name": "Norfolk Island", "code": "NORF", "capital": "Kingston", "province": "Norfolk Island", "area": 34.6, "population": 1748, "_id": {"$oid": "61a853fc9abb2b800db79708"}}
+{"name": "New Zealand", "code": "NZ", "capital": "Wellington", "province": "New Zealand", "area": 268680, "population": 4242048, "_id": {"$oid": "61a853fc9abb2b800db79709"}}
+{"name": "Palau", "code": "PAL", "capital": "Ngerulmud", "province": "Palau", "area": 458, "population": 17501, "_id": {"$oid": "61a853fc9abb2b800db7970a"}}
+{"name": "Northern Mariana Islands", "code": "NMIS", "capital": "Saipan", "province": "Northern Mariana Islands", "area": 477, "population": 53883, "_id": {"$oid": "61a853fc9abb2b800db7970b"}}
+{"name": "Guam", "code": "GUAM", "capital": "Hag\u00e5t\u00f1a", "province": "Guam", "area": 545, "population": 159358, "_id": {"$oid": "61a853fc9abb2b800db7970c"}}
+{"name": "Micronesia", "code": "FSM", "capital": "Palikir", "province": "Micronesia", "area": 702, "population": 102843, "_id": {"$oid": "61a853fc9abb2b800db7970d"}}
+{"name": "Marshall Islands", "code": "MH", "capital": "Majuro", "province": "Marshall Islands", "area": 181.3, "population": 53158, "_id": {"$oid": "61a853fc9abb2b800db7970e"}}
+{"name": "Nauru", "code": "NAU", "capital": "Yaren", "province": "Nauru", "area": 21, "population": 10025, "_id": {"$oid": "61a853fc9abb2b800db7970f"}}
+{"name": "Kiribati", "code": "KIR", "capital": "Tarawa", "province": "Kiribati", "area": 717, "population": 110136, "_id": {"$oid": "61a853fc9abb2b800db79710"}}
+{"name": "Tuvalu", "code": "TUV", "capital": "Funafuti", "province": "Tuvalu", "area": 26, "population": 11192, "_id": {"$oid": "61a853fc9abb2b800db79711"}}
+{"name": "Tokelau", "code": "TOK", "capital": "Fakaofo", "province": "Tokelau", "area": 12, "population": 1499, "_id": {"$oid": "61a853fc9abb2b800db79712"}}
+{"name": "Samoa", "code": "WS", "capital": "Apia", "province": "Samoa", "area": 2860, "population": 194320, "_id": {"$oid": "61a853fc9abb2b800db79713"}}
+{"name": "American Samoa", "code": "AMSA", "capital": "Pago Pago", "province": "American Samoa", "area": 199, "population": 55519, "_id": {"$oid": "61a853fc9abb2b800db79714"}}
+{"name": "Wallis and Futuna", "code": "WF", "capital": "Mata-Utu", "province": "Wallis and Futuna", "area": 274, "population": 11558, "_id": {"$oid": "61a853fc9abb2b800db79715"}}
+{"name": "Fiji", "code": "FJI", "capital": "Suva", "province": "Fiji", "area": 18270, "population": 884887, "_id": {"$oid": "61a853fc9abb2b800db79716"}}
+{"name": "Tonga", "code": "TO", "capital": "Nukualofa", "province": "Tonga", "area": 748, "population": 100651, "_id": {"$oid": "61a853fc9abb2b800db79717"}}
+{"name": "Niue", "code": "NIUE", "capital": "Alofi", "province": "Niue", "area": 260, "population": 1611, "_id": {"$oid": "61a853fc9abb2b800db79718"}}
+{"name": "Cook Islands", "code": "COOK", "capital": "Avarua", "province": "Cook Islands", "area": 240, "population": 17459, "_id": {"$oid": "61a853fc9abb2b800db79719"}}
+{"name": "French Polynesia", "code": "FPOL", "capital": "Papeete", "province": "French Polynesia", "area": 4167, "population": 275918, "_id": {"$oid": "61a853fc9abb2b800db7971a"}}
+{"name": "Pitcairn", "code": "PITC", "capital": "Adamstown", "province": "Pitcairn", "area": 47, "population": 50, "_id": {"$oid": "61a853fc9abb2b800db7971b"}}
+{"name": "Egypt", "code": "ET", "capital": "Al Qahirah", "province": "Egypt", "area": 1001450, "population": 94798827, "_id": {"$oid": "61a853fc9abb2b800db7971c"}}
+{"name": "Libya", "code": "LAR", "capital": "Tripoli", "province": "Libya", "area": 1759540, "population": 6040612, "_id": {"$oid": "61a853fc9abb2b800db7971d"}}
+{"name": "Tunisia", "code": "TN", "capital": "Tunis", "province": "Tunisia", "area": 163610, "population": 10982754, "_id": {"$oid": "61a853fc9abb2b800db7971e"}}
+{"name": "Algeria", "code": "DZ", "capital": "Algiers", "province": "Algeria", "area": 2381740, "population": 37062820, "_id": {"$oid": "61a853fc9abb2b800db7971f"}}
+{"name": "Morocco", "code": "MA", "capital": "Rabat", "province": "Rabat Sale Zemmour Zaer", "area": 446550, "population": 33337529, "_id": {"$oid": "61a853fc9abb2b800db79720"}}
+{"name": "Western Sahara", "code": "WSA", "capital": "El Aaiun", "province": "Western Sahara", "area": 266000, "population": 554795, "_id": {"$oid": "61a853fc9abb2b800db79721"}}
+{"name": "Mali", "code": "RMM", "capital": "Bamako", "province": "Bamako", "area": 1240000, "population": 14528622, "_id": {"$oid": "61a853fc9abb2b800db79722"}}
+{"name": "Mauritania", "code": "RIM", "capital": "Nouakchott", "province": "Nouakchott", "area": 1030700, "population": 3537368, "_id": {"$oid": "61a853fc9abb2b800db79723"}}
+{"name": "Senegal", "code": "SN", "capital": "Dakar", "province": "Dakar", "area": 196190, "population": 13508715, "_id": {"$oid": "61a853fc9abb2b800db79724"}}
+{"name": "Gambia", "code": "WAG", "capital": "Banjul", "province": "Gambia", "area": 11300, "population": 1882450, "_id": {"$oid": "61a853fc9abb2b800db79725"}}
+{"name": "Guinea-Bissau", "code": "GUB", "capital": "Bissau", "province": "Guinea-Bissau", "area": 36120, "population": 1586624, "_id": {"$oid": "61a853fc9abb2b800db79726"}}
+{"name": "Guinea", "code": "RG", "capital": "Conakry", "province": "Guinea", "area": 245860, "population": 10628972, "_id": {"$oid": "61a853fc9abb2b800db79727"}}
+{"name": "Sierra Leone", "code": "SLE", "capital": "Freetown", "province": "Sierra Leone", "area": 71740, "population": 5743725, "_id": {"$oid": "61a853fc9abb2b800db79728"}}
+{"name": "Liberia", "code": "LB", "capital": "Monrovia", "province": "Liberia", "area": 111370, "population": 3957990, "_id": {"$oid": "61a853fc9abb2b800db79729"}}
+{"name": "Burkina Faso", "code": "BF", "capital": "Ouagadougou", "province": "Burkina Faso", "area": 274200, "population": 17322796, "_id": {"$oid": "61a853fc9abb2b800db7972a"}}
+{"name": "Cote d''Ivoire", "code": "CI", "capital": "Yamoussoukro", "province": "Yamoussoukro", "area": 322460, "population": 22671331, "_id": {"$oid": "61a853fc9abb2b800db7972b"}}
+{"name": "Ghana", "code": "GH", "capital": "Accra", "province": "Greater Accra", "area": 238540, "population": 24658823, "_id": {"$oid": "61a853fc9abb2b800db7972c"}}
+{"name": "Togo", "code": "RT", "capital": "Lom\u00e9", "province": "Togo", "area": 56790, "population": 6191155, "_id": {"$oid": "61a853fc9abb2b800db7972d"}}
+{"name": "Benin", "code": "BEN", "capital": "Porto-Novo", "province": "Benin", "area": 112620, "population": 9983884, "_id": {"$oid": "61a853fc9abb2b800db7972e"}}
+{"name": "Nigeria", "code": "NGR", "capital": "Abuja", "province": "Abuja", "area": 923770, "population": 193392500, "_id": {"$oid": "61a853fc9abb2b800db7972f"}}
+{"name": "Niger", "code": "RN", "capital": "Niamey", "province": "Niamey", "area": 1267000, "population": 17138707, "_id": {"$oid": "61a853fc9abb2b800db79730"}}
+{"name": "Chad", "code": "TCH", "capital": "N''Djamena", "province": "Chad", "area": 1284000, "population": 11720781, "_id": {"$oid": "61a853fc9abb2b800db79731"}}
+{"name": "Sudan", "code": "SUD", "capital": "Khartoum", "province": "Al-Khar\u1e6d\u016bm", "area": 1840687, "population": 40782700, "_id": {"$oid": "61a853fc9abb2b800db79732"}}
+{"name": "South Sudan", "code": "SSD", "capital": "Juba", "province": "South Sudan", "area": 644329, "population": 8260490, "_id": {"$oid": "61a853fc9abb2b800db79733"}}
+{"name": "Central African Republic", "code": "RCA", "capital": "Bangui", "province": "Central African Republic", "area": 622980, "population": 4349921, "_id": {"$oid": "61a853fc9abb2b800db79734"}}
+{"name": "Cameroon", "code": "CAM", "capital": "Yaound\u00e9", "province": "Centre", "area": 475440, "population": 19406100, "_id": {"$oid": "61a853fc9abb2b800db79735"}}
+{"name": "Equatorial Guinea", "code": "GQ", "capital": "Malabo", "province": "Insular", "area": 28050, "population": 1222442, "_id": {"$oid": "61a853fc9abb2b800db79736"}}
+{"name": "Gabon", "code": "G", "capital": "Libreville", "province": "Gabon", "area": 267670, "population": 1811079, "_id": {"$oid": "61a853fc9abb2b800db79737"}}
+{"name": "Congo", "code": "RCB", "capital": "Brazzaville", "province": "Brazzaville", "area": 342000, "population": 4001831, "_id": {"$oid": "61a853fc9abb2b800db79738"}}
+{"name": "Congo, Dem.Rep.", "code": "CGO", "capital": "Kinshasa", "province": "Kinshasa", "area": 2345410, "population": 86026000, "_id": {"$oid": "61a853fc9abb2b800db79739"}}
+{"name": "Angola", "code": "ANG", "capital": "Luanda", "province": "Luanda", "area": 1246700, "population": 25789024, "_id": {"$oid": "61a853fc9abb2b800db7973a"}}
+{"name": "Namibia", "code": "NAM", "capital": "Windhoek", "province": "Namibia", "area": 825418, "population": 2113077, "_id": {"$oid": "61a853fc9abb2b800db7973b"}}
+{"name": "Botswana", "code": "RB", "capital": "Gaborone", "province": "Botswana", "area": 600370, "population": 2038228, "_id": {"$oid": "61a853fc9abb2b800db7973c"}}
+{"name": "South Africa", "code": "RSA", "capital": "Tshwane", "province": "Gauteng", "area": 1219912, "population": 51770560, "_id": {"$oid": "61a853fc9abb2b800db7973d"}}
+{"name": "Lesotho", "code": "LS", "capital": "Maseru", "province": "Lesotho", "area": 30350, "population": 2007201, "_id": {"$oid": "61a853fc9abb2b800db7973e"}}
+{"name": "Eswatini", "code": "SD", "capital": "Mbabane", "province": "Eswatini", "area": 17360, "population": 1193148, "_id": {"$oid": "61a853fc9abb2b800db7973f"}}
+{"name": "Mozambique", "code": "MOC", "capital": "Maputo", "province": "Cidade de Maputo", "area": 801590, "population": 23700715, "_id": {"$oid": "61a853fc9abb2b800db79740"}}
+{"name": "Zimbabwe", "code": "ZW", "capital": "Harare", "province": "Zimbabwe", "area": 390580, "population": 13061239, "_id": {"$oid": "61a853fc9abb2b800db79741"}}
+{"name": "Zambia", "code": "Z", "capital": "Lusaka", "province": "Lusaka", "area": 752610, "population": 13092666, "_id": {"$oid": "61a853fc9abb2b800db79742"}}
+{"name": "Malawi", "code": "MW", "capital": "Lilongwe", "province": "Malawi", "area": 118480, "population": 17563749, "_id": {"$oid": "61a853fc9abb2b800db79743"}}
+{"name": "Tanzania", "code": "EAT", "capital": "Dodoma", "province": "Dodoma", "area": 945090, "population": 44928923, "_id": {"$oid": "61a853fc9abb2b800db79744"}}
+{"name": "Burundi", "code": "BI", "capital": "Gitega", "province": "Burundi", "area": 27830, "population": 8444784, "_id": {"$oid": "61a853fc9abb2b800db79745"}}
+{"name": "Rwanda", "code": "RWA", "capital": "Kigali", "province": "Rwanda", "area": 26340, "population": 10515973, "_id": {"$oid": "61a853fc9abb2b800db79746"}}
+{"name": "Uganda", "code": "EAU", "capital": "Kampala", "province": "Central", "area": 236040, "population": 34634650, "_id": {"$oid": "61a853fc9abb2b800db79747"}}
+{"name": "Kenya", "code": "EAK", "capital": "Nairobi", "province": "Kenya", "area": 582650, "population": 40909194, "_id": {"$oid": "61a853fc9abb2b800db79748"}}
+{"name": "Somalia", "code": "SO", "capital": "Mogadishu", "province": "Somalia", "area": 637660, "population": 11000000, "_id": {"$oid": "61a853fc9abb2b800db79749"}}
+{"name": "Djibouti", "code": "DJI", "capital": "Djibouti", "province": "Djibouti", "area": 22000, "population": 834036, "_id": {"$oid": "61a853fc9abb2b800db7974a"}}
+{"name": "Ethiopia", "code": "ETH", "capital": "Addis Ababa", "province": "Addis Ababa", "area": 1127127, "population": 84320987, "_id": {"$oid": "61a853fc9abb2b800db7974b"}}
+{"name": "Eritrea", "code": "ER", "capital": "Asmara", "province": "Eritrea", "area": 121320, "population": 5741159, "_id": {"$oid": "61a853fc9abb2b800db7974c"}}
+{"name": "Cape Verde", "code": "CV", "capital": "Praia", "province": "Cape Verde", "area": 4033, "population": 491875, "_id": {"$oid": "61a853fc9abb2b800db7974d"}}
+{"name": "Sao Tome and Principe", "code": "STP", "capital": "S\u00e3o Tom\u00e9", "province": "Sao Tome and Principe", "area": 1001, "population": 187356, "_id": {"$oid": "61a853fc9abb2b800db7974e"}}
+{"name": "Seychelles", "code": "SY", "capital": "Victoria", "province": "Seychelles", "area": 455, "population": 90945, "_id": {"$oid": "61a853fc9abb2b800db7974f"}}
+{"name": "Comoros", "code": "COM", "capital": "Moroni", "province": "Comoros", "area": 2170, "population": 683081, "_id": {"$oid": "61a853fc9abb2b800db79750"}}
+{"name": "Mayotte", "code": "MAYO", "capital": "Mamoutzou", "province": "Mayotte", "area": 374, "population": 256518, "_id": {"$oid": "61a853fc9abb2b800db79751"}}
+{"name": "Madagascar", "code": "RM", "capital": "Antananarivo", "province": "Madagascar", "area": 587041, "population": 21842167, "_id": {"$oid": "61a853fc9abb2b800db79752"}}
+{"name": "Mauritius", "code": "MS", "capital": "Port Louis", "province": "Mauritius", "area": 2040, "population": 1237091, "_id": {"$oid": "61a853fc9abb2b800db79753"}}
+{"name": "Reunion", "code": "REUN", "capital": "Saint-Denis", "province": "Reunion", "area": 2510, "population": 828581, "_id": {"$oid": "61a853fc9abb2b800db79754"}}
+{"name": "Saint Helena", "code": "HELX", "capital": "Jamestown", "province": "Saint Helena", "area": 391, "population": 4577, "_id": {"$oid": "61a853fc9abb2b800db79755"}}
+{"name": "Greenland", "code": "GL", "capital": "Nuuk", "province": "Greenland", "area": 2175600, "population": 56370, "_id": {"$oid": "61a853fc9abb2b800db79756"}}
+{"name": "Saint Pierre and Miquelon", "code": "SPMI", "capital": "Saint-Pierre", "province": "Saint Pierre and Miquelon", "area": 242, "population": 6008, "_id": {"$oid": "61a853fc9abb2b800db79757"}}
+{"name": "Bermuda", "code": "BERM", "capital": "Hamilton", "province": "Bermuda", "area": 53.3, "population": 61178, "_id": {"$oid": "61a853fc9abb2b800db79758"}}
+{"name": "Canada", "code": "CDN", "capital": "Ottawa", "province": "Ontario", "area": 9976140, "population": 35151728, "_id": {"$oid": "61a853fc9abb2b800db79759"}}
+{"name": "United States", "code": "USA", "capital": "Washington", "province": "District of Columbia", "area": 9372610, "population": 318857056, "_id": {"$oid": "61a853fc9abb2b800db7975a"}}
+{"name": "Mexico", "code": "MEX", "capital": "Ciudad de M\u00e9xico", "province": "Distrito Federal", "area": 1972550, "population": 112336538, "_id": {"$oid": "61a853fc9abb2b800db7975b"}}
+{"name": "Belize", "code": "BZ", "capital": "Belmopan", "province": "Belize", "area": 22960, "population": 312971, "_id": {"$oid": "61a853fc9abb2b800db7975c"}}
+{"name": "Guatemala", "code": "GCA", "capital": "Ciudad de Guatemala", "province": "Guatemala", "area": 108890, "population": 15073375, "_id": {"$oid": "61a853fc9abb2b800db7975d"}}
+{"name": "El Salvador", "code": "ES", "capital": "San Salvador", "province": "El Salvador", "area": 21040, "population": 6290420, "_id": {"$oid": "61a853fc9abb2b800db7975e"}}
+{"name": "Honduras", "code": "HN", "capital": "Tegucigalpa", "province": "Francisco Moraz\u00e1n", "area": 112090, "population": 8045990, "_id": {"$oid": "61a853fc9abb2b800db7975f"}}
+{"name": "Nicaragua", "code": "NIC", "capital": "Managua", "province": "Nicaragua", "area": 129494, "population": 6327927, "_id": {"$oid": "61a853fc9abb2b800db79760"}}
+{"name": "Costa Rica", "code": "CR", "capital": "San Jos\u00e9", "province": "San Jos\u00e9", "area": 51100, "population": 4773119, "_id": {"$oid": "61a853fc9abb2b800db79761"}}
+{"name": "Panama", "code": "PA", "capital": "Panam\u00e1 City", "province": "Panam\u00e1", "area": 78200, "population": 3405813, "_id": {"$oid": "61a853fc9abb2b800db79762"}}
+{"name": "Bahamas", "code": "BS", "capital": "Nassau", "province": "Bahamas", "area": 13940, "population": 353658, "_id": {"$oid": "61a853fc9abb2b800db79763"}}
+{"name": "Turks and Caicos Islands", "code": "TUCA", "capital": "Grand Turk", "province": "Turks and Caicos Islands", "area": 430, "population": 53700, "_id": {"$oid": "61a853fc9abb2b800db79764"}}
+{"name": "Cayman Islands", "code": "CAYM", "capital": "George Town", "province": "Cayman Islands", "area": 262, "population": 61944, "_id": {"$oid": "61a853fc9abb2b800db79765"}}
+{"name": "Cuba", "code": "C", "capital": "La Habana", "province": "La Habana", "area": 110860, "population": 11167325, "_id": {"$oid": "61a853fc9abb2b800db79766"}}
+{"name": "Jamaica", "code": "JA", "capital": "Kingston", "province": "Jamaica", "area": 10991, "population": 2697983, "_id": {"$oid": "61a853fc9abb2b800db79767"}}
+{"name": "Haiti", "code": "RH", "capital": "Port-au-Prince", "province": "Haiti", "area": 27750, "population": 10788000, "_id": {"$oid": "61a853fc9abb2b800db79768"}}
+{"name": "Dominican Republic", "code": "DOM", "capital": "Santo Domingo", "province": "Dominican Republic", "area": 48730, "population": 9445281, "_id": {"$oid": "61a853fc9abb2b800db79769"}}
+{"name": "Puerto Rico", "code": "PR", "capital": "San Juan", "province": "Puerto Rico", "area": 8870, "population": 3725789, "_id": {"$oid": "61a853fc9abb2b800db7976a"}}
+{"name": "Virgin Islands", "code": "VIRG", "capital": "Charlotte Amalie", "province": "Virgin Islands", "area": 346, "population": 106405, "_id": {"$oid": "61a853fc9abb2b800db7976b"}}
+{"name": "British Virgin Islands", "code": "BVI", "capital": "Road Town", "province": "British Virgin Islands", "area": 153, "population": 28054, "_id": {"$oid": "61a853fc9abb2b800db7976c"}}
+{"name": "Anguilla", "code": "AXA", "capital": "The Valley", "province": "Anguilla", "area": 102, "population": 13452, "_id": {"$oid": "61a853fc9abb2b800db7976d"}}
+{"name": "Saint Martin", "code": "SMAR", "capital": "Marigot", "province": "Saint Martin", "area": 54, "population": 36286, "_id": {"$oid": "61a853fc9abb2b800db7976e"}}
+{"name": "Sint Maarten", "code": "SX", "capital": "Philipsburg", "province": "Sint Maarten", "area": 34, "population": 40535, "_id": {"$oid": "61a853fc9abb2b800db7976f"}}
+{"name": "Saint Barthelemy", "code": "SBAR", "capital": "Gustavia", "province": "Saint Barthelemy", "area": 21, "population": 9131, "_id": {"$oid": "61a853fc9abb2b800db79770"}}
+{"name": "Saint Kitts and Nevis", "code": "KN", "capital": "Basseterre", "province": "Saint Kitts and Nevis", "area": 269, "population": 46398, "_id": {"$oid": "61a853fc9abb2b800db79771"}}
+{"name": "Antigua and Barbuda", "code": "AG", "capital": "St. John''s", "province": "Antigua and Barbuda", "area": 442, "population": 81799, "_id": {"$oid": "61a853fc9abb2b800db79772"}}
+{"name": "Montserrat", "code": "MNTS", "capital": "Plymouth", "province": "Montserrat", "area": 102, "population": 4922, "_id": {"$oid": "61a853fc9abb2b800db79773"}}
+{"name": "Guadeloupe", "code": "GUAD", "capital": "Basse-Terre", "province": "Guadeloupe", "area": 1628, "population": 394110, "_id": {"$oid": "61a853fc9abb2b800db79774"}}
+{"name": "Dominica", "code": "WD", "capital": "Roseau", "province": "Dominica", "area": 746, "population": 70739, "_id": {"$oid": "61a853fc9abb2b800db79775"}}
+{"name": "Martinique", "code": "MART", "capital": "Fort-de-France", "province": "Martinique", "area": 1128, "population": 385551, "_id": {"$oid": "61a853fc9abb2b800db79776"}}
+{"name": "Saint Lucia", "code": "WL", "capital": "Castries", "province": "Saint Lucia", "area": 620, "population": 165595, "_id": {"$oid": "61a853fc9abb2b800db79777"}}
+{"name": "Barbados", "code": "BDS", "capital": "Bridgetown", "province": "Barbados", "area": 430, "population": 277821, "_id": {"$oid": "61a853fc9abb2b800db79778"}}
+{"name": "Saint Vincent and the Grenadines", "code": "WV", "capital": "Kingstown", "province": "Saint Vincent and the Grenadines", "area": 389, "population": 109991, "_id": {"$oid": "61a853fc9abb2b800db79779"}}
+{"name": "Grenada", "code": "WG", "capital": "Saint George''s", "province": "Grenada", "area": 344, "population": 103328, "_id": {"$oid": "61a853fc9abb2b800db7977a"}}
+{"name": "Trinidad and Tobago", "code": "TT", "capital": "Port-of-Spain", "province": "Trinidad and Tobago", "area": 5130, "population": 1328019, "_id": {"$oid": "61a853fc9abb2b800db7977b"}}
+{"name": "Bonaire", "code": "NLB", "capital": "Kralendijk", "province": "Bonaire", "area": 294, "population": 20104, "_id": {"$oid": "61a853fc9abb2b800db7977c"}}
+{"name": "Curacao", "code": "CUR", "capital": "Willemstad", "province": "Curacao", "area": 444, "population": 150563, "_id": {"$oid": "61a853fc9abb2b800db7977d"}}
+{"name": "Aruba", "code": "ARU", "capital": "Oranjestad", "province": "Aruba", "area": 193, "population": 101484, "_id": {"$oid": "61a853fc9abb2b800db7977e"}}
+{"name": "Venezuela", "code": "YV", "capital": "Caracas", "province": "Distrito Federal", "area": 912050, "population": 28946101, "_id": {"$oid": "61a853fc9abb2b800db7977f"}}
+{"name": "Guyana", "code": "GUY", "capital": "Georgetown", "province": "Guyana", "area": 214970, "population": 747884, "_id": {"$oid": "61a853fc9abb2b800db79780"}}
+{"name": "Suriname", "code": "SME", "capital": "Paramaribo", "province": "Suriname", "area": 163270, "population": 541638, "_id": {"$oid": "61a853fc9abb2b800db79781"}}
+{"name": "French Guiana", "code": "FGU", "capital": "Cayenne", "province": "French Guiana", "area": 83534, "population": 268700, "_id": {"$oid": "61a853fc9abb2b800db79782"}}
+{"name": "Colombia", "code": "CO", "capital": "Bogot\u00e1", "province": "Santa Fe de Bogot\u00e1", "area": 1138910, "population": 47661787, "_id": {"$oid": "61a853fc9abb2b800db79783"}}
+{"name": "Ecuador", "code": "EC", "capital": "Quito", "province": "Ecuador", "area": 283560, "population": 14483499, "_id": {"$oid": "61a853fc9abb2b800db79784"}}
+{"name": "Peru", "code": "PE", "capital": "Lima", "province": "Lima City", "area": 1285220, "population": 30135875, "_id": {"$oid": "61a853fc9abb2b800db79785"}}
+{"name": "Bolivia", "code": "BOL", "capital": "La Paz", "province": "La Paz", "area": 1098580, "population": 10027262, "_id": {"$oid": "61a853fc9abb2b800db79786"}}
+{"name": "Chile", "code": "RCH", "capital": "Santiago", "province": "Santiago", "area": 756950, "population": 16341929, "_id": {"$oid": "61a853fc9abb2b800db79787"}}
+{"name": "Argentina", "code": "RA", "capital": "Buenos Aires", "province": "Distrito Federal", "area": 2766890, "population": 42669500, "_id": {"$oid": "61a853fc9abb2b800db79788"}}
+{"name": "Paraguay", "code": "PY", "capital": "Asunci\u00f3n", "province": "Paraguay", "area": 406750, "population": 6672631, "_id": {"$oid": "61a853fc9abb2b800db79789"}}
+{"name": "Uruguay", "code": "ROU", "capital": "Montevideo", "province": "Uruguay", "area": 176220, "population": 3286314, "_id": {"$oid": "61a853fc9abb2b800db7978a"}}
+{"name": "Brazil", "code": "BR", "capital": "Bras\u00edlia", "province": "Distrito Federal", "area": 8511965, "population": 202768562, "_id": {"$oid": "61a853fc9abb2b800db7978b"}}
+{"name": "Falkland Islands", "code": "FALK", "capital": "Stanley", "province": "Falkland Islands", "area": 12173, "population": 3398, "_id": {"$oid": "61a853fc9abb2b800db7978c"}}

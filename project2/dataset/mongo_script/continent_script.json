@@ -1,0 +1,6 @@
+{"encompasses_continent": "Europe", "continent_area": 10523000, "_id": {"$oid": "61a86888e2c9a65721244d66"}}
+{"encompasses_continent": "Asia", "continent_area": 44614500, "_id": {"$oid": "61a86888e2c9a65721244d67"}}
+{"encompasses_continent": "Africa", "continent_area": 30221500, "_id": {"$oid": "61a86888e2c9a65721244d68"}}
+{"encompasses_continent": "Australia/Oceania", "continent_area": 9000000, "_id": {"$oid": "61a86888e2c9a65721244d69"}}
+{"encompasses_continent": "North America", "continent_area": 24709000, "_id": {"$oid": "61a86888e2c9a65721244d6a"}}
+{"encompasses_continent": "South America", "continent_area": 17840000, "_id": {"$oid": "61a86888e2c9a65721244d6b"}}

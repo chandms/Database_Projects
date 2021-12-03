@@ -1,0 +1,2243 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "COUNTRY",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "GDP",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "AGRICULTURE",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "SERVICE",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "INDUSTRY",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "INFLATION",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "UNEMPLOYMENT",
+          "type" : "NUMBER"
+        }
+      ],
+      "items" : [
+        {
+          "country" : "AL",
+          "gdp" : 12800,
+          "agriculture" : 19.5,
+          "service" : 68.5,
+          "industry" : 12,
+          "inflation" : 1.7,
+          "unemployment" : 16.9
+        },
+        {
+          "country" : "GR",
+          "gdp" : 243300,
+          "agriculture" : 3.5,
+          "service" : 80.5,
+          "industry" : 16,
+          "inflation" : -0.8,
+          "unemployment" : 27.9
+        },
+        {
+          "country" : "CY",
+          "gdp" : 21780,
+          "agriculture" : 2.4,
+          "service" : 81.7,
+          "industry" : 15.9,
+          "inflation" : 0.2,
+          "unemployment" : 17.4
+        },
+        {
+          "country" : "MK",
+          "gdp" : 10650,
+          "agriculture" : 10.2,
+          "service" : 62.3,
+          "industry" : 27.5,
+          "inflation" : 2.8,
+          "unemployment" : 28.6
+        },
+        {
+          "country" : "SRB",
+          "gdp" : 43680,
+          "agriculture" : 7.9,
+          "service" : 60.3,
+          "industry" : 31.8,
+          "inflation" : 2.2,
+          "unemployment" : 20.1
+        },
+        {
+          "country" : "MNE",
+          "gdp" : 4518,
+          "agriculture" : 0.8,
+          "service" : 87.9,
+          "industry" : 11.3,
+          "inflation" : 4,
+          "unemployment" : 19.1
+        },
+        {
+          "country" : "KOS",
+          "gdp" : 7150,
+          "agriculture" : 12.9,
+          "service" : 64.5,
+          "industry" : 22.6,
+          "inflation" : 1.8,
+          "unemployment" : 30.9
+        },
+        {
+          "country" : "AND",
+          "gdp" : 4800,
+          "agriculture" : 14,
+          "service" : 6,
+          "industry" : 79,
+          "inflation" : 1.1,
+          "unemployment" : 4
+        },
+        {
+          "country" : "F",
+          "gdp" : 2739000,
+          "agriculture" : 1.9,
+          "service" : 79.4,
+          "industry" : 18.7,
+          "inflation" : 0.9,
+          "unemployment" : 10.2
+        },
+        {
+          "country" : "E",
+          "gdp" : 1356000,
+          "agriculture" : 3.1,
+          "service" : 70.8,
+          "industry" : 26,
+          "inflation" : 1.8,
+          "unemployment" : 26.3
+        },
+        {
+          "country" : "CZ",
+          "gdp" : 194800,
+          "agriculture" : 2.4,
+          "service" : 60.3,
+          "industry" : 37.3,
+          "inflation" : 1.4,
+          "unemployment" : 7.1
+        },
+        {
+          "country" : "SK",
+          "gdp" : 96960,
+          "agriculture" : 3.1,
+          "service" : 67,
+          "industry" : 30.8,
+          "inflation" : 1.7,
+          "unemployment" : 14.4
+        },
+        {
+          "country" : "D",
+          "gdp" : 3593000,
+          "agriculture" : 0.8,
+          "service" : 69,
+          "industry" : 30.1,
+          "inflation" : 1.6,
+          "unemployment" : 5.3
+        },
+        {
+          "country" : "H",
+          "gdp" : 130600,
+          "agriculture" : 3.4,
+          "service" : 68.7,
+          "industry" : 28,
+          "inflation" : 1.9,
+          "unemployment" : 10.5
+        },
+        {
+          "country" : "I",
+          "gdp" : 2068000,
+          "agriculture" : 2,
+          "service" : 73.5,
+          "industry" : 24.4,
+          "inflation" : 1.2,
+          "unemployment" : 12.4
+        },
+        {
+          "country" : "CH",
+          "gdp" : 646200,
+          "agriculture" : 0.7,
+          "service" : 72.5,
+          "industry" : 26.8,
+          "inflation" : -0.4,
+          "unemployment" : 3.2
+        },
+        {
+          "country" : "FL",
+          "gdp" : 5113,
+          "agriculture" : 8,
+          "service" : 55,
+          "industry" : 37,
+          "inflation" : -0.7,
+          "unemployment" : 2.3
+        },
+        {
+          "country" : "A",
+          "gdp" : 417900,
+          "agriculture" : 1.6,
+          "service" : 69.8,
+          "industry" : 28.6,
+          "inflation" : 2.1,
+          "unemployment" : 4.9
+        },
+        {
+          "country" : "EST",
+          "gdp" : 24280,
+          "agriculture" : 3.9,
+          "service" : 66.2,
+          "industry" : 30,
+          "inflation" : 3.4,
+          "unemployment" : 10.9
+        },
+        {
+          "country" : "LV",
+          "gdp" : 30380,
+          "agriculture" : 4.9,
+          "service" : 69.4,
+          "industry" : 25.7,
+          "inflation" : 0.2,
+          "unemployment" : 9.8
+        },
+        {
+          "country" : "LT",
+          "gdp" : 46710,
+          "agriculture" : 3.7,
+          "service" : 68,
+          "industry" : 28.3,
+          "inflation" : 1.2,
+          "unemployment" : 12.4
+        },
+        {
+          "country" : "BY",
+          "gdp" : 69240,
+          "agriculture" : 9.2,
+          "service" : 44.7,
+          "industry" : 46.2,
+          "inflation" : 19,
+          "unemployment" : 1
+        },
+        {
+          "country" : "PL",
+          "gdp" : 513900,
+          "agriculture" : 4,
+          "service" : 62.7,
+          "industry" : 33.3,
+          "inflation" : 1,
+          "unemployment" : 10.3
+        },
+        {
+          "country" : "UA",
+          "gdp" : 175500,
+          "agriculture" : 9.9,
+          "service" : 60.5,
+          "industry" : 29.6,
+          "inflation" : 0.7,
+          "unemployment" : 8
+        },
+        {
+          "country" : "R",
+          "gdp" : 2113000,
+          "agriculture" : 4.2,
+          "service" : 58.3,
+          "industry" : 37.5,
+          "inflation" : 6.8,
+          "unemployment" : 5.8
+        },
+        {
+          "country" : "B",
+          "gdp" : 507400,
+          "agriculture" : 0.8,
+          "service" : 76.6,
+          "industry" : 22.6,
+          "inflation" : 1.3,
+          "unemployment" : 8.8
+        },
+        {
+          "country" : "L",
+          "gdp" : 60540,
+          "agriculture" : 0.3,
+          "service" : 86.4,
+          "industry" : 13.3,
+          "inflation" : 1.8,
+          "unemployment" : 4.9
+        },
+        {
+          "country" : "NL",
+          "gdp" : 722300,
+          "agriculture" : 2.6,
+          "service" : 72.1,
+          "industry" : 25.4,
+          "inflation" : 2.5,
+          "unemployment" : 8.3
+        },
+        {
+          "country" : "SLO",
+          "gdp" : 46820,
+          "agriculture" : 2.8,
+          "service" : 68.3,
+          "industry" : 28.9,
+          "inflation" : 1.8,
+          "unemployment" : 13.1
+        },
+        {
+          "country" : "HR",
+          "gdp" : 59140,
+          "agriculture" : 5,
+          "service" : 69.2,
+          "industry" : 25.8,
+          "inflation" : 2.2,
+          "unemployment" : 21.6
+        },
+        {
+          "country" : "BIH",
+          "gdp" : 18870,
+          "agriculture" : 8.1,
+          "service" : 65.5,
+          "industry" : 26.4,
+          "inflation" : 0.2,
+          "unemployment" : 44.3
+        },
+        {
+          "country" : "BG",
+          "gdp" : 53700,
+          "agriculture" : 6.7,
+          "service" : 63,
+          "industry" : 30.3,
+          "inflation" : 1.5,
+          "unemployment" : 11.6
+        },
+        {
+          "country" : "RO",
+          "gdp" : 188900,
+          "agriculture" : 6.4,
+          "service" : 59.4,
+          "industry" : 34.2,
+          "inflation" : 3.2,
+          "unemployment" : 7.3
+        },
+        {
+          "country" : "DK",
+          "gdp" : 324300,
+          "agriculture" : 1.5,
+          "service" : 76.8,
+          "industry" : 21.7,
+          "inflation" : 0.8,
+          "unemployment" : 6
+        },
+        {
+          "country" : "IS",
+          "gdp" : 14590,
+          "agriculture" : 5.9,
+          "service" : 71.2,
+          "industry" : 22.9,
+          "inflation" : 3.9,
+          "unemployment" : 4.5
+        },
+        {
+          "country" : "FO",
+          "gdp" : 2320,
+          "agriculture" : 16,
+          "service" : 55,
+          "industry" : 29,
+          "inflation" : 2.3,
+          "unemployment" : 6.8
+        },
+        {
+          "country" : "IRL",
+          "gdp" : 220900,
+          "agriculture" : 1.6,
+          "service" : 70.4,
+          "industry" : 28,
+          "inflation" : 0.6,
+          "unemployment" : 13.5
+        },
+        {
+          "country" : "SF",
+          "gdp" : 259600,
+          "agriculture" : 2.9,
+          "service" : 71.9,
+          "industry" : 25.1,
+          "inflation" : 2.2,
+          "unemployment" : 8.1
+        },
+        {
+          "country" : "N",
+          "gdp" : 515800,
+          "agriculture" : 1.2,
+          "service" : 56.5,
+          "industry" : 42.3,
+          "inflation" : 1.9,
+          "unemployment" : 3.6
+        },
+        {
+          "country" : "S",
+          "gdp" : 552000,
+          "agriculture" : 2,
+          "service" : 66.8,
+          "industry" : 31.3,
+          "inflation" : 0,
+          "unemployment" : 8.1
+        },
+        {
+          "country" : "MC",
+          "gdp" : 5748,
+          "agriculture" : 0,
+          "service" : 90,
+          "industry" : 10,
+          "inflation" : 1.5,
+          "unemployment" : 2
+        },
+        {
+          "country" : "V",
+          "gdp" : "",
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "CEU",
+          "gdp" : "",
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "MEL",
+          "gdp" : "",
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "RSM",
+          "gdp" : 1866,
+          "agriculture" : 0.1,
+          "service" : 60.7,
+          "industry" : 39.2,
+          "inflation" : 2.8,
+          "unemployment" : 7
+        },
+        {
+          "country" : "M",
+          "gdp" : 9541,
+          "agriculture" : 1.4,
+          "service" : 73.3,
+          "industry" : 25.3,
+          "inflation" : 1,
+          "unemployment" : 6.4
+        },
+        {
+          "country" : "GBM",
+          "gdp" : 4076,
+          "agriculture" : 1,
+          "service" : 88,
+          "industry" : 11,
+          "inflation" : 5,
+          "unemployment" : 2
+        },
+        {
+          "country" : "MD",
+          "gdp" : 7932,
+          "agriculture" : 13.8,
+          "service" : 66.2,
+          "industry" : 19.9,
+          "inflation" : 4.6,
+          "unemployment" : 5.8
+        },
+        {
+          "country" : "P",
+          "gdp" : 219300,
+          "agriculture" : 2.6,
+          "service" : 75.2,
+          "industry" : 22.2,
+          "inflation" : 0.4,
+          "unemployment" : 16.8
+        },
+        {
+          "country" : "SVA",
+          "gdp" : "",
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "GB",
+          "gdp" : 2490000,
+          "agriculture" : 0.7,
+          "service" : 78.9,
+          "industry" : 20.5,
+          "inflation" : 2,
+          "unemployment" : 7.2
+        },
+        {
+          "country" : "GBZ",
+          "gdp" : 1106,
+          "agriculture" : 0,
+          "service" : 100,
+          "industry" : 0,
+          "inflation" : 2.8,
+          "unemployment" : 3
+        },
+        {
+          "country" : "GBG",
+          "gdp" : 2742,
+          "agriculture" : 3,
+          "service" : 87,
+          "industry" : 10,
+          "inflation" : 3.4,
+          "unemployment" : 0.9
+        },
+        {
+          "country" : "GBJ",
+          "gdp" : 5100,
+          "agriculture" : 2,
+          "service" : 96,
+          "industry" : 2,
+          "inflation" : 3.7,
+          "unemployment" : 1.7
+        },
+        {
+          "country" : "ARM",
+          "gdp" : 10440,
+          "agriculture" : 20.6,
+          "service" : 42.1,
+          "industry" : 37.3,
+          "inflation" : 6.2,
+          "unemployment" : 17.3
+        },
+        {
+          "country" : "GE",
+          "gdp" : 15950,
+          "agriculture" : 8.5,
+          "service" : 69.9,
+          "industry" : 21.6,
+          "inflation" : -0.5,
+          "unemployment" : 15
+        },
+        {
+          "country" : "AZ",
+          "gdp" : 76010,
+          "agriculture" : 6.2,
+          "service" : 30.8,
+          "industry" : 63,
+          "inflation" : 2.4,
+          "unemployment" : 6
+        },
+        {
+          "country" : "TR",
+          "gdp" : 821800,
+          "agriculture" : 8.9,
+          "service" : 63.8,
+          "industry" : 27.3,
+          "inflation" : 7.6,
+          "unemployment" : 9.3
+        },
+        {
+          "country" : "RL",
+          "gdp" : 43490,
+          "agriculture" : 4.6,
+          "service" : 75.4,
+          "industry" : 20,
+          "inflation" : 5,
+          "unemployment" : ""
+        },
+        {
+          "country" : "WB",
+          "gdp" : 3700,
+          "agriculture" : 33,
+          "service" : 60,
+          "industry" : 7,
+          "inflation" : 14,
+          "unemployment" : ""
+        },
+        {
+          "country" : "GAZA",
+          "gdp" : 1700,
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : 5.7,
+          "unemployment" : ""
+        },
+        {
+          "country" : "IL",
+          "gdp" : 272700,
+          "agriculture" : 2.4,
+          "service" : 66.4,
+          "industry" : 31.2,
+          "inflation" : 1.7,
+          "unemployment" : 5.8
+        },
+        {
+          "country" : "SYR",
+          "gdp" : 64700,
+          "agriculture" : 17.6,
+          "service" : 60.2,
+          "industry" : 22.2,
+          "inflation" : 59.1,
+          "unemployment" : 17.8
+        },
+        {
+          "country" : "JOR",
+          "gdp" : 34080,
+          "agriculture" : 3.2,
+          "service" : 67,
+          "industry" : 29.9,
+          "inflation" : 5.9,
+          "unemployment" : 14
+        },
+        {
+          "country" : "SA",
+          "gdp" : 718500,
+          "agriculture" : 2,
+          "service" : 35.5,
+          "industry" : 62.5,
+          "inflation" : 3.7,
+          "unemployment" : 10.5
+        },
+        {
+          "country" : "BRN",
+          "gdp" : 28360,
+          "agriculture" : 0.3,
+          "service" : 53,
+          "industry" : 46.7,
+          "inflation" : 3.1,
+          "unemployment" : 15
+        },
+        {
+          "country" : "Q",
+          "gdp" : 213100,
+          "agriculture" : 0.1,
+          "service" : 27.7,
+          "industry" : 72.2,
+          "inflation" : 3.1,
+          "unemployment" : 0.3
+        },
+        {
+          "country" : "UAE",
+          "gdp" : 390000,
+          "agriculture" : 0.6,
+          "service" : 38.2,
+          "industry" : 61.1,
+          "inflation" : 1.3,
+          "unemployment" : 2.4
+        },
+        {
+          "country" : "OM",
+          "gdp" : 81950,
+          "agriculture" : 1,
+          "service" : 34.6,
+          "industry" : 64.4,
+          "inflation" : 1.6,
+          "unemployment" : 15
+        },
+        {
+          "country" : "YE",
+          "gdp" : 43890,
+          "agriculture" : 7.7,
+          "service" : 61.4,
+          "industry" : 30.9,
+          "inflation" : 11.8,
+          "unemployment" : 35
+        },
+        {
+          "country" : "KWT",
+          "gdp" : 179500,
+          "agriculture" : 0.3,
+          "service" : 49.1,
+          "industry" : 50.6,
+          "inflation" : 2.8,
+          "unemployment" : 3.4
+        },
+        {
+          "country" : "IRQ",
+          "gdp" : 221800,
+          "agriculture" : 3.3,
+          "service" : 32.1,
+          "industry" : 64.6,
+          "inflation" : 2,
+          "unemployment" : 16
+        },
+        {
+          "country" : "IR",
+          "gdp" : 411900,
+          "agriculture" : 10.6,
+          "service" : 44.5,
+          "industry" : 44.9,
+          "inflation" : 42.3,
+          "unemployment" : 16
+        },
+        {
+          "country" : "AFG",
+          "gdp" : 20650,
+          "agriculture" : 20,
+          "service" : 54.4,
+          "industry" : 25.6,
+          "inflation" : 6.8,
+          "unemployment" : 35
+        },
+        {
+          "country" : "TM",
+          "gdp" : 40560,
+          "agriculture" : 7.2,
+          "service" : 68.4,
+          "industry" : 24.4,
+          "inflation" : 9,
+          "unemployment" : 60
+        },
+        {
+          "country" : "UZ",
+          "gdp" : 55180,
+          "agriculture" : 19.1,
+          "service" : 48.7,
+          "industry" : 32.2,
+          "inflation" : 10.1,
+          "unemployment" : 4.9
+        },
+        {
+          "country" : "TJ",
+          "gdp" : 8513,
+          "agriculture" : 21.1,
+          "service" : 55.7,
+          "industry" : 23.2,
+          "inflation" : 3.7,
+          "unemployment" : 2.5
+        },
+        {
+          "country" : "KG",
+          "gdp" : 7234,
+          "agriculture" : 20.8,
+          "service" : 44.8,
+          "industry" : 34.4,
+          "inflation" : 6.8,
+          "unemployment" : 8.6
+        },
+        {
+          "country" : "KZ",
+          "gdp" : 224900,
+          "agriculture" : 5.2,
+          "service" : 56.9,
+          "industry" : 37.9,
+          "inflation" : 5.8,
+          "unemployment" : 5.3
+        },
+        {
+          "country" : "MNG",
+          "gdp" : 11140,
+          "agriculture" : 16.5,
+          "service" : 50.9,
+          "industry" : 32.6,
+          "inflation" : 8.2,
+          "unemployment" : 9
+        },
+        {
+          "country" : "MV",
+          "gdp" : 2270,
+          "agriculture" : 3,
+          "service" : 80,
+          "industry" : 17,
+          "inflation" : 5.1,
+          "unemployment" : 28
+        },
+        {
+          "country" : "PK",
+          "gdp" : 236500,
+          "agriculture" : 25.3,
+          "service" : 53.1,
+          "industry" : 21.6,
+          "inflation" : 7.7,
+          "unemployment" : 6.6
+        },
+        {
+          "country" : "IND",
+          "gdp" : 1670000,
+          "agriculture" : 17.4,
+          "service" : 56.9,
+          "industry" : 25.8,
+          "inflation" : 9.6,
+          "unemployment" : 8.8
+        },
+        {
+          "country" : "NEP",
+          "gdp" : 19340,
+          "agriculture" : 36.8,
+          "service" : 48.7,
+          "industry" : 14.5,
+          "inflation" : 6.7,
+          "unemployment" : 46
+        },
+        {
+          "country" : "BHT",
+          "gdp" : 2133,
+          "agriculture" : 13.8,
+          "service" : 45,
+          "industry" : 41.2,
+          "inflation" : 11,
+          "unemployment" : 2.1
+        },
+        {
+          "country" : "BD",
+          "gdp" : 140200,
+          "agriculture" : 17.2,
+          "service" : 53.9,
+          "industry" : 28.9,
+          "inflation" : 7.6,
+          "unemployment" : 5
+        },
+        {
+          "country" : "MYA",
+          "gdp" : 59430,
+          "agriculture" : 38,
+          "service" : 41.7,
+          "industry" : 20.3,
+          "inflation" : 5.7,
+          "unemployment" : 5.2
+        },
+        {
+          "country" : "CL",
+          "gdp" : 65120,
+          "agriculture" : 10.6,
+          "service" : 57,
+          "industry" : 32.4,
+          "inflation" : 4.7,
+          "unemployment" : 5.1
+        },
+        {
+          "country" : "CN",
+          "gdp" : 9330000,
+          "agriculture" : 10,
+          "service" : 46.1,
+          "industry" : 43.9,
+          "inflation" : 2.6,
+          "unemployment" : 4.1
+        },
+        {
+          "country" : "RC",
+          "gdp" : 484700,
+          "agriculture" : 2,
+          "service" : 68.6,
+          "industry" : 29.4,
+          "inflation" : 1.1,
+          "unemployment" : 4.1
+        },
+        {
+          "country" : "HK",
+          "gdp" : 272100,
+          "agriculture" : 0,
+          "service" : 93,
+          "industry" : 6.9,
+          "inflation" : 4.4,
+          "unemployment" : 3.1
+        },
+        {
+          "country" : "MACX",
+          "gdp" : 51680,
+          "agriculture" : 0,
+          "service" : 93.5,
+          "industry" : 6.5,
+          "inflation" : 5.5,
+          "unemployment" : 1.8
+        },
+        {
+          "country" : "KP",
+          "gdp" : 28000,
+          "agriculture" : 23.4,
+          "service" : 29.4,
+          "industry" : 47.2,
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "ROK",
+          "gdp" : 1198000,
+          "agriculture" : 2.6,
+          "service" : 58.2,
+          "industry" : 39.2,
+          "inflation" : 1.1,
+          "unemployment" : 3.2
+        },
+        {
+          "country" : "J",
+          "gdp" : 5007000,
+          "agriculture" : 1.1,
+          "service" : 73.2,
+          "industry" : 25.6,
+          "inflation" : 0.2,
+          "unemployment" : 4.1
+        },
+        {
+          "country" : "RP",
+          "gdp" : 272200,
+          "agriculture" : 11.2,
+          "service" : 57.2,
+          "industry" : 31.6,
+          "inflation" : 2.8,
+          "unemployment" : 7.4
+        },
+        {
+          "country" : "VN",
+          "gdp" : 170000,
+          "agriculture" : 19.3,
+          "service" : 42.2,
+          "industry" : 38.5,
+          "inflation" : 6.8,
+          "unemployment" : 1.3
+        },
+        {
+          "country" : "K",
+          "gdp" : 15640,
+          "agriculture" : 34.8,
+          "service" : 40.7,
+          "industry" : 24.5,
+          "inflation" : 3.2,
+          "unemployment" : 0
+        },
+        {
+          "country" : "LAO",
+          "gdp" : 10100,
+          "agriculture" : 30.5,
+          "service" : 37.5,
+          "industry" : 32,
+          "inflation" : 6.5,
+          "unemployment" : 1.9
+        },
+        {
+          "country" : "THA",
+          "gdp" : 400900,
+          "agriculture" : 12.1,
+          "service" : 44.2,
+          "industry" : 43.6,
+          "inflation" : 2.2,
+          "unemployment" : 0.7
+        },
+        {
+          "country" : "MAL",
+          "gdp" : 312400,
+          "agriculture" : 11.2,
+          "service" : 48.1,
+          "industry" : 40.6,
+          "inflation" : 2.2,
+          "unemployment" : 3.1
+        },
+        {
+          "country" : "BRU",
+          "gdp" : 16560,
+          "agriculture" : 0.7,
+          "service" : 28.4,
+          "industry" : 70.9,
+          "inflation" : 1,
+          "unemployment" : 2.6
+        },
+        {
+          "country" : "SGP",
+          "gdp" : 295700,
+          "agriculture" : 0,
+          "service" : 70.6,
+          "industry" : 29.4,
+          "inflation" : 2.4,
+          "unemployment" : 1.9
+        },
+        {
+          "country" : "RI",
+          "gdp" : 867500,
+          "agriculture" : 14.3,
+          "service" : 39.1,
+          "industry" : 46.6,
+          "inflation" : 7.7,
+          "unemployment" : 6.6
+        },
+        {
+          "country" : "TL",
+          "gdp" : 6129,
+          "agriculture" : 2.6,
+          "service" : 15.8,
+          "industry" : 81.6,
+          "inflation" : 4.5,
+          "unemployment" : 18.4
+        },
+        {
+          "country" : "PNG",
+          "gdp" : 16100,
+          "agriculture" : 27.6,
+          "service" : 33.3,
+          "industry" : 39.1,
+          "inflation" : 3.8,
+          "unemployment" : 1.9
+        },
+        {
+          "country" : "SOL",
+          "gdp" : 1099,
+          "agriculture" : 50,
+          "service" : 39.4,
+          "industry" : 10.6,
+          "inflation" : 2.6,
+          "unemployment" : ""
+        },
+        {
+          "country" : "VU",
+          "gdp" : 828,
+          "agriculture" : 22.4,
+          "service" : 67.9,
+          "industry" : 9.7,
+          "inflation" : 1.9,
+          "unemployment" : 1.7
+        },
+        {
+          "country" : "NCL",
+          "gdp" : 9280,
+          "agriculture" : 2.1,
+          "service" : 67.9,
+          "industry" : 30,
+          "inflation" : 1.7,
+          "unemployment" : 17.1
+        },
+        {
+          "country" : "AUS",
+          "gdp" : 1488000,
+          "agriculture" : 3.8,
+          "service" : 68.7,
+          "industry" : 27.4,
+          "inflation" : 2.4,
+          "unemployment" : 5.7
+        },
+        {
+          "country" : "XMAS",
+          "gdp" : "",
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "COCO",
+          "gdp" : "",
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "NORF",
+          "gdp" : "",
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "NZ",
+          "gdp" : 181100,
+          "agriculture" : 5,
+          "service" : 69.5,
+          "industry" : 25.5,
+          "inflation" : 1.3,
+          "unemployment" : 6.4
+        },
+        {
+          "country" : "PAL",
+          "gdp" : 221,
+          "agriculture" : 3.2,
+          "service" : 76.8,
+          "industry" : 20,
+          "inflation" : 2.7,
+          "unemployment" : 4.2
+        },
+        {
+          "country" : "NMIS",
+          "gdp" : 733,
+          "agriculture" : 1.7,
+          "service" : 95,
+          "industry" : 3.3,
+          "inflation" : -2.7,
+          "unemployment" : 11.2
+        },
+        {
+          "country" : "GUAM",
+          "gdp" : 4600,
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : 4,
+          "unemployment" : 8.2
+        },
+        {
+          "country" : "FSM",
+          "gdp" : 339,
+          "agriculture" : 14,
+          "service" : 74,
+          "industry" : 12,
+          "inflation" : 3.4,
+          "unemployment" : 22
+        },
+        {
+          "country" : "MH",
+          "gdp" : 193,
+          "agriculture" : 14.3,
+          "service" : 71.8,
+          "industry" : 13.9,
+          "inflation" : 12.9,
+          "unemployment" : 36
+        },
+        {
+          "country" : "NAU",
+          "gdp" : 100,
+          "agriculture" : 6.1,
+          "service" : 60.8,
+          "industry" : 33,
+          "inflation" : -3.6,
+          "unemployment" : 90
+        },
+        {
+          "country" : "KIR",
+          "gdp" : 173,
+          "agriculture" : 24.3,
+          "service" : 67.8,
+          "industry" : 7.9,
+          "inflation" : 0.2,
+          "unemployment" : 2
+        },
+        {
+          "country" : "TUV",
+          "gdp" : 38,
+          "agriculture" : 16.6,
+          "service" : 56.2,
+          "industry" : 27.2,
+          "inflation" : 3.8,
+          "unemployment" : ""
+        },
+        {
+          "country" : "TOK",
+          "gdp" : 1.5,
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "WS",
+          "gdp" : 705,
+          "agriculture" : 10.2,
+          "service" : 64,
+          "industry" : 25.9,
+          "inflation" : 2.7,
+          "unemployment" : ""
+        },
+        {
+          "country" : "AMSA",
+          "gdp" : 462.2,
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : 29.8
+        },
+        {
+          "country" : "WF",
+          "gdp" : 60,
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : 2.8,
+          "unemployment" : 12.2
+        },
+        {
+          "country" : "FJI",
+          "gdp" : 4218,
+          "agriculture" : 11.7,
+          "service" : 70.2,
+          "industry" : 18.1,
+          "inflation" : 3,
+          "unemployment" : 7.6
+        },
+        {
+          "country" : "TO",
+          "gdp" : 477,
+          "agriculture" : 20.9,
+          "service" : 57.2,
+          "industry" : 21.9,
+          "inflation" : 2,
+          "unemployment" : 13
+        },
+        {
+          "country" : "NIUE",
+          "gdp" : 10,
+          "agriculture" : 23.5,
+          "service" : 49.5,
+          "industry" : 26.9,
+          "inflation" : 4,
+          "unemployment" : 12
+        },
+        {
+          "country" : "COOK",
+          "gdp" : 183.2,
+          "agriculture" : 5.1,
+          "service" : 82.1,
+          "industry" : 12.7,
+          "inflation" : 2.2,
+          "unemployment" : 13.1
+        },
+        {
+          "country" : "FPOL",
+          "gdp" : 5650,
+          "agriculture" : 3.1,
+          "service" : 76.9,
+          "industry" : 20,
+          "inflation" : 1.1,
+          "unemployment" : 11.7
+        },
+        {
+          "country" : "PITC",
+          "gdp" : "",
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "ET",
+          "gdp" : 262000,
+          "agriculture" : 14.5,
+          "service" : 48,
+          "industry" : 37.5,
+          "inflation" : 9,
+          "unemployment" : 13.4
+        },
+        {
+          "country" : "LAR",
+          "gdp" : 70920,
+          "agriculture" : 2,
+          "service" : 39.7,
+          "industry" : 58.3,
+          "inflation" : 3.2,
+          "unemployment" : 30
+        },
+        {
+          "country" : "TN",
+          "gdp" : 48380,
+          "agriculture" : 8.6,
+          "service" : 61,
+          "industry" : 30.4,
+          "inflation" : 6.1,
+          "unemployment" : 17.2
+        },
+        {
+          "country" : "DZ",
+          "gdp" : 215700,
+          "agriculture" : 9.4,
+          "service" : 28,
+          "industry" : 62.6,
+          "inflation" : 3.9,
+          "unemployment" : 10.3
+        },
+        {
+          "country" : "MA",
+          "gdp" : 104800,
+          "agriculture" : 15.1,
+          "service" : 53.2,
+          "industry" : 31.7,
+          "inflation" : 2.5,
+          "unemployment" : 9.5
+        },
+        {
+          "country" : "WSA",
+          "gdp" : "",
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "RMM",
+          "gdp" : 11370,
+          "agriculture" : 38.5,
+          "service" : 37,
+          "industry" : 24.4,
+          "inflation" : 0.1,
+          "unemployment" : 30
+        },
+        {
+          "country" : "RIM",
+          "gdp" : 4183,
+          "agriculture" : 16.9,
+          "service" : 28.5,
+          "industry" : 54.6,
+          "inflation" : 4.6,
+          "unemployment" : 30
+        },
+        {
+          "country" : "SN",
+          "gdp" : 15360,
+          "agriculture" : 14.9,
+          "service" : 62.4,
+          "industry" : 22.7,
+          "inflation" : 0.8,
+          "unemployment" : 48
+        },
+        {
+          "country" : "WAG",
+          "gdp" : 896,
+          "agriculture" : 19.7,
+          "service" : 67.7,
+          "industry" : 12.6,
+          "inflation" : 6,
+          "unemployment" : ""
+        },
+        {
+          "country" : "GUB",
+          "gdp" : 880,
+          "agriculture" : 58,
+          "service" : 28.5,
+          "industry" : 13.5,
+          "inflation" : 1.9,
+          "unemployment" : ""
+        },
+        {
+          "country" : "RG",
+          "gdp" : 6544,
+          "agriculture" : 22.9,
+          "service" : 30.5,
+          "industry" : 46.5,
+          "inflation" : 11.9,
+          "unemployment" : ""
+        },
+        {
+          "country" : "SLE",
+          "gdp" : 4607,
+          "agriculture" : 47.9,
+          "service" : 33.5,
+          "industry" : 18.6,
+          "inflation" : 11.1,
+          "unemployment" : ""
+        },
+        {
+          "country" : "LB",
+          "gdp" : 1977,
+          "agriculture" : 76.9,
+          "service" : 17.7,
+          "industry" : 5.4,
+          "inflation" : 5.2,
+          "unemployment" : 85
+        },
+        {
+          "country" : "BF",
+          "gdp" : 12130,
+          "agriculture" : 33.6,
+          "service" : 42.8,
+          "industry" : 23.6,
+          "inflation" : 2.1,
+          "unemployment" : 77
+        },
+        {
+          "country" : "CI",
+          "gdp" : 28280,
+          "agriculture" : 26.3,
+          "service" : 52.4,
+          "industry" : 21.3,
+          "inflation" : 2.9,
+          "unemployment" : ""
+        },
+        {
+          "country" : "GH",
+          "gdp" : 45550,
+          "agriculture" : 21.5,
+          "service" : 49.8,
+          "industry" : 28.7,
+          "inflation" : 11,
+          "unemployment" : 11
+        },
+        {
+          "country" : "RT",
+          "gdp" : 4299,
+          "agriculture" : 27.6,
+          "service" : 38.7,
+          "industry" : 33.7,
+          "inflation" : 2.2,
+          "unemployment" : ""
+        },
+        {
+          "country" : "BEN",
+          "gdp" : 8359,
+          "agriculture" : 31.6,
+          "service" : 55.6,
+          "industry" : 12.9,
+          "inflation" : 2.4,
+          "unemployment" : ""
+        },
+        {
+          "country" : "NGR",
+          "gdp" : 502000,
+          "agriculture" : 30.9,
+          "service" : 26,
+          "industry" : 43,
+          "inflation" : 8.7,
+          "unemployment" : 23.9
+        },
+        {
+          "country" : "RN",
+          "gdp" : 7304,
+          "agriculture" : 35.2,
+          "service" : 50.6,
+          "industry" : 14.2,
+          "inflation" : 1.9,
+          "unemployment" : ""
+        },
+        {
+          "country" : "TCH",
+          "gdp" : 13590,
+          "agriculture" : 46.3,
+          "service" : 43.8,
+          "industry" : 9.9,
+          "inflation" : 4.5,
+          "unemployment" : ""
+        },
+        {
+          "country" : "SUD",
+          "gdp" : 52500,
+          "agriculture" : 27.4,
+          "service" : 39,
+          "industry" : 33.6,
+          "inflation" : 25,
+          "unemployment" : 20
+        },
+        {
+          "country" : "SSD",
+          "gdp" : 11770,
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : 1.7,
+          "unemployment" : ""
+        },
+        {
+          "country" : "RCA",
+          "gdp" : 2050,
+          "agriculture" : 56.6,
+          "service" : 28.9,
+          "industry" : 14.5,
+          "inflation" : 7,
+          "unemployment" : 8
+        },
+        {
+          "country" : "CAM",
+          "gdp" : 27880,
+          "agriculture" : 20.6,
+          "service" : 52.1,
+          "industry" : 27.3,
+          "inflation" : 2.6,
+          "unemployment" : 30
+        },
+        {
+          "country" : "GQ",
+          "gdp" : 17080,
+          "agriculture" : 4.6,
+          "service" : 8.1,
+          "industry" : 87.3,
+          "inflation" : 6,
+          "unemployment" : 22.3
+        },
+        {
+          "country" : "G",
+          "gdp" : 19970,
+          "agriculture" : 3.6,
+          "service" : 32.5,
+          "industry" : 63.9,
+          "inflation" : 1.2,
+          "unemployment" : 21
+        },
+        {
+          "country" : "RCB",
+          "gdp" : 14250,
+          "agriculture" : 3.3,
+          "service" : 22.9,
+          "industry" : 73.9,
+          "inflation" : 1.7,
+          "unemployment" : 53
+        },
+        {
+          "country" : "CGO",
+          "gdp" : 18560,
+          "agriculture" : 44.3,
+          "service" : 34,
+          "industry" : 21.7,
+          "inflation" : 7.1,
+          "unemployment" : ""
+        },
+        {
+          "country" : "ANG",
+          "gdp" : 124000,
+          "agriculture" : 10.2,
+          "service" : 28.4,
+          "industry" : 61.4,
+          "inflation" : 8.9,
+          "unemployment" : ""
+        },
+        {
+          "country" : "NAM",
+          "gdp" : 12300,
+          "agriculture" : 7.7,
+          "service" : 62.6,
+          "industry" : 29.6,
+          "inflation" : 5.5,
+          "unemployment" : 27.4
+        },
+        {
+          "country" : "RB",
+          "gdp" : 15530,
+          "agriculture" : 1.9,
+          "service" : 62.4,
+          "industry" : 35.7,
+          "inflation" : 6.1,
+          "unemployment" : 17.8
+        },
+        {
+          "country" : "RSA",
+          "gdp" : 353900,
+          "agriculture" : 2.6,
+          "service" : 68.4,
+          "industry" : 29,
+          "inflation" : 5.8,
+          "unemployment" : 24.9
+        },
+        {
+          "country" : "LS",
+          "gdp" : 2457,
+          "agriculture" : 7.4,
+          "service" : 58.2,
+          "industry" : 34.5,
+          "inflation" : 5,
+          "unemployment" : 25
+        },
+        {
+          "country" : "SD",
+          "gdp" : 3807,
+          "agriculture" : 7.6,
+          "service" : 44.6,
+          "industry" : 47.8,
+          "inflation" : 6.1,
+          "unemployment" : 40
+        },
+        {
+          "country" : "MOC",
+          "gdp" : 14670,
+          "agriculture" : 28.7,
+          "service" : 46.4,
+          "industry" : 24.9,
+          "inflation" : 4.4,
+          "unemployment" : 17
+        },
+        {
+          "country" : "ZW",
+          "gdp" : 10480,
+          "agriculture" : 20.1,
+          "service" : 54.5,
+          "industry" : 25.4,
+          "inflation" : 8.5,
+          "unemployment" : 95
+        },
+        {
+          "country" : "Z",
+          "gdp" : 22240,
+          "agriculture" : 19.8,
+          "service" : 46.5,
+          "industry" : 33.8,
+          "inflation" : 7.1,
+          "unemployment" : 15
+        },
+        {
+          "country" : "MW",
+          "gdp" : 3683,
+          "agriculture" : 29.4,
+          "service" : 51.7,
+          "industry" : 18.9,
+          "inflation" : 12.2,
+          "unemployment" : ""
+        },
+        {
+          "country" : "EAT",
+          "gdp" : 31940,
+          "agriculture" : 27.6,
+          "service" : 47.4,
+          "industry" : 25,
+          "inflation" : 7.8,
+          "unemployment" : ""
+        },
+        {
+          "country" : "BI",
+          "gdp" : 2676,
+          "agriculture" : 34.4,
+          "service" : 47.2,
+          "industry" : 18.4,
+          "inflation" : 9.3,
+          "unemployment" : ""
+        },
+        {
+          "country" : "RWA",
+          "gdp" : 7700,
+          "agriculture" : 31.9,
+          "service" : 53.3,
+          "industry" : 14.8,
+          "inflation" : 5.9,
+          "unemployment" : ""
+        },
+        {
+          "country" : "EAU",
+          "gdp" : 22600,
+          "agriculture" : 23.1,
+          "service" : 50,
+          "industry" : 26.9,
+          "inflation" : 6.2,
+          "unemployment" : ""
+        },
+        {
+          "country" : "EAK",
+          "gdp" : 45310,
+          "agriculture" : 29.3,
+          "service" : 53.3,
+          "industry" : 17.4,
+          "inflation" : 5.8,
+          "unemployment" : 40
+        },
+        {
+          "country" : "SO",
+          "gdp" : 2372,
+          "agriculture" : 59.3,
+          "service" : 33.5,
+          "industry" : 7.2,
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "DJI",
+          "gdp" : 1459,
+          "agriculture" : 3,
+          "service" : 79.7,
+          "industry" : 17.3,
+          "inflation" : 2.5,
+          "unemployment" : 59
+        },
+        {
+          "country" : "ETH",
+          "gdp" : 47340,
+          "agriculture" : 47,
+          "service" : 42.2,
+          "industry" : 10.8,
+          "inflation" : 8.4,
+          "unemployment" : 17.5
+        },
+        {
+          "country" : "ER",
+          "gdp" : 3438,
+          "agriculture" : 11.7,
+          "service" : 61.4,
+          "industry" : 26.9,
+          "inflation" : 13,
+          "unemployment" : ""
+        },
+        {
+          "country" : "CV",
+          "gdp" : 1955,
+          "agriculture" : 9.3,
+          "service" : 71.9,
+          "industry" : 18.8,
+          "inflation" : 1.9,
+          "unemployment" : 21
+        },
+        {
+          "country" : "STP",
+          "gdp" : 311,
+          "agriculture" : 13.7,
+          "service" : 66.8,
+          "industry" : 19.5,
+          "inflation" : 8.7,
+          "unemployment" : ""
+        },
+        {
+          "country" : "SY",
+          "gdp" : 1271,
+          "agriculture" : 2,
+          "service" : 79.4,
+          "industry" : 18.7,
+          "inflation" : 4.3,
+          "unemployment" : 2
+        },
+        {
+          "country" : "COM",
+          "gdp" : 658,
+          "agriculture" : 51,
+          "service" : 39,
+          "industry" : 10,
+          "inflation" : 2.5,
+          "unemployment" : 20
+        },
+        {
+          "country" : "MAYO",
+          "gdp" : 953.6,
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "RM",
+          "gdp" : 10530,
+          "agriculture" : 27.3,
+          "service" : 56.3,
+          "industry" : 16.4,
+          "inflation" : 8.8,
+          "unemployment" : ""
+        },
+        {
+          "country" : "MS",
+          "gdp" : 11900,
+          "agriculture" : 4.5,
+          "service" : 73.4,
+          "industry" : 22,
+          "inflation" : 3.5,
+          "unemployment" : 8.3
+        },
+        {
+          "country" : "REUN",
+          "gdp" : 2900,
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "HELX",
+          "gdp" : 18,
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "GL",
+          "gdp" : 2160,
+          "agriculture" : 4,
+          "service" : 67,
+          "industry" : 29,
+          "inflation" : 2.8,
+          "unemployment" : 9.4
+        },
+        {
+          "country" : "SPMI",
+          "gdp" : 215.3,
+          "agriculture" : 2,
+          "service" : 83,
+          "industry" : 15,
+          "inflation" : 4.5,
+          "unemployment" : 9.9
+        },
+        {
+          "country" : "BERM",
+          "gdp" : 5600,
+          "agriculture" : 0.7,
+          "service" : 93.5,
+          "industry" : 5.7,
+          "inflation" : 1.8,
+          "unemployment" : 8
+        },
+        {
+          "country" : "CDN",
+          "gdp" : 1825000,
+          "agriculture" : 1.7,
+          "service" : 69.9,
+          "industry" : 28.4,
+          "inflation" : 1,
+          "unemployment" : 7.1
+        },
+        {
+          "country" : "USA",
+          "gdp" : 16720000,
+          "agriculture" : 1.1,
+          "service" : 79.4,
+          "industry" : 19.5,
+          "inflation" : 1.5,
+          "unemployment" : 7.3
+        },
+        {
+          "country" : "MEX",
+          "gdp" : 1327000,
+          "agriculture" : 3.6,
+          "service" : 59.8,
+          "industry" : 36.6,
+          "inflation" : 4,
+          "unemployment" : 4.9
+        },
+        {
+          "country" : "BZ",
+          "gdp" : 1637,
+          "agriculture" : 13,
+          "service" : 64,
+          "industry" : 23,
+          "inflation" : 1.3,
+          "unemployment" : 15.5
+        },
+        {
+          "country" : "GCA",
+          "gdp" : 53900,
+          "agriculture" : 13.5,
+          "service" : 62.7,
+          "industry" : 23.8,
+          "inflation" : 4.4,
+          "unemployment" : 4.1
+        },
+        {
+          "country" : "ES",
+          "gdp" : 24670,
+          "agriculture" : 10.3,
+          "service" : 60.1,
+          "industry" : 29.5,
+          "inflation" : 0.9,
+          "unemployment" : 6.3
+        },
+        {
+          "country" : "HN",
+          "gdp" : 18880,
+          "agriculture" : 14,
+          "service" : 57.8,
+          "industry" : 28.2,
+          "inflation" : 5.2,
+          "unemployment" : 4.5
+        },
+        {
+          "country" : "NIC",
+          "gdp" : 11260,
+          "agriculture" : 17.1,
+          "service" : 57.5,
+          "industry" : 25.5,
+          "inflation" : 5.7,
+          "unemployment" : 7.2
+        },
+        {
+          "country" : "CR",
+          "gdp" : 48510,
+          "agriculture" : 6.2,
+          "service" : 72.5,
+          "industry" : 21.3,
+          "inflation" : 5.6,
+          "unemployment" : 7.9
+        },
+        {
+          "country" : "PA",
+          "gdp" : 40620,
+          "agriculture" : 3.7,
+          "service" : 78.4,
+          "industry" : 17.9,
+          "inflation" : 4.1,
+          "unemployment" : 4.5
+        },
+        {
+          "country" : "BS",
+          "gdp" : 8373,
+          "agriculture" : 2.1,
+          "service" : 90.8,
+          "industry" : 7.1,
+          "inflation" : 1,
+          "unemployment" : 16.2
+        },
+        {
+          "country" : "TUCA",
+          "gdp" : 216,
+          "agriculture" : 1,
+          "service" : 76.5,
+          "industry" : 22.5,
+          "inflation" : 2.5,
+          "unemployment" : 10
+        },
+        {
+          "country" : "CAYM",
+          "gdp" : 2250,
+          "agriculture" : 0.3,
+          "service" : 72.3,
+          "industry" : 27.4,
+          "inflation" : 1.8,
+          "unemployment" : 4
+        },
+        {
+          "country" : "C",
+          "gdp" : 72300,
+          "agriculture" : 3.8,
+          "service" : 73.9,
+          "industry" : 22.3,
+          "inflation" : 6,
+          "unemployment" : 4.3
+        },
+        {
+          "country" : "JA",
+          "gdp" : 14390,
+          "agriculture" : 6.5,
+          "service" : 64.1,
+          "industry" : 29.4,
+          "inflation" : 9.4,
+          "unemployment" : 16.3
+        },
+        {
+          "country" : "RH",
+          "gdp" : 8287,
+          "agriculture" : 24.1,
+          "service" : 56,
+          "industry" : 19.9,
+          "inflation" : 6.3,
+          "unemployment" : 40.6
+        },
+        {
+          "country" : "DOM",
+          "gdp" : 59270,
+          "agriculture" : 6,
+          "service" : 64.9,
+          "industry" : 29.1,
+          "inflation" : 5,
+          "unemployment" : 15
+        },
+        {
+          "country" : "PR",
+          "gdp" : 93520,
+          "agriculture" : 0.7,
+          "service" : 50.5,
+          "industry" : 48.8,
+          "inflation" : 0.9,
+          "unemployment" : 16
+        },
+        {
+          "country" : "VIRG",
+          "gdp" : 1200,
+          "agriculture" : 1,
+          "service" : 80,
+          "industry" : 19,
+          "inflation" : 2.2,
+          "unemployment" : 6.2
+        },
+        {
+          "country" : "BVI",
+          "gdp" : 1095,
+          "agriculture" : 1.1,
+          "service" : 87.2,
+          "industry" : 11.7,
+          "inflation" : 1.6,
+          "unemployment" : 8.7
+        },
+        {
+          "country" : "AXA",
+          "gdp" : 175.4,
+          "agriculture" : 2.5,
+          "service" : 73.8,
+          "industry" : 23.6,
+          "inflation" : 3.1,
+          "unemployment" : 8
+        },
+        {
+          "country" : "SMAR",
+          "gdp" : 561.5,
+          "agriculture" : 1,
+          "service" : 84,
+          "industry" : 15,
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "SX",
+          "gdp" : 794.7,
+          "agriculture" : 0.4,
+          "service" : 81.3,
+          "industry" : 18.3,
+          "inflation" : 4,
+          "unemployment" : 12
+        },
+        {
+          "country" : "SBAR",
+          "gdp" : "",
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "KN",
+          "gdp" : 767,
+          "agriculture" : 1.8,
+          "service" : 75.1,
+          "industry" : 23.1,
+          "inflation" : 2.2,
+          "unemployment" : 4.5
+        },
+        {
+          "country" : "AG",
+          "gdp" : 1220,
+          "agriculture" : 2.2,
+          "service" : 81.4,
+          "industry" : 16.4,
+          "inflation" : 3,
+          "unemployment" : 11
+        },
+        {
+          "country" : "MNTS",
+          "gdp" : 29,
+          "agriculture" : 1.6,
+          "service" : 75.1,
+          "industry" : 23.2,
+          "inflation" : 4.5,
+          "unemployment" : 6
+        },
+        {
+          "country" : "GUAD",
+          "gdp" : 3700,
+          "agriculture" : 6,
+          "service" : 85,
+          "industry" : 9,
+          "inflation" : 3.7,
+          "unemployment" : ""
+        },
+        {
+          "country" : "WD",
+          "gdp" : 495,
+          "agriculture" : 15.7,
+          "service" : 68.7,
+          "industry" : 15.6,
+          "inflation" : 1.8,
+          "unemployment" : 23
+        },
+        {
+          "country" : "MART",
+          "gdp" : 3950,
+          "agriculture" : 6,
+          "service" : 83,
+          "industry" : 11,
+          "inflation" : 3.9,
+          "unemployment" : ""
+        },
+        {
+          "country" : "WL",
+          "gdp" : 1377,
+          "agriculture" : 3.1,
+          "service" : 79.5,
+          "industry" : 17.4,
+          "inflation" : 5.3,
+          "unemployment" : 20
+        },
+        {
+          "country" : "BDS",
+          "gdp" : 4262,
+          "agriculture" : 3.1,
+          "service" : 83,
+          "industry" : 13.9,
+          "inflation" : 2.1,
+          "unemployment" : 11.4
+        },
+        {
+          "country" : "WV",
+          "gdp" : 742,
+          "agriculture" : 5.4,
+          "service" : 74.4,
+          "industry" : 20.3,
+          "inflation" : 2.8,
+          "unemployment" : 18.8
+        },
+        {
+          "country" : "WG",
+          "gdp" : 811,
+          "agriculture" : 5.6,
+          "service" : 78.5,
+          "industry" : 15.8,
+          "inflation" : 2.4,
+          "unemployment" : 33.5
+        },
+        {
+          "country" : "TT",
+          "gdp" : 27130,
+          "agriculture" : 0.3,
+          "service" : 42,
+          "industry" : 57.7,
+          "inflation" : 5.4,
+          "unemployment" : 5.9
+        },
+        {
+          "country" : "NLB",
+          "gdp" : "",
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : "",
+          "unemployment" : ""
+        },
+        {
+          "country" : "CUR",
+          "gdp" : 5600,
+          "agriculture" : 0.7,
+          "service" : 83.8,
+          "industry" : 15.5,
+          "inflation" : 3.2,
+          "unemployment" : 13
+        },
+        {
+          "country" : "ARU",
+          "gdp" : 2516,
+          "agriculture" : 0.4,
+          "service" : 66.3,
+          "industry" : 33.3,
+          "inflation" : -2,
+          "unemployment" : 6.9
+        },
+        {
+          "country" : "YV",
+          "gdp" : 367500,
+          "agriculture" : 3.7,
+          "service" : 60.8,
+          "industry" : 35.5,
+          "inflation" : 56.2,
+          "unemployment" : 7.9
+        },
+        {
+          "country" : "GUY",
+          "gdp" : 3020,
+          "agriculture" : 20.7,
+          "service" : 40.8,
+          "industry" : 38.5,
+          "inflation" : 3.9,
+          "unemployment" : 11
+        },
+        {
+          "country" : "SME",
+          "gdp" : 5009,
+          "agriculture" : 8.9,
+          "service" : 54.5,
+          "industry" : 36.6,
+          "inflation" : 4.2,
+          "unemployment" : 9
+        },
+        {
+          "country" : "FGU",
+          "gdp" : 800,
+          "agriculture" : "",
+          "service" : "",
+          "industry" : "",
+          "inflation" : 2.5,
+          "unemployment" : ""
+        },
+        {
+          "country" : "CO",
+          "gdp" : 369200,
+          "agriculture" : 6.6,
+          "service" : 55.6,
+          "industry" : 37.8,
+          "inflation" : 2.2,
+          "unemployment" : 9.7
+        },
+        {
+          "country" : "EC",
+          "gdp" : 91410,
+          "agriculture" : 5.9,
+          "service" : 59,
+          "industry" : 35.1,
+          "inflation" : 2.6,
+          "unemployment" : 4.2
+        },
+        {
+          "country" : "PE",
+          "gdp" : 210300,
+          "agriculture" : 6.2,
+          "service" : 56.3,
+          "industry" : 37.5,
+          "inflation" : 2.9,
+          "unemployment" : 3.6
+        },
+        {
+          "country" : "BOL",
+          "gdp" : 30790,
+          "agriculture" : 9.2,
+          "service" : 52.3,
+          "industry" : 38.5,
+          "inflation" : 6.5,
+          "unemployment" : 7.4
+        },
+        {
+          "country" : "RCH",
+          "gdp" : 281700,
+          "agriculture" : 3.6,
+          "service" : 61,
+          "industry" : 35.4,
+          "inflation" : 1.7,
+          "unemployment" : 6
+        },
+        {
+          "country" : "RA",
+          "gdp" : 484600,
+          "agriculture" : 9.3,
+          "service" : 61,
+          "industry" : 29.7,
+          "inflation" : 20.8,
+          "unemployment" : 7.5
+        },
+        {
+          "country" : "PY",
+          "gdp" : 30560,
+          "agriculture" : 20.4,
+          "service" : 61.9,
+          "industry" : 17.7,
+          "inflation" : 2.3,
+          "unemployment" : 6.6
+        },
+        {
+          "country" : "ROU",
+          "gdp" : 57110,
+          "agriculture" : 7.5,
+          "service" : 71,
+          "industry" : 21.5,
+          "inflation" : 8.3,
+          "unemployment" : 6.5
+        },
+        {
+          "country" : "BR",
+          "gdp" : 2190000,
+          "agriculture" : 5.5,
+          "service" : 68.1,
+          "industry" : 26.4,
+          "inflation" : 6.2,
+          "unemployment" : 5.7
+        },
+        {
+          "country" : "FALK",
+          "gdp" : 164.5,
+          "agriculture" : 95,
+          "service" : "",
+          "industry" : "",
+          "inflation" : 1.2,
+          "unemployment" : 4.1
+        }
+      ]
+    }
+  ]
+}

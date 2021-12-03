@@ -1,0 +1,402 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "PROVINCE",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "COUNTRY",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "OTHERNAME",
+          "type" : "VARCHAR2"
+        }
+      ],
+      "items" : [
+        {
+          "province" : "Euskadi",
+          "country" : "E",
+          "othername" : "País Vasco"
+        },
+        {
+          "province" : "Catalunya",
+          "country" : "E",
+          "othername" : "Cataluña"
+        },
+        {
+          "province" : "Catalunya",
+          "country" : "E",
+          "othername" : "Catalonia"
+        },
+        {
+          "province" : "Fribourg",
+          "country" : "CH",
+          "othername" : "Freiburg"
+        },
+        {
+          "province" : "Genève",
+          "country" : "CH",
+          "othername" : "Genf"
+        },
+        {
+          "province" : "Neuchâtel",
+          "country" : "CH",
+          "othername" : "Neuenburg"
+        },
+        {
+          "province" : "Ticino",
+          "country" : "CH",
+          "othername" : "Tessin"
+        },
+        {
+          "province" : "Valais",
+          "country" : "CH",
+          "othername" : "Wallis"
+        },
+        {
+          "province" : "Vaud",
+          "country" : "CH",
+          "othername" : "Waadt"
+        },
+        {
+          "province" : "Sankt-Peterburg",
+          "country" : "R",
+          "othername" : "St. Peterburg"
+        },
+        {
+          "province" : "Sankt-Peterburg",
+          "country" : "R",
+          "othername" : "Sankt Petersburg"
+        },
+        {
+          "province" : "Sankt-Peterburg",
+          "country" : "R",
+          "othername" : "Saint Petersburg"
+        },
+        {
+          "province" : "Nizhnii Novgorodskaya",
+          "country" : "R",
+          "othername" : "Nizhny Novgorodskaya"
+        },
+        {
+          "province" : "Penzenskaya",
+          "country" : "R",
+          "othername" : "Penza"
+        },
+        {
+          "province" : "Samarskaya",
+          "country" : "R",
+          "othername" : "Samara"
+        },
+        {
+          "province" : "Saratovskaya",
+          "country" : "R",
+          "othername" : "Saratov"
+        },
+        {
+          "province" : "Permskij",
+          "country" : "R",
+          "othername" : "Permskiy"
+        },
+        {
+          "province" : "Sakha",
+          "country" : "R",
+          "othername" : "Jakutiya"
+        },
+        {
+          "province" : "Liège",
+          "country" : "B",
+          "othername" : "Luik"
+        },
+        {
+          "province" : "Santarem",
+          "country" : "P",
+          "othername" : "Santarém"
+        },
+        {
+          "province" : "Afyonkarahisar",
+          "country" : "TR",
+          "othername" : "Afyon"
+        },
+        {
+          "province" : "Yerushalayim",
+          "country" : "IL",
+          "othername" : "Jerusalem"
+        },
+        {
+          "province" : "Al Qunaytirah",
+          "country" : "SYR",
+          "othername" : "Quneitra"
+        },
+        {
+          "province" : "Dayr az Zawr",
+          "country" : "SYR",
+          "othername" : "Deir ez-Zor"
+        },
+        {
+          "province" : "Dimashq",
+          "country" : "SYR",
+          "othername" : "Damascus"
+        },
+        {
+          "province" : "Hamah",
+          "country" : "SYR",
+          "othername" : "Hama"
+        },
+        {
+          "province" : "Hims",
+          "country" : "SYR",
+          "othername" : "Homs"
+        },
+        {
+          "province" : "Al-Baha",
+          "country" : "SA",
+          "othername" : "Al Bahah"
+        },
+        {
+          "province" : "Jazan",
+          "country" : "SA",
+          "othername" : "Jizan"
+        },
+        {
+          "province" : "Tabouk",
+          "country" : "SA",
+          "othername" : "Tabuk"
+        },
+        {
+          "province" : "Basrah",
+          "country" : "IRQ",
+          "othername" : "Basra"
+        },
+        {
+          "province" : "Kerbela",
+          "country" : "IRQ",
+          "othername" : "Karbala"
+        },
+        {
+          "province" : "al-Qadisiya",
+          "country" : "IRQ",
+          "othername" : "Al-Qādisiyyah"
+        },
+        {
+          "province" : "Duhouk",
+          "country" : "IRQ",
+          "othername" : "Dahuk"
+        },
+        {
+          "province" : "Kohgiluyeh and Boyer-Ahmad",
+          "country" : "IR",
+          "othername" : "Kohkiluyeh va Boyer Ahmad"
+        },
+        {
+          "province" : "Esfahan",
+          "country" : "IR",
+          "othername" : "Isfahan"
+        },
+        {
+          "province" : "Gilan",
+          "country" : "IR",
+          "othername" : "Gillan"
+        },
+        {
+          "province" : "Hamedan",
+          "country" : "IR",
+          "othername" : "Hamadan"
+        },
+        {
+          "province" : "Kurdestan",
+          "country" : "IR",
+          "othername" : "Kordestan"
+        },
+        {
+          "province" : "Buxoro",
+          "country" : "UZ",
+          "othername" : "Bukhara"
+        },
+        {
+          "province" : "Fargʻona",
+          "country" : "UZ",
+          "othername" : "Fergana"
+        },
+        {
+          "province" : "Samarqand",
+          "country" : "UZ",
+          "othername" : "Samarkand"
+        },
+        {
+          "province" : "Surkhandarya",
+          "country" : "UZ",
+          "othername" : "Surxondaryo"
+        },
+        {
+          "province" : "Toshkent",
+          "country" : "UZ",
+          "othername" : "Tashkent"
+        },
+        {
+          "province" : "Toshkent City",
+          "country" : "UZ",
+          "othername" : "Tashkent City"
+        },
+        {
+          "province" : "Akmola",
+          "country" : "KZ",
+          "othername" : "Aqmola"
+        },
+        {
+          "province" : "Karaganda",
+          "country" : "KZ",
+          "othername" : "Karagandy"
+        },
+        {
+          "province" : "Kostanai",
+          "country" : "KZ",
+          "othername" : "Kustanay"
+        },
+        {
+          "province" : "Kostanai",
+          "country" : "KZ",
+          "othername" : "Kostanay"
+        },
+        {
+          "province" : "Magwe",
+          "country" : "MYA",
+          "othername" : "Magway"
+        },
+        {
+          "province" : "Yangon",
+          "country" : "MYA",
+          "othername" : "Rangoon"
+        },
+        {
+          "province" : "Rakhine",
+          "country" : "MYA",
+          "othername" : "Arakan"
+        },
+        {
+          "province" : "Gumma",
+          "country" : "J",
+          "othername" : "Gunma"
+        },
+        {
+          "province" : "Al-Baḥr al-Aḥmar",
+          "country" : "SUD",
+          "othername" : "Red Sea"
+        },
+        {
+          "province" : "Al-Jazīrah",
+          "country" : "SUD",
+          "othername" : "Al Gezira"
+        },
+        {
+          "province" : "Al-Kharṭūm",
+          "country" : "SUD",
+          "othername" : "Khartoum"
+        },
+        {
+          "province" : "Al-Qaḍārif",
+          "country" : "SUD",
+          "othername" : "Gadaref"
+        },
+        {
+          "province" : "An-Nīl al-Abyaḍ",
+          "country" : "SUD",
+          "othername" : "White Nile"
+        },
+        {
+          "province" : "An-Nīl al-Azraq",
+          "country" : "SUD",
+          "othername" : "Blue Nile"
+        },
+        {
+          "province" : "Ash-Shamālīyah",
+          "country" : "SUD",
+          "othername" : "Northern"
+        },
+        {
+          "province" : "Gharb al-Dārfūr",
+          "country" : "SUD",
+          "othername" : "West Darfur"
+        },
+        {
+          "province" : "Gharb Kurdufān",
+          "country" : "SUD",
+          "othername" : "West Kordofan"
+        },
+        {
+          "province" : "Janūb Dārfūr",
+          "country" : "SUD",
+          "othername" : "South Darfur"
+        },
+        {
+          "province" : "Janūb Kurdufān",
+          "country" : "SUD",
+          "othername" : "South Kordofan"
+        },
+        {
+          "province" : "Nahr an-Nīl",
+          "country" : "SUD",
+          "othername" : "River Nile"
+        },
+        {
+          "province" : "Sannār",
+          "country" : "SUD",
+          "othername" : "Sennar"
+        },
+        {
+          "province" : "Shamāl Dārfūr",
+          "country" : "SUD",
+          "othername" : "North Darfur"
+        },
+        {
+          "province" : "Shamāl Kurdufān",
+          "country" : "SUD",
+          "othername" : "North Kordofan"
+        },
+        {
+          "province" : "Sharq Dārfūr",
+          "country" : "SUD",
+          "othername" : "East Darfur"
+        },
+        {
+          "province" : "Wasaṭ Dārfūr",
+          "country" : "SUD",
+          "othername" : "Central Darfur"
+        },
+        {
+          "province" : "Kongo Central",
+          "country" : "CGO",
+          "othername" : "Bas-Congo"
+        },
+        {
+          "province" : "Afar",
+          "country" : "ETH",
+          "othername" : "Affar"
+        },
+        {
+          "province" : "Gambella",
+          "country" : "ETH",
+          "othername" : "Gambela"
+        },
+        {
+          "province" : "Durango",
+          "country" : "MEX",
+          "othername" : "Victoria de Durango"
+        },
+        {
+          "province" : "México, Estado de",
+          "country" : "MEX",
+          "othername" : "Estado de Mexico"
+        },
+        {
+          "province" : "San Andrés, Providencia y Santa Catalina",
+          "country" : "CO",
+          "othername" : "San Andres y Providencia"
+        }
+      ]
+    }
+  ]
+}
